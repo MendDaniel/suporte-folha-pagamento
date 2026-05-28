@@ -12,18 +12,18 @@
       color: #ffffff !important;
     }
 
-    /* CONFIGURAÇÃO DA IMAGEM DE FUNDO FIXA E SUAVE NO SITE INTEIRO */
+    /* CONFIGURAÇÃO DA IMAGEM DE FUNDO FIXA E AINDA MAIS SUAVE (93% ESCURA) */
     body {
-      background-image: linear-gradient(rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.85)), url('ResultaUmuarama.png') !important;
-      background-attachment: fixed !important; /* Mantém o fundo preso ao rolar a página */
-      background-size: cover !important;       /* Estica a foto para cobrir toda a tela */
-      background-position: center !important;   /* Centraliza a imagem */
+      background-image: linear-gradient(rgba(0, 0, 0, 0.93), rgba(0, 0, 0, 0.93)), url('ResultaUmuarama.png') !important;
+      background-attachment: fixed !important;
+      background-size: cover !important;
+      background-position: center !important;
     }
 
-    /* FAZ A BARRA LATERAL FICAR 100% TRANSPARENTE PARA MOSTRAR O FUNDO DO CENTRO */
+    /* FAZ A BARRA LATERAL FICAR 100% TRANSPARENTE */
     .sidebar {
-      background-color: transparent !important; /* Remove o fundo preto da barra */
-      border-right: none !important;            /* Remove a linha vertical divisória */
+      background-color: transparent !important;
+      border-right: none !important;
     }
 
     /* TÍTULO DO SITE NA BARRA LATERAL */
@@ -35,26 +35,26 @@
     /* CONFIGURAÇÃO PADRÃO DOS BOTÕES GRANDES */
     .sidebar-nav ul li a {
       display: block !important;
-      background-color: rgba(26, 26, 26, 0.7) !important; /* Fundo semi-transparente */
-      color: #e5e7eb !important;            /* Texto claro */
-      padding: 14px 20px !important;        /* Tamanho grande */
-      margin-bottom: 10px !important;       /* Espaço entre eles */
-      border-radius: 8px !important;        /* Cantos arredondados */
-      font-weight: bold !important;         /* Negrito */
+      background-color: rgba(26, 26, 26, 0.7) !important;
+      color: #e5e7eb !important;
+      padding: 14px 20px !important;
+      margin-bottom: 10px !important;
+      border-radius: 8px !important;
+      font-weight: bold !important;
       text-decoration: none !important;
-      border: 1px solid rgba(255, 255, 255, 0.15) !important; /* Borda sutil */
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3) !important;     /* Sombra leve */
+      border: 1px solid rgba(255, 255, 255, 0.15) !important;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3) !important;
       transition: all 0.2s ease;
     }
 
     /* REGRA QUE FAZ O BOTÃO SELECIONADO ATUAL FICAR LARANJA AUTOMATICAMENTE */
     .sidebar-nav ul li.active > a {
-      background-color: #e65124 !important; /* Fundo Laranja oficial */
-      color: white !important;              /* Texto Branco */
+      background-color: #e65124 !important;
+      color: white !important;
       border-color: #c2410c !important;
     }
 
-    /* EFEITO DE BRILHO APENAS QUANDO PASSA O MOUSE POR CIMA DOS OUTROS BOTÕES */
+    /* EFEITO DE BRILHO AO PASSAR O MOUSE */
     .sidebar-nav ul li a:hover {
       filter: brightness(1.3);
       background-color: rgba(26, 26, 26, 0.9) !important;
