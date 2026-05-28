@@ -2,6 +2,7 @@
 <h1>Bem vindo(a) a EQUIPE <span style="color: #e65124 !important;">RES</span><span style="color: #9ca3af !important;">ULTA SOLUÇÕES</span>.</h1>
 </div>
 
+<!-- CAIXA DO TEXTO: SEPARADA, GIGANTE (40PX) E JUSTIFICADA -->
 <!-- TEXTO DE BAIXO TOTALMENTE AJUSTADO, GRANDE E JUSTIFICADO -->
 <div style="font-size: 18px; line-height: 1.6; max-width: 800px; text-align: justify !important; margin: 0 auto;">
 
