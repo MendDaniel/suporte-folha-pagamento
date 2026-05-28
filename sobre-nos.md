@@ -25,8 +25,8 @@ Atuando desde 1998 em parceria com as Soluções Domínio, a Resulta Soluções 
 <p>Hoje a empresa temos 3 unidades sendo elas em:</p>
 
 <p align="center" style="margin: 30px 0 !important;">
-  <span style="display: inline-block !important; background-color: #e65124 !important; padding: 12px 25px !important; margin: 0 10px !important; border-radius: 8px !important; font-weight: bold !important; color: #ffffff !important; box-shadow: 0 4px 6px rgba(0,0,0,0.4) !important;">Pato Branco</span>
   <span style="display: inline-block !important; background-color: #e65124 !important; padding: 12px 25px !important; margin: 0 10px !important; border-radius: 8px !important; font-weight: bold !important; color: #ffffff !important; box-shadow: 0 4px 6px rgba(0,0,0,0.4) !important;">Cascavel</span>
+  <span style="display: inline-block !important; background-color: #e65124 !important; padding: 12px 25px !important; margin: 0 10px !important; border-radius: 8px !important; font-weight: bold !important; color: #ffffff !important; box-shadow: 0 4px 6px rgba(0,0,0,0.4) !important;">Pato Branco</span>
   <span style="display: inline-block !important; background-color: #e65124 !important; padding: 12px 25px !important; margin: 0 10px !important; border-radius: 8px !important; font-weight: bold !important; color: #ffffff !important; box-shadow: 0 4px 6px rgba(0,0,0,0.4) !important;">Umuarama</span>
 </p>
 
