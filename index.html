@@ -4,29 +4,28 @@
   <meta charset="UTF-8">
   <title>Suporte Folha de Pagamento</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!-- TEMA CLARO E LIMPO OFICIAL -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   
   <style>
     /* DESIGN DOS BOTÕES LATERAIS (VERSÃO LIGHT) */
     .sidebar-nav ul li a {
       display: block !important;
-      background-color: #ffffff !important; /* Fundo branco para os botões */
-      color: #374151 !important;            /* Texto cinza escuro */
-      padding: 12px 18px !important;        /* Tamanho confortável */
-      margin-bottom: 8px !important;        /* Espaço entre eles */
-      border-radius: 6px !important;        /* Cantos arredondados */
-      font-weight: 600 !important;          /* Texto semi-negrito */
+      background-color: #ffffff !important;
+      color: #374151 !important;
+      padding: 12px 18px !important;
+      margin-bottom: 8px !important;
+      border-radius: 6px !important;
+      font-weight: 600 !important;
       text-decoration: none !important;
-      border: 1px solid #e5e7eb !important; /* Bordinha bem sutil */
-      box-shadow: 0 1px 3px rgba(0,0,0,0.05) !important; /* Sombra quase invisível */
+      border: 1px solid #e5e7eb !important;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05) !important;
       transition: all 0.2s ease;
     }
 
     /* BOTÃO DA PÁGINA ATIVA (FICA LARANJA) */
     .sidebar-nav ul li.active > a {
-      background-color: #e65124 !important; /* Laranja Resulta */
-      color: #ffffff !important;            /* Texto Branco */
+      background-color: #e65124 !important;
+      color: #ffffff !important;
       border-color: #e65124 !important;
     }
 
@@ -44,10 +43,16 @@
       font-size: 18px !important;
     }
 
-    /* AJUSTES GERAIS DE LEITURA DO TEXTO CENTRAL */
-    .markdown-section {
-      max-width: 850px !important; /* Largura ideal para não cansar os olhos */
-      padding: 30px 40px !important;
+    /* 🛠️ AJUSTE PARA OCUPAR TODO O ESPAÇO EM BRANCO DA TELA */
+    .content, .markdown-section {
+      max-width: 100% !important; /* Estica o conteúdo até as bordas */
+      padding: 30px 40px !important; /* Mantém apenas um respiro confortável nas laterais */
+    }
+
+    /* Força imagens grandes a preencherem bem o espaço sem estourar a tela */
+    .markdown-section img {
+      max-width: 100% !important;
+      height: auto !important;
     }
   </style>
 </head>
