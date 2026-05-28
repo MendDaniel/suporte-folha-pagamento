@@ -20,32 +20,44 @@
       background-position: center !important;   /* Centraliza a imagem */
     }
 
-    /* Ajuste para o fundo da barra lateral acompanhar a suavidade */
+    /* FAZ A BARRA LATERAL FICAR 100% TRANSPARENTE PARA MOSTRAR O FUNDO DO CENTRO */
     .sidebar {
-      background-color: rgba(28, 28, 28, 0.95) !important;
-      border-right: 1px solid rgba(255, 255, 255, 0.1) !important;
+      background-color: transparent !important; /* Remove o fundo preto da barra */
+      border-right: none !important;            /* Remove a linha vertical divisória */
     }
 
-    /* SEU CÓDIGO ANTERIOR DOS BOTÕES GRANDES */
+    /* TÍTULO DO SITE NA BARRA LATERAL */
+    .sidebar .app-name-link {
+      color: #ffffff !important;
+      font-weight: bold !important;
+    }
+
+    /* CONFIGURAÇÃO DOS BOTÕES GRANDES E LEVEMENTE RESSALTADOS */
     .sidebar-nav ul li a {
       display: block !important;
-      background-color: #1a1a1a !important;
-      color: #e5e7eb !important;
-      padding: 14px 20px !important;
-      margin-bottom: 10px !important;
-      border-radius: 8px !important;
-      font-weight: bold !important;
+      background-color: rgba(26, 26, 26, 0.7) !important; /* Fundo semi-transparente para o botão flutuar */
+      color: #e5e7eb !important;            /* Texto claro */
+      padding: 14px 20px !important;        /* Tamanho grande */
+      margin-bottom: 10px !important;       /* Espaço entre eles */
+      border-radius: 8px !important;        /* Cantos arredondados */
+      font-weight: bold !important;         /* Negrito */
       text-decoration: none !important;
-      border: 1px solid #374151 !important;
+      border: 1px solid rgba(255, 255, 255, 0.15) !important; /* Borda bem sutil para dar o relevo */
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3) !important;     /* Sombra leve para ressaltar o botão */
       transition: all 0.2s ease;
     }
+
+    /* CONFIGURAÇÃO DO PRIMEIRO BOTÃO (LARANJA RESULTA) */
     .sidebar-nav ul li:first-child a {
-      background-color: #e65124 !important;
-      color: white !important;
+      background-color: #e65124 !important; /* Fundo Laranja */
+      color: white !important;              /* Texto Branco */
       border-color: #c2410c !important;
     }
+
+    /* EFEITO QUANDO PASSA O MOUSE NOS OUTROS BOTÕES */
     .sidebar-nav ul li a:hover, .sidebar-nav ul li.active > a {
-      filter: brightness(1.2);
+      filter: brightness(1.3);
+      background-color: rgba(26, 26, 26, 0.9) !important; /* Escurece ligeiramente ao focar */
     }
   </style>
 </head>
