@@ -1,3 +1,2 @@
 * [🏠 Início](README.md)
-* [Orientação - Cadastro SS](README.md)
-  
+* [📋 Como Cadastrar SS](README.md)
