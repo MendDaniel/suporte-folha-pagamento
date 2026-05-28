@@ -5,7 +5,7 @@
 <!-- TEXTO DE BAIXO TOTALMENTE AJUSTADO, GRANDE E JUSTIFICADO -->
 <div style="font-size: 18px; line-height: 1.6; max-width: 800px; text-align: justify !important; margin: 0 auto;">
 
-Estamos felizes por você fazer parte do nosso time e com muita expectativa para o que juntos vamos viver, crescer e aprender somando um na vida do outro e unidos somando juntos com a empresa.
+<h1>Estamos felizes por você fazer parte do nosso time e com muita expectativa para o que juntos vamos viver, crescer e aprender somando um na vida do outro e unidos somando juntos com a empresa.</h1>
 
 </div>
 
