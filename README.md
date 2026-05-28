@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Bem vindo(a) somos a <span style="color: #e65124 !important;">Resulta</span> <span style="color: #9ca3af !important;">Soluções</span>.</h1>
+<h1>Bem vindo(a) somos a <span style="color: #e65124 !important;">Res</span><span style="color: #9ca3af !important;">ulta Soluções</span>.</h1>
 
 <img src="ResultaUmuarama.png" alt="ResultaUmuarama" width="1000">
 <p style="font-size: 14px; color: #9ca3af; margin-top: 5px; margin-bottom: 30px;">Sede - Umuarama</p>
