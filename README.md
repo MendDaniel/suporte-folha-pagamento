@@ -19,7 +19,8 @@ Queremos que esta nossa parceria dure muitos anos e que seja boa para ambas as p
 <br><br>
 Atuando desde 1998 em parceria com as Soluções Domínio, a Resulta Soluções atende Empresas de Contabilidade e Advocacia, Instituições de Ensino e Órgão Público em toda a região Oeste do Estado do Paraná, com unidades de negócio nas cidades de Cascavel, Pato Branco e Umuarama. Com uma equipe especializada, fornecemos serviços de consultoria, treinamento presencial e à distância, implantações assistidas e na unidade realizamos cerca de 5.000 atendimentos mensais. <br><br>
 <p>O foco do sistema é atender escritórios de contabilidade e empresas que fazem contabilidade interna, atendendo principalmente a rotina de:</p>
- <div align="center"><p>-> <b span style="color: #e65124 !important;">Cálculo da Folha de Pagamento</b></span></p>
-<p>-> Escrituração Fiscal</p>
-<p>-> Contabilidade Fiscal</p></div>
+<p><span style="color: #e65124 !important;">&#10004;</span> <b style="color: #e65124 !important;">Cálculo da Folha de Pagamento</b></p>
+<p><span style="color: #ffffff !important;">&#10004;</span> Escrituração Fiscal</p>
+<p><span style="color: #ffffff !important;">&#10004;</span> Contabilidade Fiscal</p>
+
 </div>
