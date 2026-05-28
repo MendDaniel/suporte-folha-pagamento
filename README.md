@@ -1,10 +1,8 @@
-<div align="center">
+<div align="center" style="max-width: 1000px; margin: 0 auto; padding-top: 50px;">
 
-<!-- TÍTULO GIGANTE -->
-<h1 style="font-size: 65px !important; margin-bottom: 40px;">Bem vindo(a) a EQUIPE <span style="color: #e65124 !important;">RES</span><span style="color: #9ca3af !important;">ULTA SOLUÇÕES</span>.</h1>
+<h1>Bem vindo(a) a EQUIPE <span style="color: #e65124 !important;">RES</span><span style="color: #9ca3af !important;">ULTA SOLUÇÕES</span>.</h1>
 
-<!-- TEXTO GIGANTE QUE TOMA A TELA TODA (MAX-WIDTH: 100%) -->
-<p style="font-size: 45px !important; line-height: 1.5; max-width: 100% !important; text-align: justify !important; margin: 0 auto; padding: 0 40px;">
+<p style="font-size: 24px; line-height: 1.6; color: #374151 !important; text-align: center !important; max-width: 800px; margin: 20px auto 0 auto;">
 Estamos felizes por você fazer parte do nosso time e com muita expectativa para o que juntos vamos viver, crescer e aprender somando um na vida do outro e unidos somando juntos com a empresa.
 </p>
 
