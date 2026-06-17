@@ -39,25 +39,21 @@
   </style>
 </head>
 <body>
-  <div id="app"></div>
+  <div id="app">Carregando...</div>
   
   <script>
     window.$docsify = {
       name: 'Suporte Folha',
       loadSidebar: true,
-      subMaxLevel: 2,
-      // Garante que o menu mantenha o estado de aberto ao navegar
-      sidebarDisplayLevel: 1 
-    }
-  <script>
-    window.$docsify = {
-      name: 'Suporte Folha',
-      loadSidebar: true,
       subMaxLevel: 3,
-      // Configurações do plugin sidebar-collapse
-      sidebarDisplayLevel: 0, // 0 = tudo fechado inicialmente
-      autoCollapse: true     // Fecha os outros menus ao abrir um novo
+      // Configurações do plugin
+      sidebarDisplayLevel: 0, 
+      autoCollapse: true
     }
   </script>
+  
+  <!-- Scripts necessários -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 </body>
 </html>
