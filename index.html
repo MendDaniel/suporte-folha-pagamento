@@ -17,14 +17,6 @@
       border-radius: 6px !important;
       border: 1px solid #e5e7eb !important;
       text-decoration: none !important;
-      /* Remove o padding padrão da seção de conteúdo para esta página específica */
-.markdown-section {
-  padding: 0 !important;
-  max-width: 100% !important;
-}
-
-/* Opcional: esconde o menu lateral se você quiser que a capa ocupe 100% */
-/* body.ready .sidebar { display: none; } */
     }
 
     .sidebar-nav ul li.active > a {
@@ -43,6 +35,12 @@
       display: block !important;
       padding-left: 15px !important;
     }
+
+    /* CSS Global corrigido */
+    .markdown-section {
+      padding: 30px 40px !important;
+      max-width: 100% !important;
+    }
   </style>
 </head>
 <body>
@@ -52,20 +50,13 @@
     window.$docsify = {
       name: 'Suporte Folha',
       loadSidebar: true,
-      subMaxLevel: 2,
+      subMaxLevel: 3,
       sidebarDisplayLevel: 0, 
       autoCollapse: true,
-      // Mudar o modo de roteamento resolve erros de 403/404 em servidores estáticos
-      routerMode: 'hash' 
-    }
-  </script>
-    }
-  </script>
-      }
+      routerMode: 'hash'
     }
   </script>
   
-  <!-- O Script do plugin deve vir ANTES do docsify principal ou configurado corretamente -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 </body>
