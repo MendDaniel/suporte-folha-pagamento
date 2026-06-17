@@ -1,4 +1,4 @@
-<h1><span style="color: #e65124 !important;">FUNÇÕES</span>.</h1>
+<h1><span style="color: #e65124 !important;">FUNÇÕES</span></h1>
 
 Temos hoje 3 modalidades de atendimento sendo: 
 
