@@ -1,4 +1,5 @@
 * [Bem Vindo(a)](seja-bem-vindo)
 * [Sobre Nós](sobre-nos)
-* [Como Cadastrar SS](ComoCadastrarSS.md)
+* [Processo do suporte]
+    * [Como Cadastrar SS](ComoCadastrarSS.md)
   
