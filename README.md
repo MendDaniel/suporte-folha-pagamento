@@ -9,8 +9,4 @@
     Bem vindo(a) a equipe de suporte.
   </h2>
 
-  <p style="font-size: 2.5rem; line-height: 1.4; width: 100%; color: #374151; margin: 0; padding: 0;">
-    Estamos felizes por você fazer parte do nosso time e com muita expectativa para o que juntos vamos viver, crescer e aprender somando um na vida do outro e unidos somando juntos com a empresa.
-  </p>
-
 </div>
