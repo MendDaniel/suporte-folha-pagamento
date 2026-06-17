@@ -2,7 +2,7 @@
 
   <h1 style="font-size: 3.5rem; color: #111827; margin-bottom: 30px;">CONHECENDO O SGD</h1>
 
-  <p style="font-size: 1.5rem; color: #374151; line-height: 1.6; max-width: 800px;">
+  <p style="font-size: 1.5rem; color: #374151; max-width: 800px;">
     O SGD é o nosso ambiente de trabalho, é um site da Domínio onde registramos todos os atendimentos telefônicos que recebemos e também recebemos os atendimentos registrados pelo cliente para que possamos dar o devido retorno em tempo hábil.
   </p>
 
