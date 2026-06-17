@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   
   <style>
-    /* DESIGN DOS BOTÕES LATERAIS */
+    /* Estilo dos botões */
     .sidebar-nav ul li a {
       display: block !important;
       background-color: #ffffff !important;
@@ -18,64 +18,46 @@
       font-weight: 600 !important;
       text-decoration: none !important;
       border: 1px solid #e5e7eb !important;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.05) !important;
       transition: all 0.2s ease;
     }
 
-    /* BOTÃO DA PÁGINA ATIVA */
     .sidebar-nav ul li.active > a {
       background-color: #e65124 !important;
       color: #ffffff !important;
       border-color: #e65124 !important;
     }
 
-    /* SUBMENUS: Inicialmente escondidos */
+    /* Força os submenus a ficarem escondidos até o clique */
     .sidebar-nav ul li ul {
       display: none !important;
-      padding-left: 15px !important;
-      margin-top: -5px !important;
     }
 
-    /* SUBMENUS: Aparecem quando o item pai está ativo ou expandido */
-    .sidebar-nav ul li.active > ul,
-    .sidebar-nav ul li.collapse > ul {
+    /* Mostra o submenu apenas quando tem a classe 'open' (adicionada pelo plugin) */
+    .sidebar-nav ul li.open > ul {
       display: block !important;
+      padding-left: 15px !important;
     }
 
-    /* Estilo para os sub-botões */
     .sidebar-nav ul ul li a {
       background-color: #f9fafb !important;
-      border: 1px solid #d1d5db !important;
       font-size: 0.9em !important;
-      padding: 8px 14px !important;
-    }
-
-    /* Ajuste de layout */
-    .content, .markdown-section {
-      max-width: 100% !important;
-      padding: 30px 40px !important;
-    }
-
-    .markdown-section img {
-      max-width: 100% !important;
-      height: auto !important;
     }
   </style>
 </head>
 <body>
-  <div id="app">Carregando documentação...</div>
+  <div id="app">Carregando...</div>
   
   <script>
     window.$docsify = {
       name: 'Suporte Folha',
       loadSidebar: true,
-      subMaxLevel: 2
+      subMaxLevel: 3,
+      // Esta opção evita que o menu feche sozinho ao navegar
+      sidebarDisplayLevel: 0 
     }
   </script>
   
-  <!-- Core Docsify -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-  <!-- Plugin para o efeito de colapso do menu -->
   <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 </body>
 </html>
