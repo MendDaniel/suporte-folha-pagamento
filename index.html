@@ -19,7 +19,6 @@
       text-decoration: none !important;
     }
 
-    /* Estilo de seleção ativa */
     .sidebar-nav ul li.active > a {
       background-color: #e65124 !important;
       color: #ffffff !important;
@@ -46,13 +45,16 @@
       name: 'Suporte Folha',
       loadSidebar: true,
       subMaxLevel: 2,
-      // Configurações do plugin
-      sidebarDisplayLevel: 0, 
-      autoCollapse: true
+      sidebarDisplayLevel: 0,
+      autoCollapse: true,
+      // Garante que o docsify busque o arquivo na raiz
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      }
     }
   </script>
   
-  <!-- Scripts necessários -->
+  <!-- O Script do plugin deve vir ANTES do docsify principal ou configurado corretamente -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 </body>
