@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 10vh; font-family: sans-serif; font-weight: 800;">
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 90vh; font-family: sans-serif; font-weight: 800;">
    <div style="display: flex; justify-content: center; align-items: center; height: 70vh; font-family: sans-serif; font-weight: 800;">
     <h1 style="font-size: 8rem; margin: 0; letter-spacing: -2px; color: #71717a; white-space: nowrap;">
     <span style="color: #e65124;">RES</span>ULTA 
