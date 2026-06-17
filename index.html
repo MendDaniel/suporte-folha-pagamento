@@ -53,11 +53,12 @@
       name: 'Suporte Folha',
       loadSidebar: true,
       subMaxLevel: 2,
-      sidebarDisplayLevel: 0,
+      sidebarDisplayLevel: 0, 
       autoCollapse: true,
-      // Garante que o docsify busque o arquivo na raiz
-      alias: {
-        '/.*/_sidebar.md': '/_sidebar.md'
+      // Esta opção impede erros ao clicar em itens que não são links reais
+      relativePath: false 
+    }
+  </script>
       }
     }
   </script>
