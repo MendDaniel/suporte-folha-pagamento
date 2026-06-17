@@ -1,4 +1,6 @@
-<h4><CENTER><span style="color: #e65124 !important;">FERRAMENTAS</span></CENTER></h4>
+<h1 style="font-size: 8rem; margin: 0; letter-spacing: -2px; color: #71717a;">
+    <span style="color: #e65124;">FERRAMENTAS</span>
+  </h1>
 
 Nossas FERRAMENTAS de trabalho são programas online como: 
 
