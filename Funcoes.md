@@ -1,3 +1,5 @@
+FUNÇÕES
+
 Temos hoje 3 modalidades de atendimento sendo: 
 
 1º - Atendimento Telefônico: 
