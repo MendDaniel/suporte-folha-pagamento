@@ -1,4 +1,4 @@
-<h1>Somos a <span style="color: #e65124 !important;">HORÁRIOS DE TRABALHO</span>.</h1>
+<h1><span style="color: #e65124 !important;">HORÁRIOS DE TRABALHO</span>.</h1>
 
 Nossa jornada de trabalho hoje é composta por uma carga horária diária de 06h20. Nossos horários de trabalho é: 
 
