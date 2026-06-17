@@ -5,7 +5,7 @@
     * [Funções](/Funcoes.md)
     * [Ferramenta de Trabalho](/FerramentaTrabalho.md)
 * [Treinamentos](#)
-    * [Conhecendo o SGD](/ConhecendooSGD.md)
+    * [Conhecendo o SGD](/ConhecendoSGD.md)
     * [Práticas Departamento Pessoal](/departamentopessoal.md)
     * [Treinamentos Sistema](/treinamentosistema.md)
     * [eSocial e seus eventos](/eSocial.md)
