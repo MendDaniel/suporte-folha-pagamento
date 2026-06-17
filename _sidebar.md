@@ -15,7 +15,7 @@
     * [Expert eSocial](/experteSocial.md)
     * [FGTS Digital](/fgtsdigital.md)
     * [Crédito do Trabalhador](/creditotrabalhador.md)
-* [FUNÇÕES DO DEPARTAMENTO DA FOLHA](/)
+* [Funções do Departamento da Folha](/)
     * [Regra de atendimento](/RegrasAtendimento.md)
     * [Informações Básicas Suporte](/Informaçõesbasicas.md)
     * [Textos Padrões](/TextosPadrões.md)
