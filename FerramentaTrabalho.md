@@ -1,4 +1,4 @@
-<h4><CENTER><span style="color: #e65124 !important;">FERRAMENTAS</span></CENTER>center></h4>
+<h4><CENTER><span style="color: #e65124 !important;">FERRAMENTAS</span></CENTER></h4>
 
 Nossas FERRAMENTAS de trabalho são programas online como: 
 
