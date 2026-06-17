@@ -55,8 +55,10 @@
       subMaxLevel: 2,
       sidebarDisplayLevel: 0, 
       autoCollapse: true,
-      // Esta opção impede erros ao clicar em itens que não são links reais
-      relativePath: false 
+      // Mudar o modo de roteamento resolve erros de 403/404 em servidores estáticos
+      routerMode: 'hash' 
+    }
+  </script>
     }
   </script>
       }
