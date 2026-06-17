@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   
   <style>
-    /* DESIGN DOS BOTÕES LATERAIS (VERSÃO LIGHT) */
+    /* DESIGN DOS BOTÕES LATERAIS */
     .sidebar-nav ul li a {
       display: block !important;
       background-color: #ffffff !important;
@@ -22,34 +22,40 @@
       transition: all 0.2s ease;
     }
 
-    /* BOTÃO DA PÁGINA ATIVA (FICA LARANJA) */
+    /* BOTÃO DA PÁGINA ATIVA */
     .sidebar-nav ul li.active > a {
       background-color: #e65124 !important;
       color: #ffffff !important;
       border-color: #e65124 !important;
     }
 
-    /* QUANDO PASSA O MOUSE NOS BOTÕES DESATIVADOS */
-    .sidebar-nav ul li a:hover:not(.active) {
+    /* SUBMENUS: Inicialmente escondidos */
+    .sidebar-nav ul li ul {
+      display: none !important;
+      padding-left: 15px !important;
+      margin-top: -5px !important;
+    }
+
+    /* SUBMENUS: Aparecem quando o item pai está ativo ou expandido */
+    .sidebar-nav ul li.active > ul,
+    .sidebar-nav ul li.collapse > ul {
+      display: block !important;
+    }
+
+    /* Estilo para os sub-botões */
+    .sidebar-nav ul ul li a {
       background-color: #f9fafb !important;
-      border-color: #d1d5db !important;
-      color: #111827 !important;
+      border: 1px solid #d1d5db !important;
+      font-size: 0.9em !important;
+      padding: 8px 14px !important;
     }
 
-    /* NOME DO APP NO TOPO DA BARRA LATERAL */
-    .sidebar .app-name-link {
-      color: #111827 !important;
-      font-weight: 700 !important;
-      font-size: 18px !important;
-    }
-
-    /* 🛠️ AJUSTE PARA OCUPAR TODO O ESPAÇO EM BRANCO DA TELA */
+    /* Ajuste de layout */
     .content, .markdown-section {
-      max-width: 100% !important; /* Estica o conteúdo até as bordas */
-      padding: 30px 40px !important; /* Mantém apenas um respiro confortável nas laterais */
+      max-width: 100% !important;
+      padding: 30px 40px !important;
     }
 
-    /* Força imagens grandes a preencherem bem o espaço sem estourar a tela */
     .markdown-section img {
       max-width: 100% !important;
       height: auto !important;
@@ -58,6 +64,7 @@
 </head>
 <body>
   <div id="app">Carregando documentação...</div>
+  
   <script>
     window.$docsify = {
       name: 'Suporte Folha',
@@ -65,6 +72,10 @@
       subMaxLevel: 3
     }
   </script>
+  
+  <!-- Core Docsify -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- Plugin para o efeito de colapso do menu -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 </body>
 </html>
