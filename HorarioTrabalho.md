@@ -1,3 +1,5 @@
+Nossa jornada de trabalho hoje é composta por uma carga horária diária de 06h20. Nossos horários de trabalho é: 
+
 Manhã: 
 Entrada: 08:00 
 Saída: 14:20
