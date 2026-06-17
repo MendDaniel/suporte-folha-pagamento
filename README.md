@@ -1,11 +1,13 @@
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 70vh; font-family: sans-serif; font-weight: 800;">
   
-  <!-- RESULTA com cores divididas -->
-  <h1 style="font-size: 8rem; margin: 0; letter-spacing: -2px; color: #71717a;">
-    <span style="color: #e65124;">RES</span>ULTA <h1 style="font-size: 8rem; margin: 40px 0 0 0; color: #71717a; letter-spacing: -2px;">
-    SOLUÇÕES
-  </h1> <!-- SOLUÇÕES com espaço e cor cinza -->
+ <div style="display: flex; justify-content: center; align-items: center; height: 70vh; font-family: sans-serif; font-weight: 800;">
   
+  <h1 style="font-size: 8rem; margin: 0; letter-spacing: -2px; color: #71717a; white-space: nowrap;">
+    <span style="color: #e65124;">RES</span>ULTA 
+    <span style="color: #71717a; margin-left: 30px;">SOLUÇÕES</span>
+  </h1>
+
+</div>  
   
 </div>
 <div align="center" style="max-width: 100% !important; margin: 0 auto; padding-top: 150px !important;">
