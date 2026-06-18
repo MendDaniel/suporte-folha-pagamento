@@ -2,7 +2,7 @@
     <center><span style="color: #e65124;">FERRAMENTAS</span>
   </h1></center>
 
-Nossas FERRAMENTAS de trabalho são programas online como: 
+<h3>Nossas FERRAMENTAS de trabalho são programas online como: 
 
 1º Físico: 
  - 1 laptop
@@ -18,3 +18,4 @@ Nossas FERRAMENTAS de trabalho são programas online como:
 3º Trabalho: 
  - SGD (site oficial de atendimentos do cliente)
  - IA's (chat gpt, copilot, gemini, ia sgd e etc...)
+</h3>
