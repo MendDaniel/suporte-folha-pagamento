@@ -6,7 +6,7 @@
   </h1>
 
   <h2 style="font-size: 4rem; margin: 0 0 40px 0; color: #111827;">
-    Bem vindo(a) a equipe de suporte.
+    EQUIPE DE SUPORTE.
   </h2>
 
 </div>
