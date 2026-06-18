@@ -1,5 +1,5 @@
 <h1 style="font-size: 6rem; margin: 0; letter-spacing: -2px; color: #71717a;">
-    <center><span style="color: #e65124;">FERRAMENTAS</span>
+    <center><span style="color: #e65124;">HORARIO DE TRABALHO</span>
   </h1></center>
 
 <h3>Nossa jornada de trabalho hoje é composta por uma carga horária diária de 06h20. Nossos horários de trabalho é: 
