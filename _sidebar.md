@@ -17,7 +17,7 @@
     * [Crédito do Trabalhador](/creditotrabalhador.md)
 * [Funções do Departamento da Folha](#)
     * [Regra de atendimento](/RegrasAtendimento.md)
-    * [Informações Básicas Suporte](/Informaçõesbasicas.md)
+    * [Informações Básicas Suporte](/Informacoesbasicas.md)
     * [Textos Padrões](/TextosPadrões.md)
 * [Processo do suporte](#)
     * [Como Cadastrar SSC](/ComoCadastrarSSC.md)
