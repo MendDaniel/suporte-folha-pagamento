@@ -1,6 +1,8 @@
-<h1><span style="color: #e65124 !important;">FUNÇÕES</span></h1>
+<h1 style="font-size: 6rem; margin: 0; letter-spacing: -2px; color: #71717a;">
+    <center><span style="color: #e65124;">FUNCOES</span>
+  </h1></center>
 
-Temos hoje 3 modalidades de atendimento sendo: 
+<h1>Temos hoje 3 modalidades de atendimento sendo: 
 
 1º - Atendimento Telefônico: 
 Passos para atendimento telefônico:
@@ -21,3 +23,4 @@ Passos para atendimento WEB:
  - Filtrar com clareza o que o cliente precisa (caso dúvida fazer questionamentos e pedir informações e imagens)
  - Solicitar a participação do cliente em votação no final da ligação
  - Integrar o atendimento com o SGD 
+</h1>
