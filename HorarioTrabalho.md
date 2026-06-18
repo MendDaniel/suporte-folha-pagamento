@@ -1,6 +1,8 @@
-<h1><span style="color: #e65124 !important;">HORÁRIOS DE TRABALHO</span></h1>
+<h1 style="font-size: 6rem; margin: 0; letter-spacing: -2px; color: #71717a;">
+    <center><span style="color: #e65124;">FERRAMENTAS</span>
+  </h1></center>
 
-Nossa jornada de trabalho hoje é composta por uma carga horária diária de 06h20. Nossos horários de trabalho é: 
+<h2Nossa jornada de trabalho hoje é composta por uma carga horária diária de 06h20. Nossos horários de trabalho é: 
 
 Manhã: 
 Entrada: 08:00 
@@ -17,3 +19,4 @@ Saída: 17:00
 
 Pausas: 10 minutos (duas pausas, primeira hora de trabalho e última hora de trabalho). 
 Lanche: 20 minutos (12:00 - 12:20)
+</h2>
