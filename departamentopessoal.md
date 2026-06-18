@@ -1,11 +1,3 @@
-<h1 style="font-size: 6rem; margin: 0; letter-spacing: -2px; color: #71717a;">
-    <center><span style="color: #e65124;">PRÁTICAS DE DEPARTAMENTO PESSOAL</span>
-  </h1></center>
-
-<h3></h3>
-
-
-
 <div style="font-family: sans-serif; padding: 40px; max-width: 1200px; margin: 0 auto;">
 
   <h1 style="font-size: 3.5rem; color: #e65124; text-align: center; margin-bottom: 50px;">
