@@ -2,7 +2,7 @@
     <center><span style="color: #e65124;">FUNCOES</span>
   </h1></center>
 
-<h1>Temos hoje 3 modalidades de atendimento sendo: 
+<h3>Temos hoje 3 modalidades de atendimento sendo: 
 
 1º - Atendimento Telefônico: 
 Passos para atendimento telefônico:
@@ -23,4 +23,4 @@ Passos para atendimento WEB:
  - Filtrar com clareza o que o cliente precisa (caso dúvida fazer questionamentos e pedir informações e imagens)
  - Solicitar a participação do cliente em votação no final da ligação
  - Integrar o atendimento com o SGD 
-</h1>
+</h3>
