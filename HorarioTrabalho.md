@@ -2,7 +2,7 @@
     <center><span style="color: #e65124;">FERRAMENTAS</span>
   </h1></center>
 
-<h2Nossa jornada de trabalho hoje é composta por uma carga horária diária de 06h20. Nossos horários de trabalho é: 
+<h2>Nossa jornada de trabalho hoje é composta por uma carga horária diária de 06h20. Nossos horários de trabalho é: 
 
 Manhã: 
 Entrada: 08:00 
