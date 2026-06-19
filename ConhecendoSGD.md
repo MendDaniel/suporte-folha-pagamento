@@ -19,17 +19,19 @@
 
 
 <h1 style="font-size: 6rem; margin: 0; letter-spacing: -2px; color: #71717a;">
-    <center><span style="color: #e65124;">PRÁTICAS DO DEPARTAMENTO PESSOAL</span>
+    <center><span style="color: #e65124;">TREINAMENTOS INICIAIS</span>
   </h1></center>
 
 <p style="font-size: 1.6rem; color: #374151; line-height: 1.8; margin-bottom: 40px; text-align: justify;">
-    Departamento pessoal é diferente de RH. O deparamento pessoal ele trata as questões legais de um contrato entre as partes (empresa e mpregado). Neste treinamento você vai entender na prática as funções, rotinas e práticas do departamento pessoal.
+    Aqui começamos uma jornada brilhante de desenvolvimento, conheceimento e sucesso juntos.
   </p>
 <h3>
 <details>
-<summary>1º Jornadas de Trabalho</summary>
+<summary>1º Rotinas de Departamento Pessoal</summary>
 
-* Temos 2 turnos de trabalho, o Matutino(manhã) e o Vespertino(tarde).
+* <a href="[https://dominiosistemas.learning.rocks/contents/1358024?ref=spaces&ref_detail=136485](https://dominiosistemas.atenalms.com.br/missions/ywIUa9pMgUiewkq9eqO1)" target="_blank" style="font-size: 1.4rem; color: #e65124; font-weight: bold; text-decoration: underline;">
+      Acessar Treinamento: Práticas do Departamento Pessoal
+    </a>
 </details>
 
 <details>
