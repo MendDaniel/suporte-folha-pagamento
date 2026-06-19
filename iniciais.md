@@ -2,9 +2,9 @@
     <center><span style="color: #e65124;">TREINAMENTOS INICIAIS</span>
   </h1></center>
 
-<h3>Aqui começamos uma jornada brilhante de conhecimneto, construção e evolução.
+<h4>Aqui começamos uma jornada brilhante de conhecimneto, construção e evolução.</h4>
 
-
+<h3>
 <details>
 <summary>1º Rotinas de Departamento Social</summary>
 
