@@ -1,6 +1,6 @@
 * [Bem Vindo(a)](/seja-bem-vindo)
 * [Sobre Nós](/sobre-nos)
-* [Como Trabalhamos](#)
+* [Como Trabalhamos](comotrabalhamos.md)
     * [Horário de Trabalho](/HorarioTrabalho.md)
     * [Funções](/Funcoes.md)
     * [Ferramenta de Trabalho](/FerramentaTrabalho.md)
