@@ -66,7 +66,7 @@
   </h1></center>
 
 <h3>Temos hoje 3 modalidades de atendimento sendo:    
-    
+<details>    
 <summary>1º Atendimento Telefônico:</summary>
 
 Passos para atendimento telefônico:
