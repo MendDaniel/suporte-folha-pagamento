@@ -5,7 +5,7 @@
 <h3>Nossa jornada de trabalho hoje é composta por uma carga horária diária de 06h20. Nossos horários de trabalho é: 
 
 <details>
-<summary>1º Jornada de Trabalho - Manhã</summary>
+<summary>1º Jornadas de Trabalho</summary>
 
 * Temos 2 turnos de trabalho, o Matutino(manhã) e o Vespertino(tarde).
 </details>
