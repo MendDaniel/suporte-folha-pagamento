@@ -20,7 +20,9 @@ Neste treinamento você vai ver como funciona a Rotina do Departamento Pessoal n
 
 Aprenda as principais configurações e cadastros da Folha de Pagamento
 
-* <a href="[https://dominiosistemas.atenalms.com.br/missions/ywIUa9pMgUiewkq9eqO1](https://suporte.dominioatendimento.com/academy/faces/academy.html?modulo=19#)" target="_blank" style="font-size: 1.4rem; color: #e65124; font-weight: bold; text-decoration: underline;">
+* <a href="https://suporte.dominioatendimento.com/academy/faces/academy-treinamento.html?codigo=94&sessao=1" target="_blank" style="font-size: 1.4rem; color: #e65124; font-weight: bold; text-decoration: underline;">
+    Acessar Treinamento
+</a>
       Acessar Treinamento: Iniciantes Folha
     </a>
 </details>
@@ -30,7 +32,9 @@ Aprenda as principais configurações e cadastros da Folha de Pagamento
 
 Neste treinamento, você aprenderá, passo a passo, a configurar o Módulo Folha de Pagamento. Abordaremos: configurações para cálculos da folha, configurações do eSocial, regimes tributários, configurações gerais de colaboradores, rubricas, envios ao eSocial, principais erros, conferência da DCTFWeb, adiantamento salarial e rescisão.
 
-* <a href="[[https://dominiosistemas.atenalms.com.br/missions/ywIUa9pMgUiewkq9eqO1](https://suporte.dominioatendimento.com/academy/faces/academy.html?modulo=19#)]" target="_blank" style="font-size: 1.4rem; color: #e65124; font-weight: bold; text-decoration: underline;">
+* <a href="[https://suporte.dominioatendimento.com/academy/faces/academy-treinamento.html?codigo=94&sessao=1" target="_blank" style="font-size: 1.4rem; color: #e65124; font-weight: bold; text-decoration: underline;">
+    Acessar Treinamento
+</a>
       Acessar Treinamento: Jornada da Folha
     </a>
 </details>
