@@ -6,7 +6,7 @@
 
 <h3>
 <details>
-<summary>1º Rotinas de Departamento Social</summary>
+<summary>1º Rotinas de Departamento Pessoal</summary>
 
 Neste treinamento você vai ver como funciona a Rotina do Departamento Pessoal na Prática.
 
