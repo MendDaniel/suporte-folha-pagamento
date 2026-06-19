@@ -2,11 +2,11 @@
     <center><span style="color: #e65124;">TREINAMENTOS INICIAIS</span>
   </h1></center>
 
-<h3>Aqui começamos uma jornada brilhante de conhecimneto, construção e evolução.</h3>
+<h3>Aqui começamos uma jornada brilhante de conhecimneto, construção e evolução.
 
 
 <details>
-<h3>Neste treinamento você vai ver como funciona a Rotina do Departamento Pessoal na Prática.</h3>
+Neste treinamento você vai ver como funciona a Rotina do Departamento Pessoal na Prática.</h3>
     
 <summary>1º Rotinas de Departamento Social</summary>
 
