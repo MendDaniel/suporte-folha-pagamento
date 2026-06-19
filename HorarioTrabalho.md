@@ -35,7 +35,7 @@
 <h1 style="font-size: 6rem; margin: 0; letter-spacing: -2px; color: #71717a;">
     <center><span style="color: #e65124;">FERRAMENTAS</span>
   </h1></center>
-<h3></h3><details>
+<h3><details>
 <summary>1º Físico</summary>
 
 * 1 laptop
