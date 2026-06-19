@@ -10,7 +10,7 @@
 * Temos 2 turnos de trabalho, o Matutino(manhã) e o Vespertino(tarde).
 </details>
 
-<details><h3>
+<details>
 <summary>2º Jornada de Trabalho - Matutino</summary>
 
 * Entrada: 08h
@@ -35,8 +35,7 @@
 <h1 style="font-size: 6rem; margin: 0; letter-spacing: -2px; color: #71717a;">
     <center><span style="color: #e65124;">FERRAMENTAS</span>
   </h1></center>
-<details>
-    <h3>
+<h3></h3><details>
 <summary>1º Físico</summary>
 
 * 1 laptop
@@ -58,7 +57,7 @@
 
 * SGD (site oficial de atendimentos do cliente)
 * IA's (chat gpt, copilot, gemini, ia sgd e etc...)
-</details>
+</details></h3>
 </details>
 
 <h1 style="font-size: 6rem; margin: 0; letter-spacing: -2px; color: #71717a;">
