@@ -13,14 +13,12 @@ Neste treinamento você vai ver como funciona a Rotina do Departamento Pessoal n
 * <a href="https://dominiosistemas.atenalms.com.br/missions/ywIUa9pMgUiewkq9eqO1" target="_blank" style="font-size: 1.4rem; color: #e65124; font-weight: bold; text-decoration: underline;">
     Acessar Treinamento: Práticas do Departamento Pessoal
 </a>
-</h3>
 </details>
 
-<details>
-
-<h3>Aprenda as principais configurações e cadastros da Folha de Pagamento</h3>
-    
+<details>  
 <summary>2º Iniciante - Folha de Pagamento</summary>
+
+Aprenda as principais configurações e cadastros da Folha de Pagamento
 
 * <a href="[https://dominiosistemas.atenalms.com.br/missions/ywIUa9pMgUiewkq9eqO1](https://suporte.dominioatendimento.com/academy/faces/academy.html?modulo=19#)" target="_blank" style="font-size: 1.4rem; color: #e65124; font-weight: bold; text-decoration: underline;">
       Acessar Treinamento: Iniciantes Folha
@@ -37,3 +35,4 @@ Neste treinamento você vai ver como funciona a Rotina do Departamento Pessoal n
       Acessar Treinamento: Jornada da Folha
     </a>
 </details>
+</h3>
