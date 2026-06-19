@@ -47,6 +47,7 @@
 
 <details>
 <summary>2º Comunicação</summary>
+    
 * Teams
 * Telefone (GoTo)
 * Discord (sala virtual do departamento)
