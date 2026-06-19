@@ -2,7 +2,7 @@
     <center><span style="color: #e65124;">TREINAMENTOS INICIAIS</span>
   </h1></center>
 
-<h4>Aqui começamos uma jornada brilhante de conhecimneto, construção e evolução.</h4>
+<h2>Aqui começamos uma jornada brilhante de conhecimneto, construção e evolução.</h2>
 
 <h3>
 <details>
