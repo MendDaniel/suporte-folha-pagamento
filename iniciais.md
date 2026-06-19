@@ -25,11 +25,10 @@ Aprenda as principais configurações e cadastros da Folha de Pagamento
     </a>
 </details>
 
-<details>
-
-<h3>Neste treinamento, você aprenderá, passo a passo, a configurar o Módulo Folha de Pagamento. Abordaremos: configurações para cálculos da folha, configurações do eSocial, regimes tributários, configurações gerais de colaboradores, rubricas, envios ao eSocial, principais erros, conferência da DCTFWeb, adiantamento salarial e rescisão.</h3>
-    
+<details>   
 <summary>3º Jornadas da Folha de Pagamento</summary>
+
+Neste treinamento, você aprenderá, passo a passo, a configurar o Módulo Folha de Pagamento. Abordaremos: configurações para cálculos da folha, configurações do eSocial, regimes tributários, configurações gerais de colaboradores, rubricas, envios ao eSocial, principais erros, conferência da DCTFWeb, adiantamento salarial e rescisão.
 
 * <a href="[[https://dominiosistemas.atenalms.com.br/missions/ywIUa9pMgUiewkq9eqO1](https://suporte.dominioatendimento.com/academy/faces/academy.html?modulo=19#)]" target="_blank" style="font-size: 1.4rem; color: #e65124; font-weight: bold; text-decoration: underline;">
       Acessar Treinamento: Jornada da Folha
