@@ -7,7 +7,25 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   
   <style>
-    /* Estilo base dos botões */
+    /* Estilo para os botões expansíveis (accordion) */
+    details {
+      margin-bottom: 10px;
+      padding: 10px;
+      border: 1px solid #e5e7eb;
+      border-radius: 6px;
+      background: #f9fafb;
+    }
+    summary {
+      font-weight: bold;
+      cursor: pointer;
+      outline: none;
+    }
+    details[open] summary {
+      color: #e65124;
+      margin-bottom: 10px;
+    }
+
+    /* Seus estilos de sidebar existentes */
     .sidebar-nav ul li a {
       display: block !important;
       background-color: #ffffff !important;
@@ -18,28 +36,10 @@
       border: 1px solid #e5e7eb !important;
       text-decoration: none !important;
     }
-
     .sidebar-nav ul li.active > a {
       background-color: #e65124 !important;
       color: #ffffff !important;
       border-color: #e65124 !important;
-    }
-
-    /* Esconde submenus por padrão */
-    .sidebar-nav ul li ul {
-      display: none !important;
-    }
-
-    /* Mostra submenu quando o pai tem a classe 'open' */
-    .sidebar-nav ul li.open > ul {
-      display: block !important;
-      padding-left: 15px !important;
-    }
-
-    /* CSS Global corrigido */
-    .markdown-section {
-      padding: 30px 40px !important;
-      max-width: 100% !important;
     }
   </style>
 </head>
