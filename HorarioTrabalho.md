@@ -4,19 +4,29 @@
 
 <h3>Nossa jornada de trabalho hoje é composta por uma carga horária diária de 06h20. Nossos horários de trabalho é: 
 
-Manhã: 
-Entrada: 08:00 
-Saída: 14:20
+<details>
+<summary>1º Jornada de Trabalho - Manhã</summary>
 
-Pausas: 10 minutos (duas pausas, primeira hora de trabalho e última hora de trabalho). 
-Lanche: 20 minutos (12:00 - 12:20)
+* Temos 2 turnos de trabalho, o Matutino(manhã) e o Vespertino(tarde).
+</details>
 
+<details>
+<summary>2º Jornada de Trabalho - Matutino</summary>
 
+* Entrada: 08h
+* Saída: 14h20
+* Pausa de 10minutos
+* Pausa de 20minutos
+* Pausa de 10minutos
+</details>
 
-Tarde: 
-Entrada: 11:40
-Saída: 17:00
+<details>
+<summary>3º Jornada de Trabalho - Vespertino</summary>
 
-Pausas: 10 minutos (duas pausas, primeira hora de trabalho e última hora de trabalho). 
-Lanche: 20 minutos (12:00 - 12:20)
+* Entrada: 11h40
+* Saída: 18h
+* Pausa de 10minutos
+* Pausa de 20minutos
+* Pausa de 10minutos
+</details>
 </h3>
