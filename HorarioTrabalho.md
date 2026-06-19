@@ -57,7 +57,7 @@
 
 * SGD (site oficial de atendimentos do cliente)
 * IA's (chat gpt, copilot, gemini, ia sgd e etc...)
-</details></h3>
+</h3></details>
 </details>
 
 <h1 style="font-size: 6rem; margin: 0; letter-spacing: -2px; color: #71717a;">
