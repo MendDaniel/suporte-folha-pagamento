@@ -35,7 +35,8 @@
 <h1 style="font-size: 6rem; margin: 0; letter-spacing: -2px; color: #71717a;">
     <center><span style="color: #e65124;">FERRAMENTAS</span>
   </h1></center>
-<details><h3>
+<h3>
+    <details>
 <summary>1º Físico</summary>
 
 * 1 laptop
@@ -46,7 +47,7 @@
 
 <details>
 <summary>2º Comunicação</summary>
-
+<details>
 * Teams
 * Telefone (GoTo)
 * Discord (sala virtual do departamento)
@@ -57,8 +58,8 @@
 
 * SGD (site oficial de atendimentos do cliente)
 * IA's (chat gpt, copilot, gemini, ia sgd e etc...)
-</h3></details>
 </details>
+</details></h3>
 
 <h1 style="font-size: 6rem; margin: 0; letter-spacing: -2px; color: #71717a;">
     <center><span style="color: #e65124;">FUNCOES</span>
