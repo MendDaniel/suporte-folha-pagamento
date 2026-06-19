@@ -7,7 +7,7 @@
 <details>
 <summary>1º Rotinas de Departamento Social</summary>
 
-* <a href="[https://dominiosistemas.learning.rocks/contents/1358024?ref=spaces&ref_detail=136485](https://dominiosistemas.atenalms.com.br/missions/ywIUa9pMgUiewkq9eqO1)" target="_blank" style="font-size: 1.4rem; color: #e65124; font-weight: bold; text-decoration: underline;">
+* <a href="[[https://dominiosistemas.learning.rocks/contents/1358024?ref=spaces&ref_detail=136485](https://dominiosistemas.atenalms.com.br/missions/ywIUa9pMgUiewkq9eqO1)](https://dominiosistemas.atenalms.com.br/missions/ywIUa9pMgUiewkq9eqO1)" target="_blank" style="font-size: 1.4rem; color: #e65124; font-weight: bold; text-decoration: underline;">
       Acessar Treinamento: Práticas do Departamento Pessoal
     </a>
 </details>
