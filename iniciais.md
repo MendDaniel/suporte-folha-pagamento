@@ -21,10 +21,8 @@ Neste treinamento você vai ver como funciona a Rotina do Departamento Pessoal n
 Aprenda as principais configurações e cadastros da Folha de Pagamento
 
 * <a href="https://suporte.dominioatendimento.com/academy/faces/academy-treinamento.html?codigo=94&sessao=1" target="_blank" style="font-size: 1.4rem; color: #e65124; font-weight: bold; text-decoration: underline;">
-    Acessar Treinamento
+     Acessar Treinamento: Iniciantes Folha
 </a>
-      Acessar Treinamento: Iniciantes Folha
-    </a>
 </details>
 
 <details>   
