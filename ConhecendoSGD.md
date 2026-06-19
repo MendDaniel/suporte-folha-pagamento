@@ -22,10 +22,10 @@
     <center><span style="color: #e65124;">PRÁTICAS DO DEPARTAMENTO PESSOAL</span>
   </h1></center>
 
-<h3><p style="font-size: 1.6rem; color: #374151; line-height: 1.8; margin-bottom: 40px; text-align: justify;">
+<p style="font-size: 1.6rem; color: #374151; line-height: 1.8; margin-bottom: 40px; text-align: justify;">
     Departamento pessoal é diferente de RH. O deparamento pessoal ele trata as questões legais de um contrato entre as partes (empresa e mpregado). Neste treinamento você vai entender na prática as funções, rotinas e práticas do departamento pessoal.
   </p>
-
+<h3>
 <details>
 <summary>1º Jornadas de Trabalho</summary>
 
