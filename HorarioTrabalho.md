@@ -10,7 +10,7 @@
 * Temos 2 turnos de trabalho, o Matutino(manhã) e o Vespertino(tarde).
 </details>
 
-<details>
+<details><h3>
 <summary>2º Jornada de Trabalho - Matutino</summary>
 
 * Entrada: 08h
