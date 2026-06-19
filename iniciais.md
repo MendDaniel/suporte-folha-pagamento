@@ -6,14 +6,14 @@
 
 
 <details>
-Neste treinamento você vai ver como funciona a Rotina do Departamento Pessoal na Prática.</h3>
-    
 <summary>1º Rotinas de Departamento Social</summary>
+
+Neste treinamento você vai ver como funciona a Rotina do Departamento Pessoal na Prática.
 
 * <a href="https://dominiosistemas.atenalms.com.br/missions/ywIUa9pMgUiewkq9eqO1" target="_blank" style="font-size: 1.4rem; color: #e65124; font-weight: bold; text-decoration: underline;">
     Acessar Treinamento: Práticas do Departamento Pessoal
 </a>
-    </a>
+</h3>
 </details>
 
 <details>
