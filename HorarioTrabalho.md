@@ -48,8 +48,6 @@
 <details>
 <summary>2º Comunicação</summary>
 
-* SGD (site oficial de atendimentos do cliente)
-* IA's (chat gpt, copilot, gemini, ia sgd e etc...)
 * Teams
 * Telefone (GoTo)
 * Discord (sala virtual do departamento)
