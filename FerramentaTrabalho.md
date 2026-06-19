@@ -19,3 +19,32 @@
  - SGD (site oficial de atendimentos do cliente)
  - IA's (chat gpt, copilot, gemini, ia sgd e etc...)
 </h3>
+
+
+
+
+
+
+<details>
+<summary>1º Físico</summary>
+
+* 1 laptop
+* 1 HeadSet
+* 1 Jogo de mouse/teclado
+* 1 monitor externo
+</details>
+
+<details>
+<summary>2º Comunicação</summary>
+
+* Teams
+* Telefone (GoTo)
+* Discord (sala virtual do departamento)
+</details>
+
+<details>
+<summary>3º Trabalho</summary>
+
+* SGD (site oficial de atendimentos do cliente)
+* IA's (chat gpt, copilot, gemini, ia sgd e etc...)
+</details>
