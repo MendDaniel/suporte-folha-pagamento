@@ -45,7 +45,7 @@ Neste treinamento, você aprenderá, passo a passo, a configurar o Módulo Folha
 * <a href="https://suporte.dominioatendimento.com/academy/faces/academy.html?modulo=19#" target="_blank">
   Adiantamento da Folha - Cálculo
 </a>
-
+</a>details>
 
 <details> 
 <summary>5º eSocial</summary>
