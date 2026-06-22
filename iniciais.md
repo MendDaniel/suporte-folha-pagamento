@@ -38,9 +38,8 @@ Neste treinamento, você aprenderá, passo a passo, a configurar o Módulo Folha
 </h3><h3>
 <details>   
 <summary>4º eSocial</summary>
-<details>
 <h3>No eSocial existem 4 tipos de eventos sendo, eventos de Tabela, Não periódicos, Periódicos e SST. Abaixo temos a separação de cada tabela.</h3>
-
+<details>
 <summary>eSocial - Eventos de Tabela</summary>
 * <a href="https://www.youtube.com/watch?v=4zZzgKbJOt8" target="_blank">
   S-1000 - Empresa
