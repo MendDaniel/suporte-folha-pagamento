@@ -35,9 +35,7 @@ Neste treinamento, você aprenderá, passo a passo, a configurar o Módulo Folha
     Acessar Treinamento: Jornada da Folha
 </a>
 </details>
-</h3>
-
-<h3>
+</h3><h3>
 <details>   
 <summary>4º eSocial</summary>
 <details>
