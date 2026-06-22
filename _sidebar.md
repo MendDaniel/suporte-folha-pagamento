@@ -3,7 +3,7 @@
 * [Como Trabalhamos](comotrabalhamos.md)
 * [Treinamentos](#)
     * [Iniciais](/iniciais.md)
-    * [eSocial e seus eventos](/eSocial.md)
+    * [Intermediário](/intermediario.md)
     * [FGTS Digital](/fgtsdigital.md)
     * [Crédito do Trabalhador](/creditotrabalhador.md)
     * [Especializações](/especializacao.md)
