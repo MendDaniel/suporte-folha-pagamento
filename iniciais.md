@@ -297,7 +297,7 @@ Neste treinamento, você aprenderá, passo a passo, a configurar o Módulo Folha
           Exemplo com S-2500 com Unificação de Vínculo
 </a>
 </details>
-
+</details>
 
 <details>
   <summary>Eventos Periódiocos</summary>
