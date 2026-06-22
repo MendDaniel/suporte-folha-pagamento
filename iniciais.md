@@ -10,8 +10,8 @@
 
 Neste treinamento você vai ver como funciona a Rotina do Departamento Pessoal na Prática.
 
-* <a href="https://dominiosistemas.atenalms.com.br/missions/ywIUa9pMgUiewkq9eqO1" target="_blank" style="font-size: 1.4rem; color: #e65124; font-weight: bold; text-decoration: underline;">
-    Acessar Treinamento: Práticas do Departamento Pessoal
+* <a href="https://suporte.dominioatendimento.com/academy/faces/academy-treinamento.html?codigo=94" target="_blank">
+  Acessar Treinamento: Iniciantes Folha
 </a>
 </details>
 
