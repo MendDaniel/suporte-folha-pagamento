@@ -297,6 +297,64 @@ Neste treinamento, você aprenderá, passo a passo, a configurar o Módulo Folha
           Exemplo com S-2500 com Unificação de Vínculo
 </a>
 </details>
+
+
+<details>
+  <summary>Eventos Periódiocos</summary>
+
+
+*  <a href="https://www.youtube.com/watch?v=3a0iVhQouO8" target="_blank">
+          Eventos Periódicos - S-1200 e S-1210
+
+
+*  <a href="https://www.youtube.com/watch?v=KZWrX2FD8pA" target="_blank">
+          Eventos Periódicos - S-1298 e S-1299
+</a>
+</details>
+
+
+
+<details>
+  <summary>DCTF – Declaração de Débitos e Créditos Tributários</summary>
+
+
+*  <a href="https://www.youtube.com/watch?v=S46FlS7NWPQ" target="_blank">
+          DCTF Web
+</a>
+</details>
+
+
+<details>
+  <summary>FGTS-GRFGTS</summary>
+
+
+*  <a href="https://www.youtube.com/watch?v=GaVimiDoJ3Q" target="_blank">
+          GRFGTS - Nova guia
+</a>
+</details>
+
+
+
+<details>
+  <summary>Cálculo de INSS atualmente</summary>
+
+
+*  <a href="https://www.youtube.com/watch?v=GaVimiDoJ3Q" target="_blank">
+          Cálculo de INSS atualmente
+</a>
+</details>
+
+
+
+
+<details>
+  <summary>Cálculo de IRRF atualmente</summary>
+
+
+*  <a href="https://www.youtube.com/watch?v=4zCCLUfNg10" target="_blank">
+          Cálculo de IRRF atualmente
+</a>
+</details>
 </h3>
 
 
