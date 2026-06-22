@@ -42,7 +42,6 @@ Neste treinamento, você aprenderá, passo a passo, a configurar o Módulo Folha
 
 <details>   
 <summary>4º eSocial</summary>
-
     
 <details>
 <summary>eSocial - Eventos de Tabela</summary>
