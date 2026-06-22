@@ -122,19 +122,16 @@
 
 * <a href="https://www.youtube.com/watch?v=4vnUVFM5OZQ" target="_blank">
   Introdução - Reclamatória Trabalhista 2
-</a>
 
 
 
 * <a href="https://www.youtube.com/watch?v=czGZTIftO7U" target="_blank">
   Introdução - Reclamatória Trabalhista 3
-</a>
 
 
 
 * <a href="https://www.youtube.com/watch?v=-j2Z3Nuc7A4&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=4" target="_blank">
   Introdução - Reclamatória Trabalhista 4
-</a>
 
 
 
@@ -146,11 +143,19 @@
 
 
 
- <details>     
-<summary>Introdução - Reclamatória Trabalhista</summary>
+<details>
+  <summary>eSocial - Reclamatória Trabalhista</summary>
+    
+  <details>     
+<summary>Reclamatória Trabalhist - Informações dos Eventos</summary>
+
+      
+*  <a href="https://www.youtube.com/watch?v=Dk8adspw52Q&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=6&pp=iAQB" target="_blank">
+          Conteúdo Geral dos Eventos
+</a>
 
 
-
+          
 
 </details>
 
