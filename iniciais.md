@@ -352,6 +352,7 @@ Neste treinamento, você aprenderá, passo a passo, a configurar o Módulo Folha
 
 
 <details>
+    
 <summary>Cálculo de IRRF atualmente</summary>
 
 
