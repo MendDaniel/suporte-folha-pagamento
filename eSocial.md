@@ -144,7 +144,7 @@
 
 
 <details>
-  <summary>eSocial - Reclamatória Trabalhista</summary>
+  <summary>Reclamatória Trabalhista - Estrutura</summary>
     
   <details>     
 <summary>Reclamatória Trabalhist - Informações dos Eventos</summary>
