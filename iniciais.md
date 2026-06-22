@@ -34,7 +34,7 @@ Neste treinamento, você aprenderá, passo a passo, a configurar o Módulo Folha
 * <a href="https://suporte.dominioatendimento.com/academy/faces/academy-treinamento.html?codigo=95&sessao=1" target="_blank">
     Acessar Treinamento: Jornada da Folha
 </a>
-</details></h3><h3><details> 
+</details><details> 
 <summary>4º eSocial</summary>
 <h3>No eSocial existem 4 tipos de eventos sendo, eventos de Tabela, Não periódicos, Periódicos e SST. Abaixo temos a separação de cada tabela.</h3>
 <details>
