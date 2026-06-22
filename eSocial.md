@@ -226,20 +226,38 @@
 
 
 *  <a href="https://www.youtube.com/watch?v=xD9HHaNIkSw&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=25&pp=iAQB" target="_blank">
-          Tipo de Contrato 16
+          Tipo de Contrato 16 - S-2501
 
 
 *  <a href="https://www.youtube.com/watch?v=xD9HHaNIkSw&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=26&pp=iAQB" target="_blank">
-          Tipo de Contrato 17
+          Tipo de Contrato 17 - S-2501
 
 
 *  <a href="https://www.youtube.com/watch?v=xD9HHaNIkSw&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=27&pp=iAQB" target="_blank">
-          Tipo de Contrato 18
+          Tipo de Contrato 18 - S-3500 e S-5501
 </a>
-
-
-          
 
 </details>
 
+
+<details>
+  <summary>Reclamatória Trabalhista - Módulo Web</summary>
+
+
+*  <a href="https://www.youtube.com/watch?v=B58zliBQJt0&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=28&pp=iAQB&pp=iAQB" target="_blank">
+          Conceitos Gerais de Acesso
+
+
+*  <a href="https://www.youtube.com/watch?v=B58zliBQJt0&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=29&pp=iAQB&pp=iAQB" target="_blank">
+          Exemplo com S-2500
+
+
+*  <a href="https://www.youtube.com/watch?v=B58zliBQJt0&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=30&pp=iAQB&pp=iAQB" target="_blank">
+          Exemplo com S-2500 com alteração na data do Desligamento
+
+
+*  <a href="https://www.youtube.com/watch?v=B58zliBQJt0&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=31&pp=iAQB&pp=iAQB" target="_blank">
+          Exemplo com S-2500 com Unificação de Vínculo
+</a>
+</details>
 </h3>
