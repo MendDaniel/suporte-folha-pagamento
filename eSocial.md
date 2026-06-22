@@ -110,7 +110,7 @@
 </details>
 
 
-<details>
+* <details>
 <summary>eSocial - Reclamatória Trabalhista</summary>
        
 <details>
