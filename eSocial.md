@@ -147,6 +147,94 @@
       
 *  <a href="https://www.youtube.com/watch?v=Dk8adspw52Q&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=6&pp=iAQB" target="_blank">
           Conteúdo Geral dos Eventos
+
+
+*  <a href="https://www.youtube.com/watch?v=Dk8adspw52Q&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=6&pp=iAQB" target="_blank">
+          Tipo de Contrato 1 
+
+
+*  <a href="https://www.youtube.com/watch?v=-fp0fh1uC3c&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=7&pp=iAQB" target="_blank">
+          Tipo de Contrato 2
+
+
+*  <a href="https://www.youtube.com/watch?v=xD9HHaNIkSw&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=8&pp=iAQB" target="_blank">
+          Tipo de Contrato 3
+
+
+*  <a href="https://www.youtube.com/watch?v=xD9HHaNIkSw&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=9&pp=iAQB" target="_blank">
+          Tipo de Contrato 4
+
+
+*  <a href="https://www.youtube.com/watch?v=xD9HHaNIkSw&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=10&pp=iAQB" target="_blank">
+          Tipo de Contrato 5
+
+
+*  <a href="https://www.youtube.com/watch?v=xD9HHaNIkSw&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=11&pp=iAQB" target="_blank">
+          Tipo de Contrato 6.1
+
+
+*  <a href="https://www.youtube.com/watch?v=xD9HHaNIkSw&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=12&pp=iAQB" target="_blank">
+          Tipo de Contrato 6.2
+
+
+*  <a href="https://www.youtube.com/watch?v=xD9HHaNIkSw&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=13&pp=iAQB" target="_blank">
+          Tipo de Contrato 7
+
+
+
+*  <a href="https://www.youtube.com/watch?v=xD9HHaNIkSw&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=14&pp=iAQB" target="_blank">
+          Tipo de Contrato 8
+
+
+*  <a href="https://www.youtube.com/watch?v=xD9HHaNIkSw&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=15&pp=iAQB" target="_blank">
+          Tipo de Contrato 9
+
+
+*  <a href="https://www.youtube.com/watch?v=xD9HHaNIkSw&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=16&pp=iAQB" target="_blank">
+          Tipo de Contrato 10
+
+*  <a href="https://www.youtube.com/watch?v=xD9HHaNIkSw&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=17&pp=iAQB" target="_blank">
+          Tipo de Contrato 10.1
+
+
+*  <a href="https://www.youtube.com/watch?v=xD9HHaNIkSw&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=18&pp=iAQB" target="_blank">
+          Tipo de Contrato 10.2
+
+
+*  <a href="https://www.youtube.com/watch?v=xD9HHaNIkSw&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=19&pp=iAQB" target="_blank">
+          Tipo de Contrato 11
+
+
+*  <a href="https://www.youtube.com/watch?v=xD9HHaNIkSw&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=20&pp=iAQB" target="_blank">
+          Tipo de Contrato 12.1
+
+
+*  <a href="https://www.youtube.com/watch?v=xD9HHaNIkSw&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=21&pp=iAQB" target="_blank">
+          Tipo de Contrato 12.2
+
+
+*  <a href="https://www.youtube.com/watch?v=xD9HHaNIkSw&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=22&pp=iAQB" target="_blank">
+          Tipo de Contrato 13
+
+
+*  <a href="https://www.youtube.com/watch?v=xD9HHaNIkSw&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=23&pp=iAQB" target="_blank">
+          Tipo de Contrato 14
+
+
+*  <a href="https://www.youtube.com/watch?v=xD9HHaNIkSw&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=24&pp=iAQB" target="_blank">
+          Tipo de Contrato 15
+
+
+*  <a href="https://www.youtube.com/watch?v=xD9HHaNIkSw&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=25&pp=iAQB" target="_blank">
+          Tipo de Contrato 16
+
+
+*  <a href="https://www.youtube.com/watch?v=xD9HHaNIkSw&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=26&pp=iAQB" target="_blank">
+          Tipo de Contrato 17
+
+
+*  <a href="https://www.youtube.com/watch?v=xD9HHaNIkSw&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=27&pp=iAQB" target="_blank">
+          Tipo de Contrato 18
 </a>
 
 
