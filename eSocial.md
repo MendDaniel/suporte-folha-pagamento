@@ -114,11 +114,10 @@
     
   <details>     
 <summary>Introdução - Reclamatória Trabalhista</summary>
-          *  <a href="https://www.youtube.com/watch?v=4vnUVFM5OZQ" target="_blank">
-          Introdução - Reclamatória Trabalhista 1
-  </details>
 
-</details>
+      
+*  <a href="https://www.youtube.com/watch?v=4vnUVFM5OZQ" target="_blank">
+          Introdução - Reclamatória Trabalhista 1
 
 
 * <a href="https://www.youtube.com/watch?v=4vnUVFM5OZQ" target="_blank">
