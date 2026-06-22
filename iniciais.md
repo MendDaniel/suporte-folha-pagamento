@@ -45,9 +45,13 @@ Neste treinamento, você aprenderá, passo a passo, a configurar o Módulo Folha
 * <a href="https://suporte.dominioatendimento.com/academy/faces/academy.html?modulo=19#" target="_blank">
   Adiantamento da Folha - Cálculo
 </a>
-</details><details> 
+</details>
+<details> 
+
 <summary>5º eSocial</summary>
+
 <h3>No eSocial existem 4 tipos de eventos sendo, eventos de Tabela, Não periódicos, Periódicos e SST. Abaixo temos a separação de cada tabela.</h3>
+
 <details>
 <summary>eSocial - Eventos de Tabela</summary>
 
