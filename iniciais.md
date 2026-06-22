@@ -316,7 +316,7 @@ Neste treinamento, você aprenderá, passo a passo, a configurar o Módulo Folha
 
 
 <details>
-  <summary>DCTF – Declaração de Débitos e Créditos Tributários</summary>
+<summary>DCTF – Declaração de Débitos e Créditos Tributários</summary>
 
 
 *  <a href="https://www.youtube.com/watch?v=S46FlS7NWPQ" target="_blank">
@@ -327,7 +327,7 @@ Neste treinamento, você aprenderá, passo a passo, a configurar o Módulo Folha
 
 
 <details>
-  <summary>FGTS-GRFGTS</summary>
+<summary>FGTS-GRFGTS</summary>
 
 
 *  <a href="https://www.youtube.com/watch?v=GaVimiDoJ3Q" target="_blank">
@@ -339,7 +339,7 @@ Neste treinamento, você aprenderá, passo a passo, a configurar o Módulo Folha
 
 
 <details>
-  <summary>Cálculo de INSS atualmente</summary>
+<summary>Cálculo de INSS atualmente</summary>
 
 
 *  <a href="https://www.youtube.com/watch?v=GaVimiDoJ3Q" target="_blank">
@@ -352,7 +352,7 @@ Neste treinamento, você aprenderá, passo a passo, a configurar o Módulo Folha
 
 
 <details>
-  <summary>Cálculo de IRRF atualmente</summary>
+<summary>Cálculo de IRRF atualmente</summary>
 
 
 *  <a href="https://www.youtube.com/watch?v=4zCCLUfNg10" target="_blank">
