@@ -13,7 +13,7 @@
 
 <h3>
 <details>
-<summary>eSocial - Eventos de Tabela</summary>
+<summary>Conhecendo o FGTS Digital</summary>
 
 <ul>
   <li><a href="https://www.youtube.com/watch?v=AZyd7TyCbzU&list=PLXknSy3x3itlkiPOv5AV9Y9jjD8usiHlY&index=1&pp=iAQB" target="_blank">FGTS Digital - Introdução</a></li>
