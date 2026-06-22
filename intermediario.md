@@ -1,20 +1,84 @@
 <h1 style="font-size: 6rem; margin: 0; letter-spacing: -2px; color: #71717a;">
-    <center><span style="color: #e65124;">ESOCIAL E SUAS TABELAS</span>
+    <center><span style="color: #e65124;">TREINAMENTOS ESPECÍFOS (INTERMEDIÁRIO)</span>
   </h1></center>
 
 
-<h2>No eSocial existem 4 tipos de eventos sendo, eventos de Tabela, Não periódicos, Periódicos e SST. Abaixo temos a separação de cada tabela.</h2>
+<h3>Aqui você vai ver e entender detalhes e regras de informações que compõe o cálculo da folha de pagamento.</h3>
 
 
 
 <h3>
+<details>
+<summary>Crédito do Trabalhador</summary>
+
+* <a href="https://www.youtube.com/watch?v=4zZzgKbJOt8" target="_blank">
+  Crédito do Trabalhador
+</a>
+</details>
+
+
+
+
+<details>
+<summary>FGTS DIgital</summary>
+
+* <a href="https://www.youtube.com/watch?v=4zZzgKbJOt8" target="_blank">
+  FGTS Digital
+</a>
+</details>
+
+
+
+
+<details>
+<summary>Experct em Rubricas</summary>
+
+* <a href="https://www.youtube.com/watch?v=4zZzgKbJOt8" target="_blank">
+  Expert Rubricas
+</a>
+</details>
+
+
+
+<details>
+<summary>Expert eSocial</summary>
+
+* <a href="https://www.youtube.com/watch?v=4zZzgKbJOt8" target="_blank">
+  Expert eSocial
+</a>
+</details>
+
+
+
+<details>
+<summary>Nova DIRF</summary>
+
+* <a href="https://suporte.dominioatendimento.com/academy/faces/academy.html?modulo=19#" target="_blank">
+  Dirf
+</a>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <details>
 <summary>eSocial - Eventos de Tabela</summary>
 
 * <a href="https://www.youtube.com/watch?v=4zZzgKbJOt8" target="_blank">
   S-1000 - Empresa
 </a>
-
+</details>
 
 * <a href="https://www.youtube.com/watch?v=weFFtN5FaV4" target="_blank">
   S-1005 - Estabelecimento
