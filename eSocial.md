@@ -9,42 +9,118 @@
 <summary>eSocial - Eventos de Tabela</summary>
 
 * <a href="https://www.youtube.com/watch?v=4zZzgKbJOt8" target="_blank">
-  S-1000
+  S-1000 - Empresa
 </a>
 
 
 * <a href="https://www.youtube.com/watch?v=weFFtN5FaV4" target="_blank">
-  S-1005
+  S-1005 - Estabelecimento
 </a>
 
 
 * <a href="https://www.youtube.com/watch?v=jymLPoQqQos" target="_blank">
-  S-1010
+  S-1010 - Rubricas
 </a>
 
 
 * <a href="https://www.youtube.com/watch?v=86GoZ_TkzxI" target="_blank">
-  S-1010
+  S-1010 - Rubricas
 </a>
 
 
 * <a href="https://www.youtube.com/watch?v=eNni5_q9CTo" target="_blank">
-  S-1010
+  S-1010 - Rubricas
 </a>
 
 
 * <a href="https://www.youtube.com/watch?v=Pa63E5sUK1E" target="_blank">
-  S-1020
+  S-1020 - Lotação tributária
 </a>
 
 
 * <a href="https://www.youtube.com/watch?v=bnndoF3uIbY" target="_blank">
-  S-1070
+  S-1070 - Processo Administrativo
 </a>
 
 
 * <a href="https://www.youtube.com/watch?v=_DpsInKIWIM" target="_blank">
-  S-1080
+  S-1080 - Operadores Porturário
+</a>
+</details>
+
+
+
+<details>
+<summary>eSocial - Eventos Não Periódicos</summary>
+
+* <a href="https://www.youtube.com/watch?v=zczhBpI-Lns" target="_blank">
+  S-2190 - Admissão Preliminar (cadastro empregado não completo)
+</a>
+
+
+* <a href="https://www.youtube.com/watch?v=2kDcO9LtzKA" target="_blank">
+  S-2200 - Admissão do trabalhador (cadastro completo)
+</a>
+
+
+* <a href="https://www.youtube.com/watch?v=1sv0pbHJrRU" target="_blank">
+  S-2205 - Alteração Cadastral (empregado)
+</a>
+
+
+* <a href="https://www.youtube.com/watch?v=d2I9oJrpxks" target="_blank">
+  S-2206 - Alteração Contratual (empregado)
+</a>
+
+
+
+* <a href="https://www.youtube.com/watch?v=Vu5Ya_yQzOA" target="_blank">
+  S-2230 - Afastamento (empregado)
+</a>
+
+
+
+* <a href="https://www.youtube.com/watch?v=G8IAOePdVZU" target="_blank">
+  S-2260 - Convocação Trabalhador Intermitente
+</a>
+
+
+
+* <a href="https://www.youtube.com/watch?v=3Y5bQccIc7w" target="_blank">
+  S-2298 - Reintegração
+</a>
+
+
+
+* <a href="https://www.youtube.com/watch?v=Is1ZNRqqXhU" target="_blank">
+  S-2299 - Desligamento (rescisão do empregado)
+</a>
+
+
+
+* <a href="https://www.youtube.com/watch?v=SssDRiH9jbM" target="_blank">
+  S-2300 - Trabalhador sem Vínculo (contribuinte)
+</a>
+
+
+
+* <a href="https://www.youtube.com/watch?v=JaDhv18Fg6I" target="_blank">
+  S-2306 e S-2399 - Alteração Contratual Contribuinte e Desligamento de Contribuinte
+</a>
+</details>
+
+
+<details>
+<summary>eSocial - Reclamatória Trabalhista</summary>
+<details>
+    <sumary>Introdução - Reclamatória Trabalhista</sumary>
+* <a href="https://www.youtube.com/watch?v=4vnUVFM5OZQ" target="_blank">
+  Introdução - Reclamatória Trabalhista 1
+</a>
+
+
+* <a href="https://www.youtube.com/watch?v=4vnUVFM5OZQ" target="_blank">
+  Introdução - Reclamatória Trabalhista 2
 </a>
 </details>
 
