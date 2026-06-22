@@ -2,7 +2,10 @@
     <center><span style="color: #e65124;">ESOCIAL E SUAS TABELAS</span>
   </h1></center>
 
+
 <h2>No eSocial existem 4 tipos de eventos sendo, eventos de Tabela, Não periódicos, Periódicos e SST. Abaixo temos a separação de cada tabela.</h2>
+
+
 
 <h3>
 <details>
@@ -140,6 +143,7 @@
 </a>
 
 </details>
+
 
 
 <details>
