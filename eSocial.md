@@ -16,50 +16,32 @@
 * <a href="https://www.youtube.com/watch?v=weFFtN5FaV4" target="_blank">
   S-1005
 </a>
-</details>
 
-<details>
-<summary>eSocial - Eventos de Tabela</summary>
 
 * <a href="https://www.youtube.com/watch?v=jymLPoQqQos" target="_blank">
   S-1010
 </a>
-</details>
 
-<details>
-<summary>eSocial - Eventos de Tabela</summary>
 
 * <a href="https://www.youtube.com/watch?v=86GoZ_TkzxI" target="_blank">
   S-1010
 </a>
-</details>
 
-<details>
-<summary>eSocial - Eventos de Tabela</summary>
 
 * <a href="https://www.youtube.com/watch?v=eNni5_q9CTo" target="_blank">
   S-1010
 </a>
-</details>
 
-<details>
-<summary>eSocial - Eventos de Tabela</summary>
 
 * <a href="https://www.youtube.com/watch?v=Pa63E5sUK1E" target="_blank">
   S-1020
 </a>
-</details>
 
-<details>
-<summary>eSocial - Eventos de Tabela</summary>
 
 * <a href="https://www.youtube.com/watch?v=bnndoF3uIbY" target="_blank">
   S-1070
 </a>
-</details>
 
-<details>
-<summary>eSocial - Eventos de Tabela</summary>
 
 * <a href="https://www.youtube.com/watch?v=_DpsInKIWIM" target="_blank">
   S-1080
