@@ -145,10 +145,6 @@
 
 <details>
   <summary>Reclamatória Trabalhista - Estrutura</summary>
-    
-  <details>     
-<summary>Reclamatória Trabalhist - Informações dos Eventos</summary>
-
       
 *  <a href="https://www.youtube.com/watch?v=Dk8adspw52Q&list=PLXknSy3x3itkm_O99_Utkr_XOJ5qqdecI&index=6&pp=iAQB" target="_blank">
           Conteúdo Geral dos Eventos
