@@ -112,15 +112,10 @@
 <details>
   <summary>eSocial - Reclamatória Trabalhista</summary>
     
-  <details>
-    <summary>Introdução - Reclamatória Trabalhista</summary>
-    <ul>
-      <li>
-        <a href="https://www.youtube.com/watch?v=4vnUVFM5OZQ" target="_blank">
+  <details>     
+<summary>Introdução - Reclamatória Trabalhista</summary>
+          *  <a href="https://www.youtube.com/watch?v=4vnUVFM5OZQ" target="_blank">
           Introdução - Reclamatória Trabalhista 1
-        </a>
-      </li>
-    </ul>
   </details>
 
 </details>
