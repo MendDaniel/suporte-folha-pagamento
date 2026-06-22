@@ -310,6 +310,7 @@ Neste treinamento, você aprenderá, passo a passo, a configurar o Módulo Folha
 *  <a href="https://www.youtube.com/watch?v=KZWrX2FD8pA" target="_blank">
           Eventos Periódicos - S-1298 e S-1299
 </a>
+
 </details>
 
 
@@ -321,6 +322,7 @@ Neste treinamento, você aprenderá, passo a passo, a configurar o Módulo Folha
 *  <a href="https://www.youtube.com/watch?v=S46FlS7NWPQ" target="_blank">
           DCTF Web
 </a>
+
 </details>
 
 
@@ -331,6 +333,7 @@ Neste treinamento, você aprenderá, passo a passo, a configurar o Módulo Folha
 *  <a href="https://www.youtube.com/watch?v=GaVimiDoJ3Q" target="_blank">
           GRFGTS - Nova guia
 </a>
+
 </details>
 
 
@@ -342,6 +345,7 @@ Neste treinamento, você aprenderá, passo a passo, a configurar o Módulo Folha
 *  <a href="https://www.youtube.com/watch?v=GaVimiDoJ3Q" target="_blank">
           Cálculo de INSS atualmente
 </a>
+
 </details>
 
 
@@ -354,7 +358,9 @@ Neste treinamento, você aprenderá, passo a passo, a configurar o Módulo Folha
 *  <a href="https://www.youtube.com/watch?v=4zCCLUfNg10" target="_blank">
           Cálculo de IRRF atualmente
 </a>
+
 </details>
+
 </h3>
 
 
