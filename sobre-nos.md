@@ -34,3 +34,11 @@ Atuando desde 1998 em parceria com as Soluções Domínio, a Resulta Soluções 
 </div>
 </div>
 </div>
+
+<img src="Estrutura.png" alt="Estrutura" width="1000">
+
+<img src="Distribuição.png" alt="Distribuição" width="1000">
+
+<img src="TempoMedio.png" alt="TempoMedio" width="1000">
+
+<img src="Satisfacao.png" alt="Satisfacao" width="1000">
