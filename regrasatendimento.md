@@ -1,13 +1,33 @@
 <h1 style="font-size: 6rem; margin: 0; letter-spacing: -2px; color: #71717a;">
-    <center><span style="color: #e65124;">HORARIO DE TRABALHO</span>
+    <center><span style="color: #e65124;">REGRAS DE ATENDIMENTO</span>
   </h1></center>
 
-<h3>Nossa jornada de trabalho hoje é composta por uma carga horária diária de 06h20. Nossos horários de trabalho é: 
+<h3>Atualmente temos 3 modalidades de atendimento, sendo o Telefônico, Web e CHAT, todos os atendimentos tem um formato e um processo de regras a seguir para ser um atendimento bem conduzido: 
 
 <details>
-<summary>1º Jornadas de Trabalho</summary>
+<summary>Condução telefônica</summary>
+Aqui estão as diretrizes operacionais, com a ortografia e a redação ajustadas para uma melhor clareza e conformidade com a norma culta da língua portuguesa:
 
-* Temos 2 turnos de trabalho, o Matutino(manhã) e o Vespertino(tarde).
+* Iniciar a ligação com a saudação padrão e apresentar-se ao cliente, informando seu nome.
+* Acessar a opção “Detalhes” do cadastro do cliente no SGD para confirmar se há observações especiais.
+* Iniciar o cadastro da SSC ainda com o cliente em linha, enquanto ele explica o problema.
+* Confirmar se o usuário selecionado no SGD é o mesmo que efetuou a ligação (caso não seja, realizar o pré-cadastro dele).
+* Realizar questionamentos eliminatórios e direcionados ao cliente, a fim de identificar mais rapidamente a dúvida ou o erro.
+* Verificar, em SSCs pendentes, se já existe algum atendimento em andamento para o cliente sobre o mesmo assunto.
+* Realizar pesquisas no SGD relacionadas à dúvida ou ao erro do cliente.
+* Não permanecer mais de um minuto em silêncio sem interagir com o cliente, reforçando de forma cortês que ainda está avaliando o caso.
+* Realizar a conexão remota apenas após ter cadastrado a SSC do cliente.
+* Cadastrar a SSC e mantê-la com o status “Em análise” antes de alterar para “Aguardando resposta”.
+* Solicitar apoio a um técnico mais experiente caso não encontre as informações na pesquisa ou encontre dificuldades na solução do caso.
+* Solicitar apoio a um técnico experiente caso a ligação ultrapasse 20 minutos.
+* Solicitar ao cliente que acesse o SGD, verifique o registro do atendimento e realize a conclusão do mesmo (com votação).
+* Transferir o cliente para a pesquisa de satisfação ao final da ligação (utilizando a mensagem padrão).
+* Efetuar ligação de retorno para o cliente nos atendimentos iniciados por telefone, em vez de apenas responder à SSC.
+* Ao transferir a ligação para outro técnico, verificar o status dele no Skype ou no painel de telefone. Caso alguma das situações abaixo seja verdadeira, assumir o atendimento:
+     * O técnico está em treinamento;
+     * O técnico está em afastamento;
+     * O técnico está offline no painel do telefone.
+
 </details>
 
 <details>
