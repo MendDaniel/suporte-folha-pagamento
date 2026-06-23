@@ -38,7 +38,7 @@ Atuando desde 1998 em parceria com as Soluções Domínio, a Resulta Soluções 
       <img src="Estrutura.png" alt="Estrutura" style="max-width: 100%; height: auto; display: block; margin: 0 auto 10px;">
       <img src="Distribuição.png" alt="Distribuição" style="max-width: 100%; height: auto; display: block; margin: 0 auto 10px;">
       <img src="TempoMedio.png" alt="TempoMedio" style="max-width: 100%; height: auto; display: block; margin: 0 auto 10px;">
-      <img src="Satisfação.png" alt="Satisfacao" style="max-width: 100%; height: auto; display: block; margin: 0 auto 10px;">
+      <img src="Satisfacao.png" alt="Satisfacao" style="max-width: 100%; height: auto; display: block; margin: 0 auto 10px;">
     </td>
   </tr>
 </table>
