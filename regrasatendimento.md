@@ -10,7 +10,7 @@
     <center><span style="color: #e65124;">TELEFONE</span>
   </h1></center>
 <h3><details>
-<summary>Condução telefônica</summary>
+<summary>Condução Telefone</summary>
 
 Aqui estão as diretrizes operacionais, com a ortografia e a redação ajustadas para uma melhor clareza e conformidade com a norma culta da língua portuguesa:
 
@@ -43,7 +43,7 @@ Aqui estão as diretrizes operacionais, com a ortografia e a redação ajustadas
 <h3>
 <details>
 
-<summary>WEB</summary>
+<summary>Condução WEB</summary>
 
 * Confirmar se o formulário da SSC está preenchido corretamente (Sistema/Módulo/Tópico) e realizar o ajuste, caso necessário.
 * Atentar-se ao item “Tópico”, verificando se está de acordo com a dúvida ou o erro da solicitação do cliente.
