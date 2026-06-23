@@ -9,7 +9,7 @@
 <h1 style="font-size: 6rem; margin: 0; letter-spacing: -2px; color: #71717a;">
     <center><span style="color: #e65124;">TELEFONE</span>
   </h1></center>
-<details>
+<h3><details>
 <summary>Condução telefônica</summary>
 
 Aqui estão as diretrizes operacionais, com a ortografia e a redação ajustadas para uma melhor clareza e conformidade com a norma culta da língua portuguesa:
