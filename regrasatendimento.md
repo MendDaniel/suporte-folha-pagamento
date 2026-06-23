@@ -63,36 +63,19 @@ Aqui estão as diretrizes operacionais, com a ortografia e a redação ajustadas
 </h3>
 
 <h1 style="font-size: 6rem; margin: 0; letter-spacing: -2px; color: #71717a;">
-    <center><span style="color: #e65124;">REGRAS DE ATENDIMENTO - CHAT</span>
+    <center><span style="color: #e65124;">CHAT</span>
   </h1></center>
 
-<h3>Temos hoje 3 modalidades de atendimento sendo:    
+<h3>
 <details>    
-<summary>1º Atendimento Telefônico:</summary>
+<summary>Condução CHAT</summary>
 
-Passos para atendimento telefônico:
- * Ouvir o cliente
- * Filtrar o que precisa ser tratado
- * Ser empático(a)
- * Registrar o atendimento no SGD 
-</details>
-
-<details>
-<summary>2º Atendimento via WEB</summary>
-Passos para atendimento WEB: 
-* Colocar o atendimento em análise (em ordem crescente de chegada);
-* Entender o que o cliente precisa (se necessário, realizar contato telefônico para melhor entendimento);
-* Fazer o retorno do atendimento ao cliente.
-
-</details>
-
-<details>
-<summary>3º Atendimento via CHAT Humanizado</summary>
-
-* Ler com atenção as informações apresentadas pelo cliente;
-* Identificar com clareza a necessidade do cliente (em caso de dúvidas, realizar questionamentos e solicitar informações complementares e imagens);
-* Solicitar a participação do cliente na pesquisa de satisfação ao final do atendimento;
-* Realizar a integração do atendimento com o SGD.
+* Recepcionar o cliente com um a saldação padrão
+* Solicitar informações para entender melhor o que o cliente está procurando suporte e fazer para fazer o filtro da resposta correta
+* Sempre escrever em caixa baixa, em caso de necessidade dar ênfase em alguma informação usar o ["] aspas para o cliente entender que é uma informação importante
+* Olhar a informação do cliente de forma acolhedora e não com acusação
+* Mostrar para o cliente que se importa com a informação e necessidade que ele tem no momento
+* Após tempo de contato caso a situação persista, integrar o atenidmento com o SGD e procurar a supervisão para análise de terceirizar um contato telefônico
 
 </details>
 </h3>
