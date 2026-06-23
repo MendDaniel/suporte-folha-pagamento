@@ -1,5 +1,5 @@
 <h1 style="font-size: 6rem; margin: 0; letter-spacing: -2px; color: #71717a;">
-    <center><span style="color: #e65124;">REGRAS DE ATENDIMENTO GERAL</span>
+    <center><span style="color: #e65124;">REGRAS DE ATENDIMENTO</span>
   </h1></center>
 
 <p><h3>Atualmente temos 3 modalidades de atendimento, sendo o Telefônico, Web e CHAT, todos os atendimentos tem um formato e um processo de regras a seguir para ser um atendimento bem conduzido: </p>
@@ -7,7 +7,7 @@
 
 
 <h1 style="font-size: 6rem; margin: 0; letter-spacing: -2px; color: #71717a;">
-    <center><span style="color: #e65124;">REGRAS DE ATENDIMENTO - TELEFONE</span>
+    <center><span style="color: #e65124;">TELEFONE</span>
   </h1></center>
 <details>
 <summary>Condução telefônica</summary>
@@ -38,7 +38,7 @@ Aqui estão as diretrizes operacionais, com a ortografia e a redação ajustadas
 
 
 <h1 style="font-size: 6rem; margin: 0; letter-spacing: -2px; color: #71717a;">
-    <center><span style="color: #e65124;">REGRAS DE ATENDIMENTO - WEB</span>
+    <center><span style="color: #e65124;">WEB</span>
   </h1></center>
 <h3>
 <details>
