@@ -35,16 +35,16 @@ Aqui estão as diretrizes operacionais, com a ortografia e a redação ajustadas
    <details>
        <summary>Condução telefônica</summary>
  
-- [ ] Acessar a opção 'Detalhes' do cadastro do cliente no SGD para confirmar se o cliente possui observações.
-- [ ] Realizar questionamentos eliminatórios para identificar a dúvida ou o erro.
-- [ ] Realizar pesquisas no SGD relacionadas à dúvida ou ao erro do cliente.
-- [ ] Solicitar apoio a um técnico experiente caso não encontre a solução.
-- [ ] Solicitar apoio a um técnico experiente caso a ligação ultrapasse 20 minutos.
-- [ ] Não permanecer mais de 3 minutos em silêncio sem interagir com o cliente.
-- [ ] Iniciar o cadastro da solicitação com o cliente ainda em linha.
-- [ ] Confirmar se o usuário selecionado no SGD é o mesmo que efetuou a ligação.
-- [ ] Conversar com o cliente sobre a conclusão do atendimento ao final da ligação.
-</details>
+  - [ ] Acessar a opção 'Detalhes' do cadastro do cliente no SGD para confirmar se o cliente possui observações.
+  - [ ] Realizar questionamentos eliminatórios para identificar a dúvida ou o erro.
+  - [ ] Realizar pesquisas no SGD relacionadas à dúvida ou ao erro do cliente.
+  - [ ] Solicitar apoio a um técnico experiente caso não encontre a solução.
+  - [ ] Solicitar apoio a um técnico experiente caso a ligação ultrapasse 20 minutos.
+  - [ ] Não permanecer mais de 3 minutos em silêncio sem interagir com o cliente.
+  - [ ] Iniciar o cadastro da solicitação com o cliente ainda em linha.
+  - [ ] Confirmar se o usuário selecionado no SGD é o mesmo que efetuou a ligação.
+  - [ ] Conversar com o cliente sobre a conclusão do atendimento ao final da ligação.
+  </details>
 
 </details>
 </h3>
