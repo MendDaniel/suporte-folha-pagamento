@@ -4,10 +4,8 @@
 * [Treinamentos](#)
     * [Iniciais](/iniciais.md)
     * [Intermediário](/intermediario.md)
-    * [FGTS Digital](/fgtsdigital.md)
-    * [Crédito do Trabalhador](/creditotrabalhador.md)
     * [Especializações](/especializacao.md)
-    * [Treinamentos Sistema](/treinamentosistema.md)
+    
     * [TRCAP - Especialização Folha](/TRCAP.md)
     * [13º Especilização](/13ºTRCAP.md)
     * [Expert DCTF-Web](/expertdctf.md)
