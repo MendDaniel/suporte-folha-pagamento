@@ -30,7 +30,10 @@ Aqui estão as diretrizes operacionais, com a ortografia e a redação ajustadas
      * O técnico está em treinamento;
      * O técnico está em afastamento;
      * O técnico está offline no painel do telefone.
- <summary>Consulta e cadastro</summary>
+ 
+
+   <summary>Condução telefônica</summary>
+ 
 - [ ] Acessar a opção 'Detalhes' do cadastro do cliente no SGD para confirmar se o cliente possui observações.
 - [ ] Realizar questionamentos eliminatórios para identificar a dúvida ou o erro.
 - [ ] Realizar pesquisas no SGD relacionadas à dúvida ou ao erro do cliente.
