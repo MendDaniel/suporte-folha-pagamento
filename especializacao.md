@@ -6,7 +6,7 @@
 
   <p style="font-size: 1.6rem; color: #374151; line-height: 1.8; margin-bottom: 40px; text-align: justify;">
 <h3>Vamos aprimorar o conhecimento? Aqui temos cursos e treinamentos para elevar nosso conhecimento para o próximo nível.
-  </h3></p>
+  </p>
 
 
 
@@ -29,3 +29,4 @@
 </ul>
 
 </div>
+</h3>
