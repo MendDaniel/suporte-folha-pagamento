@@ -57,21 +57,6 @@ Aqui estão as diretrizes operacionais, com a ortografia e a redação ajustadas
 * Quando concluir o atendimento e mudar para “Aguardando resposta”, finalizar com o texto padrão (ver nota ao lado).
 
 </details>
-
-<details>
-<summary>2º Comunicação</summary>
-
-* Teams
-* Telefone (GoTo)
-* Discord (sala virtual do departamento)
-</details>
-
-<details>
-<summary>3º Trabalho</summary>
-
-* SGD (site oficial de atendimentos do cliente)
-* IA's (chat gpt, copilot, gemini, ia sgd e etc...)
-</details>
 </h3>
 
 <h1 style="font-size: 6rem; margin: 0; letter-spacing: -2px; color: #71717a;">
