@@ -38,9 +38,7 @@ Aqui estão as diretrizes operacionais, com a ortografia e a redação ajustadas
     <center><span style="color: #e65124;">REGRAS DE ATENDIMENTO - WEB</span>
   </h1></center>
 <h3>
-    
 <details>
-
 
 <sumery>WEB</sumery>
 
@@ -51,14 +49,13 @@ Aqui estão as diretrizes operacionais, com a ortografia e a redação ajustadas
 * O cliente demonstra insatisfação no atendimento (reclamações, uso de caixa alta, pedidos de prioridade, etc.);
 * Solicitações com muitos trâmites (acima de duas contra-respostas do cliente já é interessante realizar a ligação);
 * O atendimento foi marcado com prioridade.
-
-
 * Os atendimentos só devem permanecer com o status “Em análise” enquanto o cliente estiver em linha; caso a chamada seja encerrada, alterar para “Em análise técnica” e inserir a observação (exemplo: buscando orientação com o coordenador, aguardando retorno da SS, etc.).
 * Revisitar os atendimentos “pendentes” ao menos uma vez por dia e realizar atualizações com registros de testes, contatos ou análises, mantendo o trâmite como “Em análise técnica”.
 * Efetuar contato telefônico com o cliente, no máximo, a cada dois dias, informando sobre os testes, processos ou análises que estão sendo realizados, e formalizar o contato na SSC através de um trâmite “Em análise” para manter a visibilidade para o cliente.
 * Confirmar se todas as informações necessárias já estão anexadas à SSC e devidamente detalhadas (ver checklist ao lado).
 * Ler o trâmite por completo antes de gravar, para evitar o registro de SSC para cliente diferente ou qualquer outro erro no retorno.
 * Quando concluir o atendimento e mudar para “Aguardando resposta”, finalizar com o texto padrão (ver nota ao lado).
+
 </details>
 
 <details>
