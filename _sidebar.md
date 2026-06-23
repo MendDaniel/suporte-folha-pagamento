@@ -5,11 +5,6 @@
     * [Iniciais](/iniciais.md)
     * [Intermediário](/intermediario.md)
     * [Especializações](/especializacao.md)
-    
-    * [TRCAP - Especialização Folha](/TRCAP.md)
-    * [13º Especilização](/13ºTRCAP.md)
-    * [Expert DCTF-Web](/expertdctf.md)
-    * [Expert eSocial](/experteSocial.md) 
 * [Funções do Departamento da Folha](#)
     * [Regra de atendimento](/RegrasAtendimento.md)
     * [Informações Básicas Suporte](/Informacoesbasicas.md)
