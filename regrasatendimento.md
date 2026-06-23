@@ -5,7 +5,12 @@
 <h3>Atualmente temos 3 modalidades de atendimento, sendo o Telefônico, Web e CHAT, todos os atendimentos tem um formato e um processo de regras a seguir para ser um atendimento bem conduzido: 
 
 <details>
+
+    
 <summary>Condução telefônica</summary>
+
+
+
 Aqui estão as diretrizes operacionais, com a ortografia e a redação ajustadas para uma melhor clareza e conformidade com a norma culta da língua portuguesa:
 
 * Iniciar a ligação com a saudação padrão e apresentar-se ao cliente, informando seu nome.
