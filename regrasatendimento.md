@@ -30,11 +30,38 @@ Aqui estão as diretrizes operacionais, com a ortografia e a redação ajustadas
      * O técnico está em treinamento;
      * O técnico está em afastamento;
      * O técnico está offline no painel do telefone.
+ 
+<style>
+  .checklist-item {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 12px;
+    font-family: sans-serif;
+  }
+  .checkmark {
+    color: #e65124; /* Cor laranja solicitada */
+    font-weight: bold;
+    margin-right: 10px;
+    font-size: 18px;
+  }
+</style>
+
+<div class="checklist">
+  <div class="checklist-item"><span class="checkmark">&#10004;</span> Acessar a opção 'Detalhes' do cadastro do cliente no SGD para confirmar se o cliente possui observações e os dados de seu contrato.</div>
+  <div class="checklist-item"><span class="checkmark">&#10004;</span> Realizar questionamentos eliminatórios e direcionados ao cliente a fim de identificar mais rapidamente a dúvida ou o erro.</div>
+  <div class="checklist-item"><span class="checkmark">&#10004;</span> Realizar pesquisas no SGD relacionadas à dúvida ou ao erro do cliente.</div>
+  <div class="checklist-item"><span class="checkmark">&#10004;</span> Solicitar apoio a um técnico experiente caso não encontre as informações na pesquisa ou esteja com dificuldade na solução da situação.</div>
+  <div class="checklist-item"><span class="checkmark">&#10004;</span> Solicitar apoio a um técnico experiente caso a ligação ultrapasse 20 minutos.</div>
+  <div class="checklist-item"><span class="checkmark">&#10004;</span> Não permanecer mais de 3 minutos em silêncio sem conversar ou reforçar com o cliente que ainda está em avaliação do caso.</div>
+  <div class="checklist-item"><span class="checkmark">&#10004;</span> Iniciar o cadastro da solicitação com o cliente ainda em linha, enquanto demais processos ou conversas estão sendo realizados.</div>
+  <div class="checklist-item"><span class="checkmark">&#10004;</span> Confirmar se o usuário selecionado no SGD é o mesmo que efetuou a ligação.</div>
+  <div class="checklist-item"><span class="checkmark">&#10004;</span> Conversar com o cliente sobre a solicitação de conclusão do atendimento ao final da ligação.</div>
+</div>
 
 </details>
 
 <details>
-<summary>2º Jornada de Trabalho - Matutino</summary>
+<summary>Condução WEB</summary>
 
 * Entrada: 08h
 * Saída: 14h20
@@ -44,7 +71,7 @@ Aqui estão as diretrizes operacionais, com a ortografia e a redação ajustadas
 </details>
 
 <details>
-<summary>3º Jornada de Trabalho - Vespertino</summary>
+<summary>Condução CHAT</summary>
 
 * Entrada: 11h40
 * Saída: 18h
