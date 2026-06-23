@@ -59,5 +59,22 @@
   
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+
+  <script>
+    document.addEventListener("click", function(e) {
+      // Verifica se o link clicado pertence ao domínio do suporte
+      if (e.target.tagName === 'A' && e.target.href.includes('suporte.dominioatendimento.com')) {
+        const confirmacao = confirm(
+          "Você será redirecionado para o Portal de Atendimento.\n\n" +
+          "Certifique-se de que já está logado no sistema para acessar esta página de treinamento.\n" +
+          "Caso o erro 'Acesso Proibido' apareça, realize o login primeiro e tente novamente."
+        );
+        
+        if (!confirmacao) {
+          e.preventDefault();
+        }
+      }
+    });
+  </script>
 </body>
 </html>
