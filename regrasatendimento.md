@@ -32,7 +32,8 @@ Aqui estão as diretrizes operacionais, com a ortografia e a redação ajustadas
      * O técnico está offline no painel do telefone.
  
 
-   <details><summary>Condução telefônica</summary>
+   <details>
+       <summary>Condução telefônica</summary>
  
 - [ ] Acessar a opção 'Detalhes' do cadastro do cliente no SGD para confirmar se o cliente possui observações.
 - [ ] Realizar questionamentos eliminatórios para identificar a dúvida ou o erro.
@@ -44,6 +45,7 @@ Aqui estão as diretrizes operacionais, com a ortografia e a redação ajustadas
 - [ ] Confirmar se o usuário selecionado no SGD é o mesmo que efetuou a ligação.
 - [ ] Conversar com o cliente sobre a conclusão do atendimento ao final da ligação.
 </details>
+
 </details>
 </h3>
 
