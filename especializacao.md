@@ -5,15 +5,15 @@
   </h1>
 
   <p style="font-size: 1.6rem; color: #374151; line-height: 1.8; margin-bottom: 40px; text-align: justify;">
-Vamos aprimorar o conhecimento? Aqui temos cursos e treinamentos para elevar nosso conhecimento para o próximo nível.
-  </p>
+<h3>Vamos aprimorar o conhecimento? Aqui temos cursos e treinamentos para elevar nosso conhecimento para o próximo nível.
+  </h3></p>
 
 
 
 
 <h3>
 <details>
-<summary>Especializações - Domínio Sistemas</summary>
+<summary>Especializações - Folha de Pagamento</summary>
 
 <ul>
   <li><a href="https://suporte.dominioatendimento.com/academy/faces/academy-treinamento.html?codigo=70&sessao=1" target="_blank">DomínioCAP | Módulo I - Regimes Tributários</a></li>
