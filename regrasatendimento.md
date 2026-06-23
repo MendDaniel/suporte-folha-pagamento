@@ -1,5 +1,5 @@
 <h1 style="font-size: 6rem; margin: 0; letter-spacing: -2px; color: #71717a;">
-    <center><span style="color: #e65124;">REGRAS DE ATENDIMENTO</span>
+    <center><span style="color: #e65124;">REGRAS DE ATENDIMENTO - TELEFONE</span>
   </h1></center>
 
 <p><h3>Atualmente temos 3 modalidades de atendimento, sendo o Telefônico, Web e CHAT, todos os atendimentos tem um formato e um processo de regras a seguir para ser um atendimento bem conduzido: </p>
@@ -42,31 +42,11 @@ Aqui estão as diretrizes operacionais, com a ortografia e a redação ajustadas
 - [ ] Conversar com o cliente sobre a conclusão do atendimento ao final da ligação.
 
 </details>
-
-<details>
-<summary>Condução WEB</summary>
-
-* Entrada: 08h
-* Saída: 14h20
-* Pausa de 10minutos
-* Pausa de 20minutos
-* Pausa de 10minutos
-</details>
-
-<details>
-<summary>Condução CHAT</summary>
-
-* Entrada: 11h40
-* Saída: 18h
-* Pausa de 10minutos
-* Pausa de 20minutos
-* Pausa de 10minutos
-</details>
 </h3>
 
 
 <h1 style="font-size: 6rem; margin: 0; letter-spacing: -2px; color: #71717a;">
-    <center><span style="color: #e65124;">FERRAMENTAS</span>
+    <center><span style="color: #e65124;">REGRAS DE ATENDIMENTO - WEB</span>
   </h1></center>
 <h3>
     <details>
@@ -95,7 +75,7 @@ Aqui estão as diretrizes operacionais, com a ortografia e a redação ajustadas
 </h3>
 
 <h1 style="font-size: 6rem; margin: 0; letter-spacing: -2px; color: #71717a;">
-    <center><span style="color: #e65124;">FUNCOES</span>
+    <center><span style="color: #e65124;">REGRAS DE ATENDIMENTO - CHAT</span>
   </h1></center>
 
 <h3>Temos hoje 3 modalidades de atendimento sendo:    
