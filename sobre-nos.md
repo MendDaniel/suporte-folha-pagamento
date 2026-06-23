@@ -30,11 +30,6 @@ Atuando desde 1998 em parceria com as Soluções Domínio, a Resulta Soluções 
   <span style="display: inline-block !important; background-color: #e65124 !important; padding: 12px 25px !important; margin: 0 10px !important; border-radius: 8px !important; font-weight: bold !important; color: #ffffff !important; box-shadow: 0 4px 6px rgba(0,0,0,0.4) !important;">Umuarama</span>
 </p>
 
-
-</div>
-</div>
-</div>
-
 <img src="Estrutura.png" alt="Estrutura" width="1000">
 
 <img src="Distribuição.png" alt="Distribuição" width="1000">
@@ -42,3 +37,11 @@ Atuando desde 1998 em parceria com as Soluções Domínio, a Resulta Soluções 
 <img src="TempoMedio.png" alt="TempoMedio" width="1000">
 
 <img src="Satisfacao.png" alt="Satisfacao" width="1000">
+
+
+
+
+</div>
+</div>
+</div>
+
