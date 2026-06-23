@@ -30,25 +30,7 @@ Aqui estão as diretrizes operacionais, com a ortografia e a redação ajustadas
      * O técnico está em treinamento;
      * O técnico está em afastamento;
      * O técnico está offline no painel do telefone.
- 
-
-   <details>
-
-  
-    <p><summary>Condução telefônica</summary></p>
- 
-  - [ ] Acessar a opção 'Detalhes' do cadastro do cliente no SGD para confirmar se o cliente possui observações.
-  - [ ] Realizar questionamentos eliminatórios para identificar a dúvida ou o erro.
-  - [ ] Realizar pesquisas no SGD relacionadas à dúvida ou ao erro do cliente.
-  - [ ] Solicitar apoio a um técnico experiente caso não encontre a solução.
-  - [ ] Solicitar apoio a um técnico experiente caso a ligação ultrapasse 20 minutos.
-  - [ ] Não permanecer mais de 3 minutos em silêncio sem interagir com o cliente.
-  - [ ] Iniciar o cadastro da solicitação com o cliente ainda em linha.
-  - [ ] Confirmar se o usuário selecionado no SGD é o mesmo que efetuou a ligação.
-  - [ ] Conversar com o cliente sobre a conclusão do atendimento ao final da ligação.
-  </details>
-
-</details>
+ </details>
 </h3>
 
 
@@ -57,12 +39,21 @@ Aqui estão as diretrizes operacionais, com a ortografia e a redação ajustadas
   </h1></center>
 <h3>
     <details>
-<summary>1º Físico</summary>
+* Confirmar se o formulário da SSC está preenchido corretamente (Sistema/Módulo/Tópico) e realizar o ajuste, caso necessário.
+* Atentar-se ao item “Tópico”, verificando se está de acordo com a dúvida ou o erro da solicitação do cliente.
+* Entrar em contato por telefone com o cliente caso qualquer uma das opções abaixo seja verdadeira:
+* Há observações no cadastro da solicitação informando insatisfação ou dificuldade no atendimento;
+* O cliente demonstra insatisfação no atendimento (reclamações, uso de caixa alta, pedidos de prioridade, etc.);
+* Solicitações com muitos trâmites (acima de duas contra-respostas do cliente já é interessante realizar a ligação);
+* O atendimento foi marcado com prioridade.
 
-* 1 laptop
-* 1 HeadSet
-* 1 Jogo de mouse/teclado
-* 1 monitor externo
+
+* Os atendimentos só devem permanecer com o status “Em análise” enquanto o cliente estiver em linha; caso a chamada seja encerrada, alterar para “Em análise técnica” e inserir a observação (exemplo: buscando orientação com o coordenador, aguardando retorno da SS, etc.).
+* Revisitar os atendimentos “pendentes” ao menos uma vez por dia e realizar atualizações com registros de testes, contatos ou análises, mantendo o trâmite como “Em análise técnica”.
+* Efetuar contato telefônico com o cliente, no máximo, a cada dois dias, informando sobre os testes, processos ou análises que estão sendo realizados, e formalizar o contato na SSC através de um trâmite “Em análise” para manter a visibilidade para o cliente.
+* Confirmar se todas as informações necessárias já estão anexadas à SSC e devidamente detalhadas (ver checklist ao lado).
+* Ler o trâmite por completo antes de gravar, para evitar o registro de SSC para cliente diferente ou qualquer outro erro no retorno.
+* Quando concluir o atendimento e mudar para “Aguardando resposta”, finalizar com o texto padrão (ver nota ao lado).
 </details>
 
 <details>
