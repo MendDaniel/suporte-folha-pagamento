@@ -35,7 +35,7 @@ Aqui estão as diretrizes operacionais, com a ortografia e a redação ajustadas
    <details>
 
   
-<p><summary>Condução telefônica</summary></p>
+    <p><summary>Condução telefônica</summary></p>
  
   - [ ] Acessar a opção 'Detalhes' do cadastro do cliente no SGD para confirmar se o cliente possui observações.
   - [ ] Realizar questionamentos eliminatórios para identificar a dúvida ou o erro.
