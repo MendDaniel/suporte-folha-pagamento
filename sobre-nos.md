@@ -32,26 +32,7 @@ Atuando desde 1998 em parceria com as Soluções Domínio, a Resulta Soluções 
 
 </div>
 </div>
-</div><div style="text-align: center; margin-top: 30px;">
-  <img src="Estrutura.jpg" alt="Estrutura" style="max-width: 100%; height: auto; margin-bottom: 20px;">
-  <img src="distribuicao.png" alt="Distribuição" style="max-width: 100%; height: auto; margin-bottom: 20px;">
-  <img src="TempoMedio.png" alt="TempoMedio" style="max-width: 100%; height: auto; margin-bottom: 20px;">
-  <img src="satisfacao.png" alt="Satisfacao" style="max-width: 100%; height: auto; margin-bottom: 20px;">
-</div>
 
-
-
-
-
-
-<p>Hoje a empresa tem 3 unidades sendo elas em:</p>
-
-<table style="width: 100%; border: none; border-collapse: collapse; text-align: center;">
-  <tr>
-    <td style="padding: 10px;"><strong>Cascavel</strong></td>
-    <td style="padding: 10px;"><strong>Pato Branco</strong></td>
-    <td style="padding: 10px;"><strong>Umuarama</strong></td>
-  </tr>
   <tr>
     <td colspan="3" style="padding: 20px;">
       <img src="Estrutura.png" alt="Estrutura" style="max-width: 100%; height: auto; display: block; margin: 0 auto 10px;">
