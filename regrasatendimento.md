@@ -2,14 +2,12 @@
     <center><span style="color: #e65124;">REGRAS DE ATENDIMENTO</span>
   </h1></center>
 
-<h3>Atualmente temos 3 modalidades de atendimento, sendo o Telefônico, Web e CHAT, todos os atendimentos tem um formato e um processo de regras a seguir para ser um atendimento bem conduzido: 
+<p><h3>Atualmente temos 3 modalidades de atendimento, sendo o Telefônico, Web e CHAT, todos os atendimentos tem um formato e um processo de regras a seguir para ser um atendimento bem conduzido: </p>
+
+
 
 <details>
-
-    
 <summary>Condução telefônica</summary>
-
-
 
 Aqui estão as diretrizes operacionais, com a ortografia e a redação ajustadas para uma melhor clareza e conformidade com a norma culta da língua portuguesa:
 
