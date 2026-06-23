@@ -11,7 +11,7 @@
 <details>
 <summary>Crédito do Trabalhador</summary>
 
-* <a href="https://www.youtube.com/watch?v=4zZzgKbJOt8" target="_blank">
+* <a href="https://suporte.dominioatendimento.com/academy/faces/academy-treinamento.html?codigo=68&sessao=1" target="_blank">
   Crédito do Trabalhador
 </a>
 </details>
@@ -22,7 +22,7 @@
 <details>
 <summary>FGTS DIgital</summary>
 
-* <a href="https://www.youtube.com/watch?v=4zZzgKbJOt8" target="_blank">
+* <a href="https://suporte.dominioatendimento.com/academy/faces/academy-treinamento.html?codigo=59&sessao=1" target="_blank">
   FGTS Digital
 </a>
 </details>
@@ -33,7 +33,7 @@
 <details>
 <summary>Experct em Rubricas</summary>
 
-* <a href="https://www.youtube.com/watch?v=4zZzgKbJOt8" target="_blank">
+* <a href="https://suporte.dominioatendimento.com/academy/faces/academy-treinamento.html?codigo=60&sessao=1" target="_blank">
   Expert Rubricas
 </a>
 </details>
@@ -43,7 +43,7 @@
 <details>
 <summary>Expert eSocial</summary>
 
-* <a href="https://www.youtube.com/watch?v=4zZzgKbJOt8" target="_blank">
+* <a href="https://suporte.dominioatendimento.com/academy/faces/academy-treinamento.html?codigo=51&sessao=1" target="_blank">
   Expert eSocial
 </a>
 </details>
