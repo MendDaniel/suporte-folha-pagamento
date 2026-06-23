@@ -6,7 +6,7 @@
     * [Intermediário](/intermediario.md)
     * [Especializações](/especializacao.md)
 * [Funções do Departamento da Folha](#)
-    * [Regra de atendimento](/RegrasAtendimento.md)
+    * [Regra de atendimento](/regrasatendimento.md)
     * [Informações Básicas Suporte](/Informacoesbasicas.md)
     * [Textos Padrões](/TextosPadrões.md)
 * [Processo do suporte](#)
