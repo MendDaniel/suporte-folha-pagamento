@@ -39,6 +39,7 @@ Aqui estão as diretrizes operacionais, com a ortografia e a redação ajustadas
   </h1></center>
 <h3>
     <details>
+        <sumery>WEB</sumery>
 * Confirmar se o formulário da SSC está preenchido corretamente (Sistema/Módulo/Tópico) e realizar o ajuste, caso necessário.
 * Atentar-se ao item “Tópico”, verificando se está de acordo com a dúvida ou o erro da solicitação do cliente.
 * Entrar em contato por telefone com o cliente caso qualquer uma das opções abaixo seja verdadeira:
