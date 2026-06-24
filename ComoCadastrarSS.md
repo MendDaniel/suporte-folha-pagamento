@@ -67,7 +67,7 @@
 
   * Caso tenha conseguido reproduzir no banco origem colocar o passo a passo de como a pessoa vai conseguir ter o mesmo resultado que você teve no que você fez no banco como exemplo:
    
-     * Quando o teste foi reproduzido na unidade.
+   * Quando o teste foi reproduzido na unidade.
 
 
      - [ ] cadastrar uma empresa com início em dd/mm/aaaa
