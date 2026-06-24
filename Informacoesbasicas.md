@@ -1,17 +1,29 @@
-<div style="font-family: sans-serif; padding: 40px; max-width: 1200px; margin: 0 auto;">
+<h1 style="font-size: 6rem; margin: 0; letter-spacing: -2px; color: #71717a;">
+    <center><span style="color: #e65124;">REGRAS DE ATENDIMENTO</span>
+  </h1></center>
 
-  <h1 style="font-size: 3.5rem; color: #e65124; text-align: center; margin-bottom: 50px;">
-   PRÁTICAS DO DEPARTAMENTO PESSOAL
-  </h1>
+<p><h3>Atualmente temos 3 modalidades de atendimento, sendo o Telefônico, Web e CHAT, todos os atendimentos tem um formato e um processo de regras a seguir para ser um atendimento bem conduzido: </p>
 
-  <p style="font-size: 1.6rem; color: #374151; line-height: 1.8; margin-bottom: 40px; text-align: justify;">
-    Departamento pessoal é diferente de RH. O deparamento pessoal ele trata as questões legais de um contrato entre as partes (empresa e mpregado). Neste treinamento você vai entender na prática as funções, rotinas e práticas do departamento pessoal.
-  </p>
 
-  <div style="text-align: left;">
-    <a href="[https://dominiosistemas.learning.rocks/contents/1358024?ref=spaces&ref_detail=136485](https://dominiosistemas.atenalms.com.br/missions/ywIUa9pMgUiewkq9eqO1)" target="_blank" style="font-size: 1.4rem; color: #e65124; font-weight: bold; text-decoration: underline;">
-      Acessar Treinamento: Práticas do Departamento Pessoal
-    </a>
-  </div>
 
-</div>
+<h1 style="font-size: 6rem; margin: 0; letter-spacing: -2px; color: #71717a;">
+    <center><span style="color: #e65124;">TELEFONE</span>
+  </h1></center>
+<h3><details>
+<summary>Condução Telefone</summary>
+
+Aqui estão as diretrizes operacionais, com a ortografia e a redação ajustadas para uma melhor clareza e conformidade com a norma culta da língua portuguesa:
+
+ * Toda SSC deve ser tramitada de modo que esteja claro o problema/dúvida do cliente e a solução que foi aplicada para resolver o atendimento
+ * Anexar relatórios, telas e gravações dos erros dúvidas e questões apresentadas pelo cliente
+ * Colher entre todas as outras informações, cópia do banco e a senha de acesso antes de abrir SS 
+ 
+    * Saudação por telefone:
+   - [ ] Resulta Soluções, seu nome. Bom dia, como posso ajudar?
+
+ * Finalizando ligação com pesquisa de satisfação:
+   - [ ] Qualquer dúvida nova, pode entrar em contato, estou a disposição para ajudar. 
+   - [ ] Nosso atendimento está aberto e com isso vou responder para você no ONVIO, havendo dúvida pode me retornar no próprio atendimento que aparecendo aqui no meu painel sua resposta eu já vejo e faço um retorno.
+   - [ ] Caso tenha finalizado e não restou dúvida sobre o que tratamos, vou pedir a gentileza para concluir o atendimento no ONVIO sinalizando que deu tudo certo. 
+ </details>
+</h3>
