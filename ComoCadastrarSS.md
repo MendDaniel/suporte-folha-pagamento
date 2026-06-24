@@ -75,7 +75,7 @@
 * - [ ] Empregado: (código)
 
 
-* Se backup local:
+<p>Se backup local:</p>
 * - [ ] Colocar o caminho onde está o backup dentro do FTP.
 * - [ ] Usuário: GERENTE 
 * - [ ] Senha: 
