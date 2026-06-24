@@ -36,28 +36,38 @@
 
    <details>
      <summary>Assunto</summary>
-     * Coloque informação curta que a pessoa ao ler vai saber do que se trata.
+
+       
+  * Coloque informação curta que a pessoa ao ler vai saber do que se trata.
      
    </details>
    <details>
    <summary>Descrição detalhada:</summary>
-     * Neste campo coloque a informação direta com o assunto que precisa ser tratado.
+  
+       
+  * Neste campo coloque a informação direta com o assunto que precisa ser tratado.
      
 </details>
 <details>
    <summary>Detalhamento, testes e consultas:</summary>
-     * Aqui coloque tudo o que você viu no ambiente do cliente, em cópia do banco, pesquisas, testes no banco do cliente.
+  
+  
+  * Aqui coloque tudo o que você viu no ambiente do cliente, em cópia do banco, pesquisas, testes no banco do cliente.
      
 
 </details>
 <details>
    <summary>Passo a Passo para reproduzir:</summary>
-     * Caso tenha conseguido reproduzir no banco origem colocar o passo a passo de como a pessoa vai conseguir ter o mesmo resultado que você teve no que você fez no banco como exemplo:
+  
+    
+  * Caso tenha conseguido reproduzir no banco origem colocar o passo a passo de como a pessoa vai conseguir ter o mesmo resultado que você teve no que você fez no banco como exemplo:
      
 </details>
 <details>
    <summary>Pergunta</summary>
-     * Colocar a pergunta direta do que você realmente precisa e como ajustar a situação.
+  
+    
+  * Colocar a pergunta direta do que você realmente precisa e como ajustar a situação.
      
 </details>
 <details>
@@ -66,22 +76,22 @@
     
  <p>Se cliente backup nuvem:</p>
  
-* - [ ] Colocar o link de acesso ao banco.
-* - [ ] Colocar a informação do backup completo.
-* - [ ] Colocar a informação do backup modificações.
-* - [ ] Usuário: GERENTE 
-* - [ ] Senha: 
-* - [ ] Empresa: (código)  
-* - [ ] Empregado: (código)
+   * - [ ] Colocar o link de acesso ao banco.
+   * - [ ] Colocar a informação do backup completo.
+   * - [ ] Colocar a informação do backup modificações.
+   * - [ ] Usuário: GERENTE 
+   * - [ ] Senha: 
+   * - [ ] Empresa: (código)  
+   * - [ ] Empregado: (código)
 
 
 <p>Se backup local:</p>
 
-* - [ ] Colocar o caminho onde está o backup dentro do FTP.
-* - [ ] Usuário: GERENTE 
-* - [ ] Senha: 
-* - [ ] Empresa: (código)  
-* - [ ] Empregado: (código)
+   * - [ ] Colocar o caminho onde está o backup dentro do FTP.
+   * - [ ] Usuário: GERENTE 
+   * - [ ] Senha: 
+   * - [ ] Empresa: (código)  
+   * - [ ] Empregado: (código)
 
    
 </details>
