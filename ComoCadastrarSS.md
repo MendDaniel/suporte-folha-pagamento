@@ -35,22 +35,32 @@
 <p>Agora com tudo pronto, detalhado e em mãos, hora de abrir a SS.</p>
 
    <details>
+     <summary>Descrição detalhada:</summary>
+     *
+     *
+   </details>
+   <details>
    <summary>Descrição detalhada:</summary>
      *
      *
-
+</details>
+<details>
    <summary>Detalhamento, testes e consultas:</summary>
      *
      *
 
+</details>
+<details>
    <summary>Passo a Passo para reproduzir:</summary>
      *
      *
-
+</details>
+<details>
    <summary>Pergunta</summary>
      *
      *
-
+</details>
+<details>
    <summary>Banco de dados</summary>
      *
      *
