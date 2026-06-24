@@ -36,8 +36,8 @@
 
 
    <summary>Descrição detalhada:</summary>
-  *
-  *
+     *
+     *
 
    <summary>Detalhamento, testes e consultas:</summary>
   *
