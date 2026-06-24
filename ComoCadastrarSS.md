@@ -46,7 +46,7 @@
    <details> 
 <summary>Descrição detalhada:</summary>
 
-  
+ 
    * Neste campo coloque a informação direta com o assunto que precisa ser tratado.
 
      
@@ -82,7 +82,9 @@
 <details>
 <summary>Banco de dados</summary>
     
+ 
  <p>Se cliente backup nuvem:</p>
+
  
    * - [ ] Colocar o link de acesso ao banco.
    * - [ ] Colocar a informação do backup completo.
