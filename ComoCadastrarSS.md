@@ -62,23 +62,27 @@
 </details>
 <details>
    <summary>Banco de dados</summary>
-* **Se cliente backup nuvem:**
-  * Colocar o link de acesso ao banco.
-  * Colocar a informação do backup completo.
-  * Colocar a informação do backup modificações.
-  * **Usuário:** GERENTE | **Senha:** ` ` | **Empresa:** (código) | **Empregado:** (código)
+    * **Se cliente backup nuvem:**
+      * Colocar o link de acesso ao banco.
+      * Colocar a informação do backup completo.
+      * Colocar a informação do backup modificações.
+      * **Usuário:** GERENTE 
+      * **Senha:** 
+      * **Empresa:** (código)  
+      * **Empregado:** (código)
 
 * **Se backup local:**
-  * Colocar o caminho onde está o backup dentro do FTP.
-  * **Usuário:** GERENTE | **Senha:** ` ` | **Empresa:** (código) | **Empregado:** (código)
-
----
-
-> 💡 **Importante:** Sempre colocar anexos para provar tudo o que você está questionando (não confiamos no cliente pois não sabemos o que o cliente efetivamente fez assim também é eles para com a gente).
+      * Colocar o caminho onde está o backup dentro do FTP.
+      * **Usuário:** GERENTE 
+      * **Senha:** 
+      * **Empresa:** (código)  
+      * **Empregado:** (código)
 
    
 </details>
 </details>
+
+> 💡 **Importante:** Sempre colocar anexos para provar tudo o que você está questionando (não confiamos no cliente pois não sabemos o que o cliente efetivamente fez assim também é eles para com a gente).
 </h3>
 
 
