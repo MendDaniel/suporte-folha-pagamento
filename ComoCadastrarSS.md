@@ -69,17 +69,17 @@
 * - [ ] Colocar a informação do backup completo.
 * - [ ] Colocar a informação do backup modificações.
 * - [ ] Usuário: GERENTE 
-* - [ ]Senha: 
-* - [ ]Empresa: (código)  
-* - [ ]Empregado: (código)
+* - [ ] Senha: 
+* - [ ] Empresa: (código)  
+* - [ ] Empregado: (código)
 
 
 * Se backup local:
 * - [ ] Colocar o caminho onde está o backup dentro do FTP.
 * - [ ] Usuário: GERENTE 
-* - [ ]Senha: 
-* - [ ]Empresa: (código)  
-* - [ ]Empregado: (código)
+* - [ ] Senha: 
+* - [ ] Empresa: (código)  
+* - [ ] Empregado: (código)
 
    
 </details>
