@@ -62,11 +62,12 @@
 </details>
 <details>
    <summary>Banco de dados</summary>
-      * Se cliente backup nuvem:
-      * Colocar o link de acesso ao banco.
-      * Colocar a informação do backup completo.
-      * Colocar a informação do backup modificações.
+
     
+  * Se cliente backup nuvem:
+* - [ ] Colocar o link de acesso ao banco.
+* - [ ] Colocar a informação do backup completo.
+* - [ ] Colocar a informação do backup modificações.
 * - [ ] Usuário: GERENTE 
 * - [ ]Senha: 
 * - [ ]Empresa: (código)  
@@ -74,7 +75,7 @@
 
 
 * Se backup local:
-* Colocar o caminho onde está o backup dentro do FTP.
+* - [ ] Colocar o caminho onde está o backup dentro do FTP.
 * - [ ] Usuário: GERENTE 
 * - [ ]Senha: 
 * - [ ]Empresa: (código)  
