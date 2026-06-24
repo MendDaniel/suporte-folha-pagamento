@@ -67,20 +67,20 @@
 
   * Caso tenha conseguido reproduzir no banco origem colocar o passo a passo de como a pessoa vai conseguir ter o mesmo resultado que você teve no que você fez no banco como exemplo:
    
-   * Quando o teste foi reproduzido na unidade.
+     * Quando o teste foi reproduzido na unidade.
      
-   - [ ] cadastrar uma empresa com início em dd/mm/aaaa
-   - [ ] configurar o parâmetros com as definições AAAAA e BBBBB
-   - [ ] configurar o sindicato com YYYY e JJJJ
-   - [ ] cadastrar empregado com data de admissão dd/mm/aaaa
-   * Obs.: Aqui tem que ser absolutamente tudo detalhado sem esquecer de nenhum detalhe.
+     - [ ] cadastrar uma empresa com início em dd/mm/aaaa
+     - [ ] configurar o parâmetros com as definições AAAAA e BBBBB
+     - [ ] configurar o sindicato com YYYY e JJJJ
+     - [ ] cadastrar empregado com data de admissão dd/mm/aaaa
+      * Obs.: Aqui tem que ser absolutamente tudo detalhado sem esquecer de nenhum detalhe.
 
 
    * Quando o teste feito sem resultado igual ao cliente.
      
-   - [ ] acessar banco do cliente
-   - [ ] acessar a empresa de código xxxx
-   - [ ] visulizar o processo A, B e C
+     - [ ] acessar banco do cliente
+     - [ ] acessar a empresa de código xxxx
+     - [ ] visulizar o processo A, B e C
 
 
 </details>
