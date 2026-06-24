@@ -35,104 +35,54 @@
 <p>Agora com tudo pronto, detalhado e em mãos, hora de abrir a SS.</p>
 
    <details>
-     <summary>Descrição detalhada:</summary>
-     *
-     *
+     <summary>Assunto</summary>
+     * Coloque informação curta que a pessoa ao ler vai saber do que se trata.
+     
    </details>
    <details>
    <summary>Descrição detalhada:</summary>
-     *
-     *
+     * Neste campo coloque a informação direta com o assunto que precisa ser tratado.
+     
 </details>
 <details>
    <summary>Detalhamento, testes e consultas:</summary>
-     *
-     *
+     * Aqui coloque tudo o que você viu no ambiente do cliente, em cópia do banco, pesquisas, testes no banco do cliente.
+     
 
 </details>
 <details>
    <summary>Passo a Passo para reproduzir:</summary>
-     *
-     *
+     * Caso tenha conseguido reproduzir no banco origem colocar o passo a passo de como a pessoa vai conseguir ter o mesmo resultado que você teve no que você fez no banco como exemplo:
+     
 </details>
 <details>
    <summary>Pergunta</summary>
-     *
-     *
+     * Colocar a pergunta direta do que você realmente precisa e como ajustar a situação.
+     
 </details>
 <details>
    <summary>Banco de dados</summary>
-     *
-     *
+* **Se cliente backup nuvem:**
+  * Colocar o link de acesso ao banco.
+  * Colocar a informação do backup completo.
+  * Colocar a informação do backup modificações.
+  * **Usuário:** GERENTE | **Senha:** ` ` | **Empresa:** (código) | **Empregado:** (código)
+
+* **Se backup local:**
+  * Colocar o caminho onde está o backup dentro do FTP.
+  * **Usuário:** GERENTE | **Senha:** ` ` | **Empresa:** (código) | **Empregado:** (código)
+
+---
+
+> 💡 **Importante:** Sempre colocar anexos para provar tudo o que você está questionando (não confiamos no cliente pois não sabemos o que o cliente efetivamente fez assim também é eles para com a gente).
+
    
 </details>
 </details>
 </h3>
 
 
-<h1 style="font-size: 6rem; margin: 0; letter-spacing: -2px; color: #71717a;">
-    <center><span style="color: #e65124;">FERRAMENTAS</span>
-  </h1></center>
-<h3>
-    <details>
-<summary>1º Físico</summary>
 
-* 1 laptop
-* 1 HeadSet
-* 1 Jogo de mouse/teclado
-* 1 monitor externo
-</details>
-
-<details>
-<summary>2º Comunicação</summary>
-
-* Teams
-* Telefone (GoTo)
-* Discord (sala virtual do departamento)
-</details>
-
-<details>
-<summary>3º Trabalho</summary>
-
-* SGD (site oficial de atendimentos do cliente)
-* IA's (chat gpt, copilot, gemini, ia sgd e etc...)
-</details>
-</h3>
-
-<h1 style="font-size: 6rem; margin: 0; letter-spacing: -2px; color: #71717a;">
-    <center><span style="color: #e65124;">FUNCOES</span>
-  </h1></center>
-
-<h3>Temos hoje 3 modalidades de atendimento sendo:    
-<details>    
-<summary>1º Atendimento Telefônico:</summary>
-
-Passos para atendimento telefônico:
- * Ouvir o cliente
- * Filtrar o que precisa ser tratado
- * Ser empático(a)
- * Registrar o atendimento no SGD 
-</details>
-
-<details>
-<summary>2º Atendimento via WEB</summary>
-Passos para atendimento WEB: 
-* Colocar o atendimento em análise (em ordem crescente de chegada);
-* Entender o que o cliente precisa (se necessário, realizar contato telefônico para melhor entendimento);
-* Fazer o retorno do atendimento ao cliente.
-
-</details>
-
-<details>
-<summary>3º Atendimento via CHAT Humanizado</summary>
-
-* Ler com atenção as informações apresentadas pelo cliente;
-* Identificar com clareza a necessidade do cliente (em caso de dúvidas, realizar questionamentos e solicitar informações complementares e imagens);
-* Solicitar a participação do cliente na pesquisa de satisfação ao final do atendimento;
-* Realizar a integração do atendimento com o SGD.
-
-</details>
-</h3>
 
 
 
