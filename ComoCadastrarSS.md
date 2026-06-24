@@ -42,6 +42,7 @@
 
      
    </details>
+   
    <details> 
 <summary>Descrição detalhada:</summary>
 
@@ -50,6 +51,7 @@
 
      
 </details>
+
 <details>
 <summary>Detalhamento, testes e consultas:</summary>
 
@@ -58,6 +60,7 @@
 
      
 </details>
+
 <details>
 <summary>Passo a Passo para reproduzir:</summary>
 
@@ -66,6 +69,7 @@
 
      
 </details>
+
 <details>
 <summary>Pergunta</summary>
 
@@ -74,6 +78,7 @@
 
      
 </details>
+
 <details>
 <summary>Banco de dados</summary>
     
@@ -98,6 +103,7 @@
    * - [ ] Empregado: (código)
      
 </details>
+
 </details>
 
 > 💡 **Importante:** Sempre colocar anexos para provar tudo o que você está questionando (não confiamos no cliente pois não sabemos o que o cliente efetivamente fez assim também é eles para com a gente).
