@@ -8,7 +8,7 @@
  * Anexar relatórios, telas e gravações dos erros dúvidas e questões apresentadas pelo cliente
  * Colher entre todas as outras informações, cópia do banco e a senha de acesso antes de abrir SS 
  
-    * Saudação por telefone:
+ * Saudação por telefone:
    - [ ] Resulta Soluções, seu nome. Bom dia, como posso ajudar?
 
  * Finalizando ligação com pesquisa de satisfação:
