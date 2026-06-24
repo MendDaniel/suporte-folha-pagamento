@@ -2,10 +2,14 @@
     <center><span style="color: #e65124;">INFORMAÇÕES BÁSICAS DO SUPORTE - ATENDIMENTO</span>
   </h1></center>
 
+
+
 <p><h3>Aqui estão as diretrizes operacionais, com a ortografia e a redação ajustadas para uma melhor clareza e conformidade com a norma culta da língua portuguesa:</p></h3>
 
 
 <h3>
+
+    
 * No cadastro da solicitação de suporte não usar o assunto a mesma informação (exata) no campo [Descrição], deixe informações distintas
    - [ ] Assunto: Algo direto e curto
    - [ ] Descrição: Informação mais completa e detalhada do que o cliente realmente precisa, finalizar sempre com pergunta
