@@ -1,5 +1,5 @@
 <h1 style="font-size: 6rem; margin: 0; letter-spacing: -2px; color: #71717a;">
-    <center><span style="color: #e65124;">COMO CADASTRAR SS</span>
+    <center><span style="color: #e65124;">TEXTOS PADRÕES DE USO NO SUPORTE</span>
   </h1></center>
 
 
