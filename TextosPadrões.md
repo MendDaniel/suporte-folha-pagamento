@@ -2,8 +2,12 @@
     <center><span style="color: #e65124;">COMO CADASTRAR SS</span>
   </h1></center>
 
-<h3>Para uma melhor experiência do cliente e assertividade na comunicação usamos alguns texto padrões como suporte em todos os atendimentos: 
 
+
+<p><h3>Para uma melhor experiência do cliente e assertividade na comunicação usamos alguns texto padrões como suporte em todos os atendimentos:</h3></p>
+
+
+<h3>
 <details>
 
 <summary>Final padrão de todo atendimento após detalhamento</summary>
@@ -24,18 +28,39 @@ Vale ressaltar que caso houver dúvidas, temos uma equipe de suporte na íntegra
 <a href="finalpadrao.txt" download="finalpadrao.txt">Baixar Texto Padrão</a>
 </p>
 </details>
+</h3>
 
+<h3>
 <details>
-<summary>2º Estuturando os dados para SS</summary>
+<summary>Melhorias (SAIL, SAM, NE e SAL)</summary>
 
 <p>Após os processos iniciais já conclusos ai sim vamos tratar as informações para abrir a SS.</p>
 
-* Coletar imagens e informações gerais pertinente ao assunto que será tratado
-* Deixar de fácil acesso os links de pesquisas da Central, SSC, SS e SA/NE
-* Deixar pronto por escrito passo a passo detalhadamente todos os testes realizados
-* Deixar detalhado tudo (mínimos detalhes) do que foi visto no ambiente do cliente e no banco teste (configurações, cadastros, sindicato, parâmetro e etc...)
+Prezado(a) [usuario]!
+
+Analisamos seu atendimento, compreendemos a importância e concluímos que será necessário realizar uma alteração em nosso sistema para atendê-lo de forma completa.
+
+No momento [COLOCAR O PALIATIVO PARA O CLIENTE].
+
+Definimos sua solicitação como melhoria, ou seja, um pedido que não possui exigência legal, mas, poderá melhorar ou incluir uma funcionalidade no sistema. Lembramos que não fornecemos prazo para resposta ou desenvolvimento, pois nossa prioridade é resolver os possíveis erros e alterações legais envolvendo os nossos sistemas.
+
+Caso a atualização for liberada contemplando sua solicitação, será enviando um e-mail para a sua empresa, enquanto isso você pode verificar este atendimento periodicamente.
+
+Vale ressaltar que caso houver dúvidas, temos uma equipe de suporte na íntegra a disposição para te auxiliar da melhor forma possível e estamos sempre a sua disposição.
+
+<em><b>Observação:</b> Possuímos a Central de Soluções no Domínio Atendimento que poderá lhe auxiliar em dúvidas relativas ao sistema, para maiores informações.<a href=' https://suporte.dominioatendimento.com:82/sgsc/faces/central-solucoes.html' target='_blank'><b>Clique aqui</a></b></em>
+<hr><hr>
+<center><img src="https://suporte.dominioatendimento.com:82/ckfiles/images/Links%20Importantes.png" style="width: 20px; height: 20px;"> Nosso atendimento de suporte é centralizado nestas 3 regiões, por favor entre em contato com qualquer um dos telefones abaixo:
+
+<p style="color:#ff8c00;">Umuarama: (44) 3056-1877 | Cascavel: (45) 3037-3187 | Pato Branco: (46) 3025-3500</p>
+[COLOCAR SEU NOME], Suporte Folha de Pagamento e Suporte técnico - eSocial | Resulta Soluções </center> 
+
+
+<p><a href="melhoria.txt" download="melhoria.txt">Baixar Texto Padrão</a></p>
   
 </details>
+</h3>
+
 
 <details>
 <summary>3º Cadstrar a SS</summary>
