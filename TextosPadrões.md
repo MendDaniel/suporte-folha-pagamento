@@ -34,8 +34,6 @@ Vale ressaltar que caso houver dúvidas, temos uma equipe de suporte na íntegra
 <details>
 <summary>Melhorias (SAIL, SAM, NE e SAL)</summary>
 
-<p>Após os processos iniciais já conclusos ai sim vamos tratar as informações para abrir a SS.</p>
-
 Prezado(a) [usuario]!
 
 Analisamos seu atendimento, compreendemos a importância e concluímos que será necessário realizar uma alteração em nosso sistema para atendê-lo de forma completa.
