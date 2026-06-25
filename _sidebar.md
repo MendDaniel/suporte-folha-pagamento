@@ -10,6 +10,6 @@
     * [Informações Básicas Suporte](/Informacoesbasicas.md)
     * [Textos Padrões](/TextosPadrões.md)
 * [Suporte - SSC - SS - SA|NE](#)
-    * [Como Cadastrar SSC](/ComoCadastrarSSC.md)
+    * [Como Cadastrar SSC](/cadastrossc.md)
     * [Quando cadastrar SS](/QuandoCadastrarSS.md)
     * [Como Cadastrar SS](/ComoCadastrarSS.md)  
