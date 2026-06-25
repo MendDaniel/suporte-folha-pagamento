@@ -21,6 +21,9 @@ Vale ressaltar que caso houver dúvidas, temos uma equipe de suporte na íntegra
 [colocar seu nome], Suporte Folha de Pagamento | Suporte técnico - eSocial | Resulta Soluções </span></center> 
 <hr><hr>
 
+
+<a href="finalpadrao.txt" download="finalpadrao.txt">Baixar Texto Padrão</a>
+
 </details>
 
 <details>
