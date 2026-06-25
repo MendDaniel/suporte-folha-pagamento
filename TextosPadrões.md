@@ -76,7 +76,7 @@ Por favor, confirme sua autorização copiando a frase abaixo e colando com a si
 <center><img src=""https://suporte.dominioatendimento.com:82/ckfiles/images/Links%20Importantes.png"" style=""width: 20px; height: 20px;""> Nosso atendimento de suporte é centralizado nestas 3 regiões, por favor entre em contato com qualquer um dos telefones abaixo:
 
 <p style=""color:#ff8c00;""><b>Umuarama: (44) 3056-1877 | Cascavel: (45) 3037-3187 | Pato Branco: (46) 3025-3500 | GERAL: (44) 3771-2000</b></p>
-Daniel de Mendonça Pinto, Supervisor Folha de Pagamento | Suporte técnico - eSocial | Resulta Soluções | Umuarama - PR <b>(44)3056-1877</b> Folha de Pagamento.</center> 
+[COLOCAR SEU NOME], Suporte Folha de Pagamento e Suporte técnico - eSocial | Resulta Soluções</center> 
 
 </font>
 
