@@ -16,10 +16,4 @@ A partir do momento em que você ouviu o cliente, entendeu, fez conexão, pesqui
 A partir daqui já não temos mais por que ficar parados com o atendimento, seguimos então para o direcionamento do atenidmento para o suporte 2º nível.
   </p>
 
-  <div style="text-align: left;">
-    <a href="[https://dominiosistemas.learning.rocks/contents/1358024?ref=spaces&ref_detail=136485](https://dominiosistemas.atenalms.com.br/missions/ywIUa9pMgUiewkq9eqO1)" target="_blank" style="font-size: 1.4rem; color: #e65124; font-weight: bold; text-decoration: underline;">
-      Acessar Treinamento: Práticas do Departamento Pessoal
-    </a>
-  </div>
-
 </div>
