@@ -1,0 +1,16 @@
+<font size = '3'>Prezado(a) [usuario]!
+
+Obrigado(a) por seu contato. 
+
+Conforme contato telefônico informamos que para dar continuidade ao atendimento, será necessário abrir um acesso remoto ao seu equipamento para acesso visual.
+
+Por favor, confirme sua autorização copiando a frase abaixo e colando com a situação ""Aguardando Resposta do Suporte"" para que possamos prosseguir com o acesso remoto devidamente supervisionado por você.
+<hr><p style='margin-left: 30px;'><font color = 'green'>
+<b><u>Olá! Autorizo a conexão em meu equipamento para acesso visual.</u></b></p></font>
+<hr><hr>
+<center><img src=""https://suporte.dominioatendimento.com:82/ckfiles/images/Links%20Importantes.png"" style=""width: 20px; height: 20px;""> Nosso atendimento de suporte é centralizado nestas 3 regiões, por favor entre em contato com qualquer um dos telefones abaixo:
+
+<p style=""color:#ff8c00;""><b>Umuarama: (44) 3056-1877 | Cascavel: (45) 3037-3187 | Pato Branco: (46) 3025-3500 | GERAL: (44) 3771-2000</b></p>
+[COLOQUE SEU NOME], Suporte Folha de Pagamento e Suporte técnico - eSocial | Resulta Soluções</center> 
+<hr><hr>
+</font>
