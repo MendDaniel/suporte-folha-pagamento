@@ -20,9 +20,9 @@ Vale ressaltar que caso houver dúvidas, temos uma equipe de suporte na íntegra
 <p style=""color:#ff8c00;""><b><span style="color:#fa6400">Umuarama: (44) 3056-1877 | Cascavel: (45) 3037-3187 | Pato Branco: (46) 3025-3500 | GERAL: (44) 3771-2000</b></p>
 [colocar seu nome], Suporte Folha de Pagamento | Suporte técnico - eSocial | Resulta Soluções </span></center> 
 
-
+<p>
 <a href="finalpadrao.txt" download="finalpadrao.txt">Baixar Texto Padrão</a>
-
+</p>
 </details>
 
 <details>
