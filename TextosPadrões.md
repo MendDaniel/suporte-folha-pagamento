@@ -5,7 +5,9 @@
 <h3>Para uma melhor experiência do cliente e assertividade na comunicação usamos alguns texto padrões como suporte em todos os atendimentos: 
 
 <details>
+
 <summary>Final padrão de todo atendimento após detalhamento</summary>
+
 
 Sendo assim, favor avaliar a situação e caso de duvidas referente a este atendimento, peço que me retorne por intermédio desta Solicitação de Suporte para que possamos dar continuidade neste atendimento.
 
