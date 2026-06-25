@@ -59,102 +59,28 @@ Vale ressaltar que caso houver dúvidas, temos uma equipe de suporte na íntegra
 </details>
 </h3>
 
-
+<h3>
 <details>
-<summary>3º Cadstrar a SS</summary>
+<summary>Solicitar Conexão Remota para o cliente</summary>
 
-<p>Agora com tudo pronto, detalhado e em mãos, hora de abrir a SS.</p>
+<font size = '3'>Prezado(a) [usuario]!
 
-   <details>
-<summary>Assunto</summary>
+Obrigado(a) por seu contato. 
+
+Conforme contato telefônico informamos que Para dar continuidade ao atendimento, será necessário abrir um acesso remoto ao seu equipamento para acesso visual.
+
+Por favor, confirme sua autorização copiando a frase abaixo e colando com a situação ""Aguardando Resposta do Suporte"" para que possamos prosseguir com o acesso remoto devidamente supervisionado por você.
+<hr><p style='margin-left: 30px;'><font color = 'green'>
+<b><u>Olá! Autorizo a conexão em meu equipamento para acesso visual.</u></b></p></font>
+
+<center><img src=""https://suporte.dominioatendimento.com:82/ckfiles/images/Links%20Importantes.png"" style=""width: 20px; height: 20px;""> Nosso atendimento de suporte é centralizado nestas 3 regiões, por favor entre em contato com qualquer um dos telefones abaixo:
+
+<p style=""color:#ff8c00;""><b>Umuarama: (44) 3056-1877 | Cascavel: (45) 3037-3187 | Pato Branco: (46) 3025-3500 | GERAL: (44) 3771-2000</b></p>
+Daniel de Mendonça Pinto, Supervisor Folha de Pagamento | Suporte técnico - eSocial | Resulta Soluções | Umuarama - PR <b>(44)3056-1877</b> Folha de Pagamento.</center> 
+
+</font>
 
 
-   * Coloque informação curta que a pessoa ao ler vai saber do que se trata.
-
-
-   </details>
-
-   <details> 
-<summary>Descrição detalhada:</summary>
-
-
-   * Neste campo coloque a informação direta com o assunto que precisa ser tratado.
-
-
+<p><a href="conexao.txt" download="conexao.txt">Baixar Texto Padrão</a></p>
 </details>
-
-<details>
-<summary>Detalhamento, testes e consultas:</summary>
-
-
-  * Aqui coloque tudo o que você viu no ambiente do cliente, em cópia do banco, pesquisas, testes no banco do cliente.
-
-
-</details>
-
-<details>
-<summary>Passo a Passo para reproduzir:</summary>
-
-
-  * Caso tenha conseguido reproduzir no banco origem colocar o passo a passo de como a pessoa vai conseguir ter o mesmo resultado que você teve no que você fez no banco como exemplo:
-   
-   * Quando o teste foi reproduzido na unidade.
-
-
-     - [ ] cadastrar uma empresa com início em dd/mm/aaaa
-     - [ ] configurar o parâmetros com as definições AAAAA e BBBBB
-     - [ ] configurar o sindicato com YYYY e JJJJ
-     - [ ] cadastrar empregado com data de admissão dd/mm/aaaa
-      * Obs.: Aqui tem que ser absolutamente tudo detalhado sem esquecer de nenhum detalhe.
-
-
-   * Quando o teste feito sem resultado igual ao cliente.
-
-
-     - [ ] acessar banco do cliente
-     - [ ] acessar a empresa de código xxxx
-     - [ ] visulizar o processo A, B e C
-
-
-</details>
-
-<details>
-<summary>Pergunta</summary>
-
-
-  * Colocar a pergunta direta do que você realmente precisa e como ajustar a situação.
-
-
-</details>
-
-<details>
-<summary>Banco de dados</summary>
-
-
-<p>Se cliente backup nuvem:</p>
-
-
-   * - [ ] Colocar o link de acesso ao banco.
-   * - [ ] Colocar a informação do backup completo.
-   * - [ ] Colocar a informação do backup modificações.
-   * - [ ] Usuário: GERENTE 
-   * - [ ] Senha: 
-   * - [ ] Empresa: (código)  
-   * - [ ] Empregado: (código)
-
-
-<p>Se backup local:</p>
-
-
-   * - [ ] Colocar o caminho onde está o backup dentro do FTP.
-   * - [ ] Usuário: GERENTE 
-   * - [ ] Senha: 
-   * - [ ] Empresa: (código)  
-   * - [ ] Empregado: (código)
-
-</details>
-
-</details>
-
-> 💡 **Importante:** Sempre colocar anexos para provar tudo o que você está questionando (não confiamos no cliente pois não sabemos o que o cliente efetivamente fez assim também é eles para com a gente).
 </h3>
