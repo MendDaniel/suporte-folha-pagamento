@@ -94,14 +94,11 @@
       
    <p style="margin-top: 15px;">[ ] Caso tenha, sempre solicitar para o administrativo se pode seguir com o suporte, fazer o contato via telefone e mandar o código e nome do cliente no teams da pessoa;</p>
 
-   <div style="background-color: #e65124; color: #ffffff; padding: 15px; border-radius: 8px; font-weight: bold; margin-top: 10px;">
-        <ul style="list-style: none; padding: 0; margin: 0;">
-          Maria Isabella
-        <ul style="list-style: none; padding: 0; margin: 0;">
-          Ana Cristina
-        <ul style="list-style: none; padding: 0; margin: 0;">
-          Thatiane Struckel
-        </ul>
+<p align="center" style="margin: 30px 0 !important;">
+  <span style="display: inline-block !important; background-color: #e65124 !important; padding: 12px 25px !important; margin: 0 10px !important; border-radius: 8px !important; font-weight: bold !important; color: #ffffff !important; box-shadow: 0 4px 6px rgba(0,0,0,0.4) !important;">Maria Isabela</span>
+  <span style="display: inline-block !important; background-color: #e65124 !important; padding: 12px 25px !important; margin: 0 10px !important; border-radius: 8px !important; font-weight: bold !important; color: #ffffff !important; box-shadow: 0 4px 6px rgba(0,0,0,0.4) !important;">Ana Cristina</span>
+  <span style="display: inline-block !important; background-color: #e65124 !important; padding: 12px 25px !important; margin: 0 10px !important; border-radius: 8px !important; font-weight: bold !important; color: #ffffff !important; box-shadow: 0 4px 6px rgba(0,0,0,0.4) !important;">Thatiane Struckel</span>
+</p>
       </div>
     </details>
   </div>
