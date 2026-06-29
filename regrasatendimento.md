@@ -33,6 +33,9 @@ Aqui estão as diretrizes operacionais, com a ortografia e a redação ajustadas
      * O técnico está em treinamento;
      * O técnico está em afastamento;
      * O técnico está offline no painel do telefone.
+
+* CLASSIFICAR A LIGAÇÃO DO CLIENTE NO GOTO ANTES DE DESLIGAR A LIGAÇÃO COM O CLIENTE
+  
  </details>
 </h3>
 
