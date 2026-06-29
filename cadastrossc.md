@@ -139,8 +139,14 @@
     COMO CADASTRAR SSC
   </h1>
 
-  <div style="font-size: 1.6rem; color: #374151; line-height: 1.8; margin-bottom: 40px;">
-    <p><strong>Como seguir o processo de abrir uma SS?</strong></p>
+   <ul style="list-style: none; padding: 0;">
+      <li style="margin-bottom: 20px;"><strong>Dentro do SGD:</strong>
+        <ul style="list-style: none; padding-left: 20px;">
+          <li style="margin-bottom: 10px;">[ ] Pesquisar o nome do cliente</li>
+          <li style="margin-bottom: 10px;">[ ] Acessar a opção "Detalhes" para visualizar se tem alguma anotação no cadastro do cliente em vermelho</li>
+        </ul>
+      </li>
+   </ul>
 
   <details style="margin-left: 20px; border: 1px solid #ccc; padding: 15px; border-radius: 8px;">
     <summary style="cursor: pointer; font-weight: bold; font-size: 1.4rem; color: #e65124;">Caso tenha anotação em vermelho</summary>
