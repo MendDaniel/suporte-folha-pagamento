@@ -3,7 +3,7 @@
   <h1 style="font-size: 3.5rem; color: #e65124; text-align: center; margin-bottom: 50px;">
     COMO CADASTRAR SSC
   </h1>
-
+<h3>
   <div style="font-size: 1.2rem; line-height: 1.6;">
     <p><strong>Dentro do SGD:</strong></p>
     <ul style="list-style: none; padding-left: 20px;">
@@ -28,7 +28,7 @@
         </div>
         <div style="flex: 1; border: 2px solid #374151; border-radius: 8px; padding: 20px;">
           <h3 style="color: #374151; margin-top: 0;">Devolutiva Negativa (parar suporte)</h3>
-          <p>Transferir a ligação para o administrativo que deu a devolutiva negativa de suporte.</p>
+          <p>* Transferir a ligação para o administrativo que deu a devolutiva negativa de suporte.</p>
         </div>
       </div>
     </details>
@@ -43,11 +43,11 @@
       <div style="display: flex; gap: 20px; align-items: stretch; margin-top: 15px;">
         <div style="flex: 1; border: 2px solid #e65124; border-radius: 8px; padding: 20px;">
           <h3 style="color: #e65124; margin-top: 0;">Se Atendimento já aberto</h3>
-          <p>1º Verificar disponibilidade do técnico no GoTo.<br>2º Transferir ligação e enviar link no TEAMS.<br>3º Caso indisponível, avisar o cliente e registrar na comunicação interna.<br>4º Solicitar retorno no ONVIO.</p>
+          <p>* Verificar disponibilidade do técnico no GoTo.<br>* Transferir ligação e enviar link no TEAMS.<br>* Caso indisponível, avisar o cliente e registrar na comunicação interna.<br>* Solicitar retorno no ONVIO.</p>
         </div>
         <div style="flex: 1; border: 2px solid #374151; border-radius: 8px; padding: 20px;">
           <h3 style="color: #374151; margin-top: 0;">Não encontrado atendimento</h3>
-          <p>1º Iniciar atendimento seguindo os padrões de suporte.<br>2º Gravar em "Análise" e seguir o processo normal.</p>
+          <p>1º Iniciar atendimento seguindo os padrões de suporte.<br>* Gravar em "Análise" e seguir o processo normal.</p>
         </div>
       </div>
     </details>
@@ -57,3 +57,4 @@
   </p>
   </div>
 </div>
+</h3>
