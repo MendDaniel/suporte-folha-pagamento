@@ -14,11 +14,9 @@
   <details>
     <summary>Detalhes - Cadastro</summary>
 
-
-     - [ ] Assunto: Algo direto e curto
-     - [ ] Descrição: Informação mais completa e detalhada do que o cliente realmente precisa, finalizar sempre com pergunta
-     - [ ] Obs.: Lembre que você está sendo a mão do cliente digitando ao abrir o atendimento para o cliente com o usuário do cliente
-
+    - [ ] Assunto: Algo direto e curto
+    - [ ] Descrição: Informação mais completa e detalhada do que o cliente realmente precisa, finalizar sempre com pergunta
+    - [ ] Obs.: Lembre que você está sendo a mão do cliente digitando ao abrir o atendimento para o cliente com o usuário do cliente
 
    </details>
 
@@ -34,10 +32,9 @@
    <details>
     <summary>Detalhes - Finalização</summary>
 
-
-     - [ ] Qualquer dúvida nova, pode entrar em contato, estou a disposição para ajudar. 
-     - [ ] Nosso atendimento está aberto e com isso vou responder para você no ONVIO, havendo dúvida pode me retornar no próprio atendimento que aparecendo aqui no meu painel sua resposta eu já vejo e faço um retorno.
-     - [ ] Caso tenha finalizado e não restou dúvida sobre o que tratamos, vou pedir a gentileza para concluir o atendimento no ONVIO sinalizando que de tudo certo.
+    - [ ] Qualquer dúvida nova, pode entrar em contato, estou a disposição para ajudar. 
+    - [ ] Nosso atendimento está aberto e com isso vou responder para você no ONVIO, havendo dúvida pode me retornar no próprio atendimento que aparecendo aqui no meu painel sua resposta eu já vejo e faço um retorno.
+    - [ ] Caso tenha finalizado e não restou dúvida sobre o que tratamos, vou pedir a gentileza para concluir o atendimento no ONVIO sinalizando que de tudo certo.
 
 
   </details>
