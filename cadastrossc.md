@@ -69,3 +69,32 @@ A partir do momento em que você ouviu o cliente, entendeu, fez conexão, pesqui
 
   </p>
 </div>
+
+
+
+
+
+
+
+<div style="font-family: sans-serif; padding: 40px; max-width: 1200px; margin: 0 auto; color: #374151;">
+
+  <h1 style="font-size: 3.5rem; color: #e65124; text-align: center; margin-bottom: 50px;">
+    COMO CADASTRAR SSC
+  </h1>
+
+  <div style="font-size: 1.2rem; line-height: 1.8;">
+    <p>Vamos entender o momento exato de enviar o atendimento para análise do suporte 2º nível.</p>
+  <!-- Use UL para listas -->
+  <ul style="list-style: none; padding: 0;">
+      <li><input type="checkbox"> Pesquisar o nome do cliente</li>
+      <li><input type="checkbox"> Acessar a opção "Detalhes"...</li>
+    </ul>
+    <details style="margin: 20px 0; border: 1px solid #ccc; padding: 10px;">
+      <summary style="cursor: pointer; font-weight: bold;">Caso tenha anotação em vermelho</summary>
+      <ul style="list-style: none; padding-left: 20px;">
+        <li><input type="checkbox"> Solicitar para o administrativo...</li>
+        <li><input type="checkbox"> Coletar imagem da autorização...</li>
+      </ul>
+    </details>
+  </div>
+</div>
