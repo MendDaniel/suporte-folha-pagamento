@@ -47,7 +47,7 @@ A partir do momento em que você ouviu o cliente, entendeu, fez conexão, pesqui
      
     - [ ] Consultar se tem algum atendimento já aberto para o cliente com o mesmo assunto ou assunto relacionado
 
-   <details>
+     <details>
      
       <summary>Caso tenha atendimento aberto</summary>
       
