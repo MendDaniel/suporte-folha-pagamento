@@ -5,23 +5,20 @@
   </h1>
 
   <p style="font-size: 1.6rem; color: #374151; line-height: 1.8; margin-bottom: 40px; text-align: justify;"></p>
-Vamos entender o  momento exato de enviar o atendimento para análise do suporte 2º nível. 
-
-A partir do momento em que você ouviu o cliente, entendeu, fez conexão, pesquisou e a situação não foi resolvida temos os balisadores abaixo: 
+Como seguir o processo de abrir uma SS? 
 
  * Dentro do SGD:
     - [ ] Pesquisar o nome do cliente
     - [ ] Acessar a opção "Detalhes" para visualizar de tem alguma anotação no cadastro do cliente em vermelho
 
-
-      <details>
-        <summary>Caso tenha anotação em vermelho</summary>
+        <details>
+          <summary>Caso tenha anotação em vermelho</summary>
 
 
          [ ] Caso tenha, sempre solicitar para o administrativo se pode seguir com o suporte, fazer o contato via telefone e mandar o código e nome do cliente no teams da pessoa;
 
 
-         <details>
+       <details>
                 <summary>Pessoas</summary>
 
          * Thatiane Struckel
@@ -71,41 +68,3 @@ A partir do momento em que você ouviu o cliente, entendeu, fez conexão, pesqui
 </div>
 
 
-
-
-
-
-<div style="font-family: sans-serif; padding: 40px; max-width: 1200px; margin: 0 auto; color: #e5e7eb; background-color: #111827;">
-
-  <h1 style="font-size: 2.5rem; color: #fff; border-bottom: 1px solid #374151; padding-bottom: 10px; margin-bottom: 20px;">
-    COMO CADASTRAR SSC
-  </h1>
-
-  <div style="font-size: 1.1rem; line-height: 1.6;">
-    <p>Vamos entender o momento exato de enviar o atendimento para análise do suporte 2º nível.</p>
-    <p style="margin-bottom: 20px;">A partir do momento em que você ouviu o cliente, entendeu, fez conexão, pesquisou e a situação não foi resolvida temos os balisadores abaixo:</p>
-
-   <ul style="list-style: none; padding: 0;">
-      <li style="margin-bottom: 15px;">• Dentro do SGD:</li>
-      <li style="margin-left: 20px; margin-bottom: 10px;">&#9632; Pesquisar o nome do cliente</li>
-      <li style="margin-left: 20px; margin-bottom: 10px;">&#9632; Acessar a opção "Detalhes" para visualizar de tem alguma anotação no cadastro do cliente em vermelho</li>
-      <!-- Seção Caso tenha anotação -->
-      <li style="margin-left: 40px; margin-bottom: 10px;">&#9660; Caso tenha anotação em vermelho</li>
-      <li style="margin-left: 60px; margin-bottom: 5px;">[ ] Caso tenha, sempre solicitar para o administrativo se pode seguir com o suporte, fazer o contato via telefone e mandar o código e nome do cliente no teams da pessoa;</li>
-      <li style="margin-left: 60px; margin-bottom: 5px;">&#9654; Pessoas</li>
-      <li style="margin-left: 60px; margin-bottom: 5px;">[ ] No caso de uma devolutiva positiva no telefone, solicitar a pessoa para fazer o retorno também por escrito no teams</li>
-      <li style="margin-left: 60px; margin-bottom: 5px;">[ ] Coletar uma imagem da autorização por escrito no teams com a pessoa onde seja possível visualizar o código e nome do cliente com a autorização por escrito do administrativo</li>
-      <li style="margin-left: 60px; margin-bottom: 5px;">[ ] Fazer um trâmite em análise técnico no atendimento com a imagem que tirou em anexo e a frase abaixo:</li>
-      <li style="margin-left: 60px; margin-bottom: 20px;">[ ] Sequencia no atendimento após liberação concedida pelo departamento adminstrativo</li>
-      <li style="margin-left: 20px; margin-bottom: 10px;">&#9632; Consultar se tem algum atendimento já aberto para o cliente com o mesmo assunto ou assunto relacionado</li>
-      <!-- Seção Caso tenha atendimento aberto -->
-      <li style="margin-left: 40px; margin-bottom: 10px;">&#9660; Caso tenha atendimento aberto</li>
-      <li style="margin-left: 60px; margin-bottom: 5px;">[ ] Caso tenha atendimento já iniciado, falar para o cliente que encontrou o atendimento já em andamento sobre o assunto para aguardar um instante</li>
-      <li style="margin-left: 60px; margin-bottom: 5px;">[ ] Procurar no GoTo se o técnico que iniciou o atendimento está com ramal disponível:</li>
-      <li style="margin-left: 80px; margin-bottom: 5px;">[ ] - Se disponível: Avisar o cliente que irá transferir o atendimento para o técnico inicial para seguir a situação junto com o cliente para aguardar na linha enquanto transfere</li>
-      <li style="margin-left: 80px; margin-bottom: 20px;">[ ] - Se indisponível: Avisar o técnico no TEAMS enviando o link do atendimnento mencionando que o cliente fez contato para seguir o atendimento. Após, avisar o cliente que o técnico está indisponível e que foi contactado na comunicação interna para o técnico retornar assim que possível e questionar se tem alguma coisa no momento diferente do inicial que consegue ajudar, se sim, seguir com o cliente</li>
-      <li style="margin-left: 20px; margin-bottom: 10px;">&#9632; Não havendo atendimento já iniciado, cadastrar um novo atendimento deixando os campos "Assunto" e "Descrição" com informações em detalhes diferentes lembrando que, assunto é algo direto e curto, detalhamento é algo mais completo e robusto</li>
-      <li style="margin-left: 20px; margin-bottom: 10px;">&#9632; Gravar o atendimento em análise e seguir com o cliente seja em conexão remota (se necessário pedir autorização por escrito no atendimento [ver texto padrão]), se não for necessário conexão seguir com instrução orientativa via ligação</li>
-    </ul>
-  </div>
-</div>
