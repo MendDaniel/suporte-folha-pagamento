@@ -76,9 +76,6 @@
     COMO CADASTRAR SSC
   </h1>
 
-  <div style="font-size: 1.6rem; color: #374151; line-height: 1.8; margin-bottom: 40px;">
-    <p><strong>Como seguir o processo de abrir uma SS?</strong></p>
-
    <ul style="list-style: none; padding: 0;">
       <li style="margin-bottom: 20px;"><strong>Dentro do SGD:</strong>
         <ul style="list-style: none; padding-left: 20px;">
@@ -117,4 +114,60 @@
    </div>
   </details>
  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="font-family: sans-serif; padding: 40px; max-width: 1200px; margin: 0 auto;">
+
+  <h1 style="font-size: 3.5rem; color: #e65124; text-align: center; margin-bottom: 50px;">
+    COMO CADASTRAR SSC
+  </h1>
+
+  <div style="font-size: 1.6rem; color: #374151; line-height: 1.8; margin-bottom: 40px;">
+    <p><strong>Como seguir o processo de abrir uma SS?</strong></p>
+
+  <details style="margin-left: 20px; border: 1px solid #ccc; padding: 15px; border-radius: 8px;">
+    <summary style="cursor: pointer; font-weight: bold; font-size: 1.4rem; color: #e65124;">Caso tenha anotação em vermelho</summary>
+      
+   <p style="margin-top: 15px;">[ ] Caso tenha, sempre solicitar para o administrativo se pode seguir com o suporte, fazer o contato via telefone e mandar o código e nome do cliente no teams da pessoa;</p>
+      <p align="center" style="margin: 20px 0;">
+        <span style="display: inline-block; background-color: #e65124; padding: 10px 20px; margin: 5px; border-radius: 8px; font-weight: bold; color: #ffffff;">Maria Isabela</span>
+        <span style="display: inline-block; background-color: #e65124; padding: 10px 20px; margin: 5px; border-radius: 8px; font-weight: bold; color: #ffffff;">Ana Cristina</span>
+        <span style="display: inline-block; background-color: #e65124; padding: 10px 20px; margin: 5px; border-radius: 8px; font-weight: bold; color: #ffffff;">Thatiane Struckel</span>
+      </p>
+      <div style="display: flex; gap: 20px; align-items: stretch;">
+        <div style="flex: 1; border: 2px solid #e65124; border-radius: 8px; padding: 20px; display: flex; flex-direction: column;">
+          <h3 style="color: #e65124; margin-top: 0;">Devolutiva Positiva (seguir suporte)</h3>
+          <p style="font-size: 1.1rem; line-height: 1.5; flex-grow: 1;">
+            * Solicitar a informação por escrito no TEAMS<br>
+            * Coletar imagem da mensagem no TEAMS via printscreen<br>
+            * Fazer um trâmite em análise técnico com a mensagem abaixo<br>
+            * [ ] Dando sequencia no atendimento após autorização do departamento administrativo (colocar a imagem em anexo)
+          </p>
+        </div>
+        <div style="flex: 1; border: 2px solid #374151; border-radius: 8px; padding: 20px; display: flex; flex-direction: column;">
+          <h3 style="color: #374151; margin-top: 0;">Devolutiva Negativa (parar suporte)</h3>
+          <p style="font-size: 1.1rem; line-height: 1.5; flex-grow: 1;">
+            Transferir a ligação para o administrativo que deu a devolutiva negativa de suporte
+          </p>
+        </div>
+      </div>
+   </details>
+  </div>
 </div>
