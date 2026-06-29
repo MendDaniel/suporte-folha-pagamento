@@ -11,14 +11,14 @@
 
     
 * No cadastro da solicitação de suporte não usar o assunto a mesma informação (exata) no campo [Descrição], deixe informações distintas
-  <details>
+<details>
       <summary>Detalhes - Cadastro</summary>
       
    - [ ] Assunto: Algo direto e curto
    - [ ] Descrição: Informação mais completa e detalhada do que o cliente realmente precisa, finalizar sempre com pergunta
    - [ ] Obs.: Lembre que você está sendo a mão do cliente digitando ao abrir o atendimento para o cliente com o usuário do cliente
 
-   </details>
+</details>
  * Toda SSC deve ser tramitada de modo que esteja claro o problema/dúvida do cliente e a solução que foi aplicada para resolver o atendimento
  * Anexar relatórios, telas e gravações dos erros dúvidas e questões apresentadas pelo cliente
  * Colher entre todas as outras informações, cópia do banco e a senha de acesso antes de abrir SS 
@@ -27,8 +27,12 @@
    - [ ] Resulta Soluções, seu nome. Bom dia, como posso ajudar?
 
  * Finalizando ligação com pesquisa de satisfação:
+<details>
+    <summary>Detalhes - Finalização</summary>
+    
    - [ ] Qualquer dúvida nova, pode entrar em contato, estou a disposição para ajudar. 
    - [ ] Nosso atendimento está aberto e com isso vou responder para você no ONVIO, havendo dúvida pode me retornar no próprio atendimento que aparecendo aqui no meu painel sua resposta eu já vejo e faço um retorno.
-   - [ ] Caso tenha finalizado e não restou dúvida sobre o que tratamos, vou pedir a gentileza para concluir o atendimento no ONVIO sinalizando que de tudo certo. 
+   - [ ] Caso tenha finalizado e não restou dúvida sobre o que tratamos, vou pedir a gentileza para concluir o atendimento no ONVIO sinalizando que de tudo certo.
 
+</details>
 </h3>
