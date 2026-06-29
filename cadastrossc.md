@@ -15,7 +15,7 @@
         <summary>Caso tenha anotação em vermelho</summary>
 
 
-      [ ] Caso tenha, sempre solicitar para o administrativo se pode seguir com o suporte, fazer o contato via telefone e mandar o código e nome do cliente no teams da pessoa;
+         [ ] Caso tenha, sempre solicitar para o administrativo se pode seguir com o suporte, fazer o contato via telefone e mandar o código e nome do cliente no teams da pessoa;
 
          * Thatiane Struckel
 
@@ -33,7 +33,6 @@
          [ ] Sequencia no atendimento após liberação concedida pelo departamento adminstrativo
 
 
-     </details>
      </details>
 
 
