@@ -13,10 +13,8 @@ A partir do momento em que você ouviu o cliente, entendeu, fez conexão, pesqui
     - [ ] Pesquisar o nome do cliente
     - [ ] Acessar a opção "Detalhes" para visualizar de tem alguma anotação no cadastro do cliente em vermelho
 
-   <details>
-     
-   <p><summary>Caso tenha anotação em vermelho</summary></p>
-      
+<details>
+<p><summary>Caso tenha anotação em vermelho</summary></p>
       * Caso tenha, sempre solicitar para o administrativo se pode seguir com o suporte, fazer o contato via telefone e mandar o código e nome do cliente no teams da pessoa;
                 * Pessoas: Maria Isabela, Ana Cristina ou Thatiane Struckel
            * No caso de uma devolutiva positiva no telefone, solicitar a pessoa para fazer o retorno também por escrito no teams
