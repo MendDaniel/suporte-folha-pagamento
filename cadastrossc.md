@@ -96,9 +96,11 @@
 
    <div style="background-color: #e65124; color: #ffffff; padding: 15px; border-radius: 8px; font-weight: bold; margin-top: 10px;">
         <ul style="list-style: none; padding: 0; margin: 0;">
-          Thatiane Struckel
-          Ana Cristina
           Maria Isabella
+        <ul style="list-style: none; padding: 0; margin: 0;">
+          Ana Cristina
+        <ul style="list-style: none; padding: 0; margin: 0;">
+          Thatiane Struckel
         </ul>
       </div>
     </details>
