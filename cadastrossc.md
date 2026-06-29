@@ -88,13 +88,12 @@
       </li>
    </ul>
 
- <!-- Início da seção ajustada -->
+ 
    <details style="margin-left: 20px; border: 1px solid #ccc; padding: 15px; border-radius: 8px;">
       <summary style="cursor: pointer; font-weight: bold; font-size: 1.4rem; color: #e65124;">Caso tenha anotação em vermelho</summary>
       
    <p style="margin-top: 15px;">[ ] Caso tenha, sempre solicitar para o administrativo se pode seguir com o suporte, fazer o contato via telefone e mandar o código e nome do cliente no teams da pessoa;</p>
 
-     <!-- Caixa Laranja para as Pessoas -->
    <div style="background-color: #e65124; color: #ffffff; padding: 15px; border-radius: 8px; font-weight: bold; margin-top: 10px;">
         <ul style="list-style: none; padding: 0; margin: 0;">
           <li>Thatiane Struckel</li>
