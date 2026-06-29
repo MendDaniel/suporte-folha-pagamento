@@ -18,9 +18,9 @@
       
    <p style="margin-top: 15px;">[ ] Caso tenha, sempre solicitar para o administrativo se pode seguir com o suporte, fazer o contato via telefone e mandar o código e nome do cliente no teams da pessoa;</p>
       <p align="center" style="margin: 20px 0;">
-        <span style="display: inline-block; background-color: #e65124; padding: 10px 20px; margin: 5px; border-radius: 8px; font-weight: bold; color: #ffffff;">Maria Isabela</span>
-        <span style="display: inline-block; background-color: #e65124; padding: 10px 20px; margin: 5px; border-radius: 8px; font-weight: bold; color: #ffffff;">Ana Cristina</span>
-        <span style="display: inline-block; background-color: #e65124; padding: 10px 20px; margin: 5px; border-radius: 8px; font-weight: bold; color: #ffffff;">Thatiane Struckel</span>
+        <span style="display: inline-block; background-color: #e65124; padding: 10px 20px; margin: 5px; border-radius: 8px; font-weight: bold; color: #ffffff;">1º Maria Isabela</span>
+        <span style="display: inline-block; background-color: #e65124; padding: 10px 20px; margin: 5px; border-radius: 8px; font-weight: bold; color: #ffffff;">2º Ana Cristina</span>
+        <span style="display: inline-block; background-color: #e65124; padding: 10px 20px; margin: 5px; border-radius: 8px; font-weight: bold; color: #ffffff;">3º Thatiane Struckel</span>
       </p>
       <div style="display: flex; gap: 20px; align-items: stretch;">
         <div style="flex: 1; border: 2px solid #e65124; border-radius: 8px; padding: 20px; display: flex; flex-direction: column;">
@@ -48,30 +48,30 @@
 <details style="margin-left: 20px; border: 1px solid #ccc; padding: 15px; border-radius: 8px;">
   <summary style="cursor: pointer; font-weight: bold; font-size: 1.4rem; color: #e65124;">Ao consutar atendimento pendente</summary>
 
-  <div style="display: flex; gap: 20px; align-items: stretch;">
-   <div style="flex: 1; border: 2px solid #e65124; border-radius: 8px; padding: 20px; display: flex; flex-direction: column;">
-          <h3 style="color: #e65124; margin-top: 0;">Se Atendimento já aberto</h3>
-          <p style="font-size: 1.1rem; line-height: 1.5; flex-grow: 1;">
+<div style="display: flex; gap: 20px; align-items: stretch;">
+ <div style="flex: 1; border: 2px solid #e65124; border-radius: 8px; padding: 20px; display: flex; flex-direction: column;">
+   <h3 style="color: #e65124; margin-top: 0;">Se Atendimento já aberto</h3>
+     <p style="font-size: 1.1rem; line-height: 1.5; flex-grow: 1;">
             1º Procurar ver se o técnico que iniciou a situação com o cliente está disponível no GoTo
             2º Caso sim, transferir a ligação assistido e enviar no TEAMS do técnico destino o link do atendimento que ele deverá seguir
             3º Caso não esteja disponível, avisar o cliente que o técnico não está disponível e que o técnico irá retornar assim que possível pois já notificou o técnico na comunicação interna
             4º Solicitar ao cliente que se possível também fazer um retorno no atendimento no ONVIO para entrar no nosso painel de retorno do cliente
-          </p>
-        </div>
-        <div style="flex: 1; border: 2px solid #374151; border-radius: 8px; padding: 20px; display: flex; flex-direction: column;">
-          <h3 style="color: #374151; margin-top: 0;">Não encontrado atendimento já iniciado</h3>
-          <p style="font-size: 1.1rem; line-height: 1.5; flex-grow: 1;">
+      </p>
+    </div>
+ <div style="flex: 1; border: 2px solid #374151; border-radius: 8px; padding: 20px; display: flex; flex-direction: column;">
+   <h3 style="color: #374151; margin-top: 0;">Não encontrado atendimento já iniciado</h3>
+    <p style="font-size: 1.1rem; line-height: 1.5; flex-grow: 1;">
             1º Iniciar atendimento seguindo os padrões de suporte
             2º Gravar o atendimento em Análise e seguir com o processo normal de atendimento
-       </p>
-    </div>
+    </p>
+ </div>
 </details>
 Ob.: Antes de transferir ou encerrar questionar o cliente se tem algo diferente do já visto que consiga ajudar o cliente para caso positivo consiga cadastrar nova SSC no SGD. 
-          </ul>
-      </li>
+      </ul>
+    </li>
    </ul>
-      </div>
-   </details>
-   </h3>
-  </div>
+ </div>
+</details>
+</h3>
+</div>
 </div>
