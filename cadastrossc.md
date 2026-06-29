@@ -18,12 +18,16 @@ A partir do momento em que você ouviu o cliente, entendeu, fez conexão, pesqui
         <summary>Caso tenha anotação em vermelho</summary>
 
 
-         * Caso tenha, sempre solicitar para o administrativo se pode seguir com o suporte, fazer o contato via telefone e mandar o código e nome do cliente no teams da pessoa;
-                * Pessoas: Maria Isabela, Ana Cristina ou Thatiane Struckel
-          * No caso de uma devolutiva positiva no telefone, solicitar a pessoa para fazer o retorno também por escrito no teams
-          * Coletar uma imagem da autorização por escrito no teams com a pessoa onde seja possível visualizar o código e nome do cliente com a autorização por escrito do administrativo
-          * Fazer um trâmite em análise técnico no atendimento com a imagem que tirou em anexo e a frase abaixo:
-          * Sequencia no atendimento após liberação concedida pelo departamento adminstrativo
+         [ ] Caso tenha, sempre solicitar para o administrativo se pode seguir com o suporte, fazer o contato via telefone e mandar o código e nome do cliente no teams da pessoa;
+           * Pessoas: Maria Isabela, Ana Cristina ou Thatiane Struckel
+  
+         [ ] No caso de uma devolutiva positiva no telefone, solicitar a pessoa para fazer o retorno também por escrito no teams
+
+         [ ] Coletar uma imagem da autorização por escrito no teams com a pessoa onde seja possível visualizar o código e nome do cliente com a autorização por escrito do administrativo
+
+         [ ] Fazer um trâmite em análise técnico no atendimento com a imagem que tirou em anexo e a frase abaixo:
+
+         [ ] Sequencia no atendimento após liberação concedida pelo departamento adminstrativo
 
 
      </details>
