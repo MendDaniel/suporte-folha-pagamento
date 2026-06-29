@@ -98,8 +98,9 @@ Por não ter o backup nuvem é necessário a disponibilização da cópia do ban
 
 <img alt="Link" src="https://sgd.dominiosistemas.com.br/ckfiles/images/ui-expressive-55x55-15(7).png" style="width: 25px; height: 25px; vertical-align: middle;"><a href="https://suporte.dominioatendimento.com/central/faces/solucao.html?codigo=5628" target="_blank" rel="noopener noreferrer" style="color: rgb(255, 128, 0);"><b>Após instalação do programa TOOLS, clique aqui para acessar a instrução de envio </b></a>
 
-<span style="color: rgb(255, 128, 0); font-size: 12px; display: inline-flex; align-items: center; gap: 5px; vertical-align: middle;"><span style="font-size: 20px; line-height: 1;"></span><strong>Caminho: /clientes/temporario/INSIRA O CÓDIGO</strong>
-</span>
+<h4><span style="color: rgb(255, 128, 0); font-size: 12px; display: inline-flex; align-items: center; gap: 5px; vertical-align: middle;"><span style="font-size: 20px; line-height: 1;"></span><strong>
+Caminho: /clientes/temporario/INSIRA O CÓDIGO</strong>
+</span></h4>
  
 Caso tenha qualquer dificuldade no upload do banco, me avise por aqui. Se o envio for concluído com sucesso, por favor, confirme o término neste atendimento.
  
