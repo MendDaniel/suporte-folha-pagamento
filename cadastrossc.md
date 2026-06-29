@@ -51,9 +51,9 @@ A partir do momento em que você ouviu o cliente, entendeu, fez conexão, pesqui
       <p><summary>Caso tenha atendimento aberto</summary></p>
 
       * Caso tenha atendimento já iniciado, falar para o cliente que encontrou o atendimento já em andamento sobre o assunto para aguardar um instante
-             * Procurar no GoTo se o técnico que iniciou o atendimento está com ramal disponível:
-                * - Se disponível: Avisar o cliente que irá transferir o atendimento para o técnico inicial para seguir a situação junto com o cliente para aguardar na linha enquanto transfere
-                * - Se indisponível: Avisar o técnico no TEAMS enviando o link do atendimnento mencionando que o cliente fez contato para seguir o atendimento. Após, avisar o cliente que o técnico está indisponível e que foi contactado na comunicação interna para o técnico retornar assim que possível e questionar se tem alguma coisa no momento diferente do inicial que consegue ajudar, se sim, seguir com o cliente
+      * Procurar no GoTo se o técnico que iniciou o atendimento está com ramal disponível:
+      * - Se disponível: Avisar o cliente que irá transferir o atendimento para o técnico inicial para seguir a situação junto com o cliente para aguardar na linha enquanto transfere
+      * - Se indisponível: Avisar o técnico no TEAMS enviando o link do atendimnento mencionando que o cliente fez contato para seguir o atendimento. Após, avisar o cliente que o técnico está indisponível e que foi contactado na comunicação interna para o técnico retornar assim que possível e questionar se tem alguma coisa no momento diferente do inicial que consegue ajudar, se sim, seguir com o cliente
 
     </details>
 
