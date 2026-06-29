@@ -3,7 +3,7 @@
   <h1 style="font-size: 3.5rem; color: #e65124; text-align: center; margin-bottom: 50px;">
    QUANDO CADASTRAR SS
   </h1>
-
+<h3>
   <p style="font-size: 1.6rem; color: #374151; line-height: 1.8; margin-bottom: 40px; text-align: justify;">
 Vamos entender o  momento exato de enviar o atendimento para análise do suporte 2º nível. 
 
@@ -17,3 +17,4 @@ A partir daqui já não temos mais por que ficar parados com o atendimento, segu
   </p>
 
 </div>
+</h3>
