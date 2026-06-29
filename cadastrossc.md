@@ -28,6 +28,8 @@ A partir do momento em que você ouviu o cliente, entendeu, fez conexão, pesqui
         * Ana Cristina
 
         * Maria Isabella
+         
+         </details>
   
           
          [ ] No caso de uma devolutiva positiva no telefone, solicitar a pessoa para fazer o retorno também por escrito no teams
@@ -39,7 +41,8 @@ A partir do momento em que você ouviu o cliente, entendeu, fez conexão, pesqui
          [ ] Sequencia no atendimento após liberação concedida pelo departamento adminstrativo
 
 
-     </details>         </details>
+     </details>
+
      
     - [ ] Consultar se tem algum atendimento já aberto para o cliente com o mesmo assunto ou assunto relacionado
 
