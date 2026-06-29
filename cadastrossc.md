@@ -138,7 +138,7 @@
   <h1 style="font-size: 3.5rem; color: #e65124; text-align: center; margin-bottom: 50px;">
     COMO CADASTRAR SSC
   </h1>
-
+<h3>
    <ul style="list-style: none; padding: 0;">
       <li style="margin-bottom: 20px;"><strong>Dentro do SGD:</strong>
         <ul style="list-style: none; padding-left: 20px;">
@@ -173,7 +173,36 @@
             Transferir a ligação para o administrativo que deu a devolutiva negativa de suporte
           </p>
         </div>
+        </details>
+           <ul style="list-style: none; padding: 0;">
+              <ul style="list-style: none; padding-left: 20px;">
+          <li style="margin-bottom: 10px;">[ ] Consultar se tem algum atendimento já aberto para o cliente com o mesmo assunto ou assunto relacionado</li>
+          <li style="margin-bottom: 10px;">[ ] Fazer questionamentos para o cliente para ter certeza de que a situação que você está falando com ele é algo relacionado ao atendimento encontrado</li>
+                <details style="margin-left: 20px; border: 1px solid #ccc; padding: 15px; border-radius: 8px;">
+                 <summary style="cursor: pointer; font-weight: bold; font-size: 1.4rem; color: #e65124;">Ao consutar atendimento pendente</summary>
+                        <div style="display: flex; gap: 20px; align-items: stretch;">
+        <div style="flex: 1; border: 2px solid #e65124; border-radius: 8px; padding: 20px; display: flex; flex-direction: column;">
+          <h3 style="color: #e65124; margin-top: 0;">Se Atendimento já aberto</h3>
+          <p style="font-size: 1.1rem; line-height: 1.5; flex-grow: 1;">
+            1º Procurar ver se o técnico que iniciou a situação com o cliente está disponível no GoTo
+            2º Caso sim, transferir a ligação assistido e enviar no TEAMS do técnico destino o link do atendimento que ele deverá seguir
+            3º Caso não esteja disponível, avisar o cliente que o técnico não está disponível e que o técnico irá retornar assim que possível pois já notificou o técnico na comunicação interna
+            4º Solicitar ao cliente que se possível também fazer um retorno no atendimento no ONVIO para entrar no nosso painel de retorno do cliente
+          </p>
+        </div>
+        <div style="flex: 1; border: 2px solid #374151; border-radius: 8px; padding: 20px; display: flex; flex-direction: column;">
+          <h3 style="color: #374151; margin-top: 0;">Não encontrado atendimento já iniciado</h3>
+          <p style="font-size: 1.1rem; line-height: 1.5; flex-grow: 1;">
+            1º Iniciar atendimento seguindo os padrões de suporte
+          </p>
+          Ob.: Antes de transferir ou encerrar questionar o cliente se tem algo diferente do já visto que consiga ajudar o cliente para caso positivo consiga cadastrar nova SSC no SGD. 
+        </div>
+        </details>
+          </ul>
+      </li>
+   </ul>
       </div>
    </details>
+   </h3>
   </div>
 </div>
