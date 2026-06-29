@@ -10,13 +10,13 @@
 <h3>
 
 * No cadastro da solicitação de suporte não usar o assunto a mesma informação (exata) no campo [Descrição], deixe informações distintas
-
-  <details>
+ 
+   <details>
     <summary>Detalhes - Cadastro</summary>
-
-    - [ ] Assunto: Algo direto e curto
-    - [ ] Descrição: Informação mais completa e detalhada do que o cliente realmente precisa, finalizar sempre com pergunta
-    - [ ] Obs.: Lembre que você está sendo a mão do cliente digitando ao abrir o atendimento para o cliente com o usuário do cliente
+       
+     - [ ] Assunto: Algo direto e curto
+     - [ ] Descrição: Informação mais completa e detalhada do que o cliente realmente precisa, finalizar sempre com pergunta
+     - [ ] Obs.: Lembre que você está sendo a mão do cliente digitando ao abrir o atendimento para o cliente com o usuário do cliente
 
    </details>
 
