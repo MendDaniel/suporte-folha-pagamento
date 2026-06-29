@@ -47,8 +47,9 @@
 
 <details style="margin-left: 20px; border: 1px solid #ccc; padding: 15px; border-radius: 8px;">
   <summary style="cursor: pointer; font-weight: bold; font-size: 1.4rem; color: #e65124;">Ao consutar atendimento pendente</summary>
-     <div style="display: flex; gap: 20px; align-items: stretch;">
-      <div style="flex: 1; border: 2px solid #e65124; border-radius: 8px; padding: 20px; display: flex; flex-direction: column;">
+
+  <div style="display: flex; gap: 20px; align-items: stretch;">
+   <div style="flex: 1; border: 2px solid #e65124; border-radius: 8px; padding: 20px; display: flex; flex-direction: column;">
           <h3 style="color: #e65124; margin-top: 0;">Se Atendimento já aberto</h3>
           <p style="font-size: 1.1rem; line-height: 1.5; flex-grow: 1;">
             1º Procurar ver se o técnico que iniciou a situação com o cliente está disponível no GoTo
