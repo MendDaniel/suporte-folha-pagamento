@@ -99,6 +99,20 @@
   <span style="display: inline-block !important; background-color: #e65124 !important; padding: 12px 25px !important; margin: 0 10px !important; border-radius: 8px !important; font-weight: bold !important; color: #ffffff !important; box-shadow: 0 4px 6px rgba(0,0,0,0.4) !important;">Ana Cristina</span>
   <span style="display: inline-block !important; background-color: #e65124 !important; padding: 12px 25px !important; margin: 0 10px !important; border-radius: 8px !important; font-weight: bold !important; color: #ffffff !important; box-shadow: 0 4px 6px rgba(0,0,0,0.4) !important;">Thatiane Struckel</span>
 </p>
+
+<div style="flex: 1; border: 2px solid #e65124; border-radius: 8px; padding: 20px;">
+        <h3 style="color: #e65124; margin-top: 0;">Devolutiva Positiva (seguir suporte)</h3>
+        <p> * Solicitar a informação por escrito no TEAMS
+            * Coletar imagem da mensagem no TEAMS via printscreean
+            * Fazer um trâmite em análise técnico com a mensagem abaixo
+              * [ ] Dando sequencia no atendimento após autorização do departamento administrativo (colocar a imagem em anexo)
+        </p>
+      </div>
+
+<div style="flex: 1; border: 2px solid #374151; border-radius: 8px; padding: 20px;">
+        <h3 style="color: #374151; margin-top: 0;">Devolutiva Negativa (parar suporte)</h3>
+        <p>Transferir a ligação para o adminstrativo que deu a devolutiva negativa de suporte</p>
+      </div>
       </div>
     </details>
   </div>
