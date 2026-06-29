@@ -80,7 +80,7 @@
     <p><strong>Como seguir o processo de abrir uma SS?</strong></p>
 
    <ul style="list-style: none; padding: 0;">
-      <p><li style="margin-bottom: 20px;"><strong> Dentro do SGD:</strong></p>
+      <p><style="margin-bottom: 20px;"><strong>Dentro do SGD:</strong></p>
         <ul style="list-style: none; padding-left: 20px;">
           <li style="margin-bottom: 10px;">[ ] Pesquisar o nome do cliente</li>
           <li style="margin-bottom: 10px;">[ ] Acessar a opção "Detalhes" para visualizar se tem alguma anotação no cadastro do cliente em vermelho</li>
@@ -96,7 +96,7 @@
 
    <div style="background-color: #e65124; color: #ffffff; padding: 15px; border-radius: 8px; font-weight: bold; margin-top: 10px;">
         <ul style="list-style: none; padding: 0; margin: 0;">
-          <li>Thatiane Struckel</li>
+          Thatiane Struckel
           <li>Ana Cristina</li>
           <li>Maria Isabella</li>
         </ul>
