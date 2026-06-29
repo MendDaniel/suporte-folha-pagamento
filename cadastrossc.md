@@ -37,7 +37,7 @@
          [ ] Sequencia no atendimento após liberação concedida pelo departamento adminstrativo
 
 
-     </details>
+     </details></details>
 
 
     - [ ] Consultar se tem algum atendimento já aberto para o cliente com o mesmo assunto ou assunto relacionado
