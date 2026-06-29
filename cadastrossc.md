@@ -15,7 +15,6 @@ A partir do momento em que você ouviu o cliente, entendeu, fez conexão, pesqui
 
 
       <details>
-
         <summary>Caso tenha anotação em vermelho</summary>
 
 
