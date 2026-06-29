@@ -48,8 +48,9 @@ A partir do momento em que você ouviu o cliente, entendeu, fez conexão, pesqui
     - [ ] Consultar se tem algum atendimento já aberto para o cliente com o mesmo assunto ou assunto relacionado
 
 
-     <details>
-      <summary>Caso tenha atendimento aberto</summary>
+
+      <details>
+        <summary>Caso tenha atendimento aberto</summary>
       
       [ ] Caso tenha atendimento já iniciado, falar para o cliente que encontrou o atendimento já em andamento sobre o assunto para aguardar um instante
       
@@ -59,7 +60,9 @@ A partir do momento em que você ouviu o cliente, entendeu, fez conexão, pesqui
       
       [ ] - Se indisponível: Avisar o técnico no TEAMS enviando o link do atendimnento mencionando que o cliente fez contato para seguir o atendimento. Após, avisar o cliente que o técnico está indisponível e que foi contactado na comunicação interna para o técnico retornar assim que possível e questionar se tem alguma coisa no momento diferente do inicial que consegue ajudar, se sim, seguir com o cliente
 
-   </details>
+
+     </details>
+
 
 
     - [ ] Não havendo atendimento já iniciado, cadastrar um novo atendimento deixando os campos "Assunto" e "Descrição" com informações em detalhes diferentes lembrando que, assunto é algo direto e curto, detalhamento é algo mais completo e robusto
