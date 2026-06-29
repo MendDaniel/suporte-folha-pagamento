@@ -11,9 +11,14 @@
 
     
 * No cadastro da solicitação de suporte não usar o assunto a mesma informação (exata) no campo [Descrição], deixe informações distintas
+  <details>
+      <summary>Detalhes - Cadastro</summary>
+      
    - [ ] Assunto: Algo direto e curto
    - [ ] Descrição: Informação mais completa e detalhada do que o cliente realmente precisa, finalizar sempre com pergunta
-        - [ ] Obs.: Lembre que você está sendo a mão do cliente digitando ao abrir o atendimento para o cliente com o usuário do cliente
+   - [ ] Obs.: Lembre que você está sendo a mão do cliente digitando ao abrir o atendimento para o cliente com o usuário do cliente
+
+   </details>
  * Toda SSC deve ser tramitada de modo que esteja claro o problema/dúvida do cliente e a solução que foi aplicada para resolver o atendimento
  * Anexar relatórios, telas e gravações dos erros dúvidas e questões apresentadas pelo cliente
  * Colher entre todas as outras informações, cópia do banco e a senha de acesso antes de abrir SS 
