@@ -22,9 +22,11 @@ A partir do momento em que você ouviu o cliente, entendeu, fez conexão, pesqui
 
          <details>
                 <summary>Pessoas</summary>
-                    * Thatiane Struckel
-                    * Ana Cristina
-                    * Maria Isabella
+        * Thatiane Struckel
+                    
+        * Ana Cristina
+
+        * Maria Isabella
   
           
          </details>
