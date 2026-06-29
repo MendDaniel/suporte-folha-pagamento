@@ -17,16 +17,12 @@
 
       [ ] Caso tenha, sempre solicitar para o administrativo se pode seguir com o suporte, fazer o contato via telefone e mandar o código e nome do cliente no teams da pessoa;
 
-         <details>
-          <summary>Pessoas</summary>
-
          * Thatiane Struckel
 
          * Ana Cristina
 
          * Maria Isabella
 
-         </details>
         
          [ ] No caso de uma devolutiva positiva no telefone, solicitar a pessoa para fazer o retorno também por escrito no teams
 
