@@ -11,7 +11,6 @@
       <li style="margin-bottom: 10px;">[ ] Acessar a opção "Detalhes" para visualizar se tem alguma anotação no cadastro do cliente em vermelho</li>
     </ul>
 
-    <!-- Seção: Anotação em vermelho -->
    <details style="margin-bottom: 20px; border: 1px solid #ccc; padding: 15px; border-radius: 8px;">
       <summary style="cursor: pointer; font-weight: bold; font-size: 1.4rem; color: #e65124;">Caso tenha anotação em vermelho</summary>
       <p style="margin-top: 15px;">[ ] Caso tenha, sempre solicitar para o administrativo se pode seguir com o suporte, fazer o contato via telefone e mandar o código e nome do cliente no teams da pessoa;</p>
@@ -34,7 +33,6 @@
       </div>
     </details>
 
-    <!-- Seção: Atendimento Pendente -->
    <ul style="list-style: none; padding: 0;">
       <li style="margin-bottom: 10px;">[ ] Consultar se tem algum atendimento já aberto para o cliente com o mesmo assunto.</li>
       <li style="margin-bottom: 10px;">[ ] Questionar o cliente para confirmar se a situação é relacionada ao atendimento encontrado.</li>
