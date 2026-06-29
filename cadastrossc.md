@@ -4,7 +4,7 @@
    COMO CADASTRAR SSC
   </h1>
 
-<h4>  <p style="font-size: 1.6rem; color: #374151; line-height: 1.8; margin-bottom: 40px; text-align: justify;"></p>
+<h3>  <p style="font-size: 1.6rem; color: #374151; line-height: 1.8; margin-bottom: 40px; text-align: justify;"></p>
 <p>Como seguir o processo de abrir uma SS? </p>
 
  * Dentro do SGD:
@@ -65,5 +65,5 @@
 
   
 </div>
-</h4>
+</h3>
 
