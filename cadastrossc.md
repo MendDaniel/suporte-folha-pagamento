@@ -4,7 +4,7 @@
    COMO CADASTRAR SSC
   </h1>
 
-  <p style="font-size: 1.6rem; color: #374151; line-height: 1.8; margin-bottom: 40px; text-align: justify;">
+  <p style="font-size: 1.6rem; color: #374151; line-height: 1.8; margin-bottom: 40px; text-align: justify;"></p>
 Vamos entender o  momento exato de enviar o atendimento para análise do suporte 2º nível. 
 
 A partir do momento em que você ouviu o cliente, entendeu, fez conexão, pesquisou e a situação não foi resolvida temos os balisadores abaixo: 
@@ -67,7 +67,7 @@ A partir do momento em que você ouviu o cliente, entendeu, fez conexão, pesqui
     - [ ] Gravar o atendimento em análise e seguir com o cliente seja em conexão remota (se necessário pedir autorização por escrito no atendimento [ver texto padrão]), se não for necessário conexão seguir com instrução orientativa via ligação
 
 
-  </p>
+  
 </div>
 
 
