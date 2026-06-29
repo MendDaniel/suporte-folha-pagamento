@@ -28,8 +28,7 @@ Como seguir o processo de abrir uma SS?
          * Maria Isabella
 
          </details>
-
-
+        
          [ ] No caso de uma devolutiva positiva no telefone, solicitar a pessoa para fazer o retorno também por escrito no teams
 
          [ ] Coletar uma imagem da autorização por escrito no teams com a pessoa onde seja possível visualizar o código e nome do cliente com a autorização por escrito do administrativo
