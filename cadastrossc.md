@@ -12,13 +12,13 @@
     - [ ] Acessar a opção "Detalhes" para visualizar de tem alguma anotação no cadastro do cliente em vermelho
 
         <details>
-          <summary>Caso tenha anotação em vermelho</summary>
+        <summary>Caso tenha anotação em vermelho</summary>
 
       [ ] Caso tenha, sempre solicitar para o administrativo se pode seguir com o suporte, fazer o contato via telefone e mandar o código e nome do cliente no teams da pessoa;
 
 
-       <details>
-        <summary>Pessoas</summary>
+         <details>
+          <summary>Pessoas</summary>
 
          * Thatiane Struckel
 
@@ -37,7 +37,8 @@
          [ ] Sequencia no atendimento após liberação concedida pelo departamento adminstrativo
 
 
-     </details></details>
+     </details>
+     </details>
 
 
     - [ ] Consultar se tem algum atendimento já aberto para o cliente com o mesmo assunto ou assunto relacionado
