@@ -60,3 +60,48 @@
 </div>
 </h3>
 
+
+
+
+
+
+
+
+
+
+
+<div style="font-family: sans-serif; padding: 40px; max-width: 1200px; margin: 0 auto;">
+
+  <h1 style="font-size: 3.5rem; color: #e65124; text-align: center; margin-bottom: 50px;">
+    COMO CADASTRAR SSC
+  </h1>
+
+  <div style="font-size: 1.6rem; color: #374151; line-height: 1.8; margin-bottom: 40px;">
+    <p><strong>Como seguir o processo de abrir uma SS?</strong></p>
+
+   <ul style="list-style: none; padding: 0;">
+      <li style="margin-bottom: 20px;"><strong>* Dentro do SGD:</strong>
+        <ul style="list-style: none; padding-left: 20px;">
+          <li style="margin-bottom: 10px;">[ ] Pesquisar o nome do cliente</li>
+          <li style="margin-bottom: 10px;">[ ] Acessar a opção "Detalhes" para visualizar se tem alguma anotação no cadastro do cliente em vermelho</li>
+        </ul>
+      </li>
+   </ul>
+
+ <!-- Início da seção ajustada -->
+   <details style="margin-left: 20px; border: 1px solid #ccc; padding: 15px; border-radius: 8px;">
+      <summary style="cursor: pointer; font-weight: bold; font-size: 1.4rem; color: #e65124;">Caso tenha anotação em vermelho</summary>
+      
+   <p style="margin-top: 15px;">[ ] Caso tenha, sempre solicitar para o administrativo se pode seguir com o suporte, fazer o contato via telefone e mandar o código e nome do cliente no teams da pessoa;</p>
+
+     <!-- Caixa Laranja para as Pessoas -->
+   <div style="background-color: #e65124; color: #ffffff; padding: 15px; border-radius: 8px; font-weight: bold; margin-top: 10px;">
+        <ul style="list-style: none; padding: 0; margin: 0;">
+          <li>Thatiane Struckel</li>
+          <li>Ana Cristina</li>
+          <li>Maria Isabella</li>
+        </ul>
+      </div>
+    </details>
+  </div>
+</div>
