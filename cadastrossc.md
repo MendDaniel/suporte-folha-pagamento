@@ -30,10 +30,6 @@ A partir do momento em que você ouviu o cliente, entendeu, fez conexão, pesqui
         * Maria Isabella
   
           
-         </details>
-
-
-
          [ ] No caso de uma devolutiva positiva no telefone, solicitar a pessoa para fazer o retorno também por escrito no teams
 
          [ ] Coletar uma imagem da autorização por escrito no teams com a pessoa onde seja possível visualizar o código e nome do cliente com a autorização por escrito do administrativo
@@ -43,7 +39,7 @@ A partir do momento em que você ouviu o cliente, entendeu, fez conexão, pesqui
          [ ] Sequencia no atendimento após liberação concedida pelo departamento adminstrativo
 
 
-     </details>
+     </details>         </details>
      
     - [ ] Consultar se tem algum atendimento já aberto para o cliente com o mesmo assunto ou assunto relacionado
 
