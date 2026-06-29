@@ -49,7 +49,7 @@ A partir do momento em que você ouviu o cliente, entendeu, fez conexão, pesqui
 
    <details>
      
-      <p><summary>Caso tenha atendimento aberto</summary></p>
+      <summary>Caso tenha atendimento aberto</summary>
       
       [ ] Caso tenha atendimento já iniciado, falar para o cliente que encontrou o atendimento já em andamento sobre o assunto para aguardar um instante
       
