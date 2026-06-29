@@ -12,6 +12,7 @@ A partir do momento em que você ouviu o cliente, entendeu, fez conexão, pesqui
  * Dentro do SGD:
     - [ ] Pesquisar o nome do cliente
     - [ ] Acessar a opção "Detalhes" para visualizar de tem alguma anotação no cadastro do cliente em vermelho
+
    <details>
      
      <p><summary>Caso tenha anotação em vermelho</summary></p>
@@ -25,6 +26,8 @@ A partir do momento em que você ouviu o cliente, entendeu, fez conexão, pesqui
      </details>
      
     - [ ] Consultar se tem algum atendimento já aberto para o cliente com o mesmo assunto ou assunto relacionado
+      
+       
        <details>
      
      <p><summary>Caso tenha anotação em vermelho</summary></p>
